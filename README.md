@@ -6,4 +6,5 @@ This service provides the retrieval functionality that returns news articles as 
 
 <div align="center"><img src="img/frapi_tech_stack.png" alt="Factiva Retrieval API Tech Stack" width="400"></div>
 
+## Where to start?
 The notebook [1_get_chunks](1_get_chunks.ipynb) shows the step by step process of retrieving content and process an answer using Google Gemini by consuming a Google Cloud Vertex AI endpoint.
