@@ -4,6 +4,6 @@ This repository contains a set of Jupyter Notebooks and other assets that walk t
 ## Factiva Retrival API Overview
 This service provides the retrieval functionality that returns news articles as part of the trusted data sources in a RAG stack. This is an intermediate step in a fully grounded Question-Answer solution based on LLMs.
 
-![Factiva Retrieval API Tech Stack](img/frapi_tech_stack.png | width=250)
+<div align="center"><img src="img/frapi_tech_stack.png" alt="Factiva Retrieval API Tech Stack" width="400"></div>
 
 The notebook [1_get_chunks](1_get_chunks.ipynb) shows the step by step process of retrieving content and process an answer using Google Gemini by consuming a Google Cloud Vertex AI endpoint.
