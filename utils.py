@@ -1,7 +1,9 @@
 import requests as r
 import json
+import copy
 from google import genai
 from google.genai import types
+from IPython.display import Markdown
 
 # Authentication functions
 
@@ -41,6 +43,33 @@ def get_bearer_token(client_id, username, password, auth_url) -> str:
 
     return bearer_token
 
+
+def print_full_chunks(chunks_list):
+    for article in chunks_list:
+        display(Markdown(f"### {article['attributes']['headline']['main']['text']}"))
+        display(Markdown(f"**{article['meta']['source']['name']}** - {article['attributes']['publication_date']} - {article['meta']['original_doc_id']} - Lang: {article['meta']['language']['code']}"))
+        display(Markdown(f"{article['attributes']['snippet']['content'][0]['text']} {article['attributes']['content'][0]['text']}"))
+        display(Markdown(f"---"))
+
+
+def print_partial_chunks(chunks_list):
+    for article in chunks_list:
+        display(Markdown(f"### {article['attributes']['headline']['main']['text']}"))
+        display(Markdown(f"**{article['meta']['source']['name']}** - {article['attributes']['publication_date']} - {article['meta']['original_doc_id']} - Lang: {article['meta']['language']['code']}"))
+        display(Markdown(f"{article['attributes']['snippet']['content'][0]['text']} {article['attributes']['content'][0]['text']})"[:150] + "..."))
+        display(Markdown(f"---"))
+
+
+def print_full_llm_prompt(llm_prompt):
+    print(json.dumps(llm_prompt, indent=4))
+
+
+def print_partial_llm_prompt(llm_prompt):
+    llm_prompt_copy = copy.deepcopy(llm_prompt)
+    for article in llm_prompt_copy['articles']:
+        article['content'] = article['content'][:150] + "..."
+    print(json.dumps(llm_prompt_copy, indent=4))
+    
 
 def gemini_generate(gemini_prompt, gproject, glocation) -> str:
   
