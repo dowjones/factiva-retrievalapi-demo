@@ -76,7 +76,7 @@ def gemini_generate(gemini_prompt, gproject, glocation) -> str:
     client = genai.Client(
         vertexai=True,
         project=gproject,
-        location=glocation,
+        location=glocation
     )
 
     text1 = types.Part.from_text(text=json.dumps(gemini_prompt))
