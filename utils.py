@@ -71,7 +71,7 @@ def print_partial_llm_prompt(llm_prompt):
     print(json.dumps(llm_prompt_copy, indent=4))
     
 
-def gemini_generate(gemini_prompt, gproject, glocation) -> str:
+def gemini_generate(gemini_prompt, gproject, glocation, gmodel) -> str:
   
     client = genai.Client(
         vertexai=True,
@@ -81,7 +81,7 @@ def gemini_generate(gemini_prompt, gproject, glocation) -> str:
 
     text1 = types.Part.from_text(text=json.dumps(gemini_prompt))
 
-    model = "gemini-2.0-flash-001"
+    model = gmodel
     contents = [
         types.Content(
         role="user",
