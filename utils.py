@@ -1,6 +1,8 @@
 import requests as r
 import json
 import copy
+import hashlib
+import uuid
 from google import genai
 from google.genai import types
 from IPython.display import Markdown
@@ -120,3 +122,27 @@ def gemini_generate(gemini_prompt, gproject, glocation, gmodel) -> str:
         response += chunk.text
         
     return response
+
+
+def md5_hash(input_string: str) -> str:
+    """
+    Calculate the MD5 hash of a given string.
+
+    Args:
+        input_string (str): The input string to hash.
+
+    Returns:
+        str: The MD5 hash of the input string.
+    """
+    md5_hash = hashlib.md5(input_string.encode('utf-8')).hexdigest()
+    return md5_hash
+
+
+def generate_random_guid() -> str:
+    """
+    Generate a random GUID.
+
+    Returns:
+        str: A randomly generated GUID.
+    """
+    return str(uuid.uuid4()).replace("-", "")
