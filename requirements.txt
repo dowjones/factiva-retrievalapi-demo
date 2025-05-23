@@ -3,3 +3,4 @@ python-dotenv
 ipython
 ipykernel
 google-genai
+pandas
