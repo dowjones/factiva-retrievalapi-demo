@@ -1,0 +1,507 @@
+[
+    {
+        "meta": {
+            "original_doc_id": "DJDN000020250508el58004jd",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "djdn",
+                "name": "Dow Jones Institutional News"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250508el58004jd"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "Al Root"
+                    },
+                    {
+                        "text": "Tesla stock rose Thursday as President Donald Trump's trade deal with the U.K. showed where policy might be headed."
+                    },
+                    {
+                        "text": "Tesla stock added 3.1% on Thursday, closing at $284.82, while the S&P 500 and Dow Jones Industrial Average gained ..."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+            },
+            "content_type": "Article",
+            "load_time": "2025-05-08T20:25:01.266Z",
+            "modification_date": "2025-05-08",
+            "publication_date": "2025-05-08",
+            "load_date": "2025-05-08",
+            "headline": {
+                "main": {
+                    "text": "                           Tesla Stock Got a Lift From Trump's Trade Deal -- Barrons.com"
+                }
+            },
+            "modification_time": "2025-05-08T20:24:27.000Z",
+            "content": [
+                {
+                    "text": "Tesla Stock Got a Lift From Trump's Trade Deal -- Barrons.com Al Root Tesla stock rose Thursday as President Donald Trump's trade deal with the U.K. showed where policy might be headed. Tesla stock added 3.1% on Thursday, closing at $284.82, while the S&P 500 and Dow Jones Industrial Average gained about 0.6%. The market jumped after details emerged of the president's trade deal with the U.K. It includes smaller tariffs on imports of vehicles from Britain, as well as lower U.K. levies on U.S. cars. Lower tariffs are a boon for all auto makers. General Motors stock rose 4.1%. Stellantis shares gained 4.7%. Ford Motors shares were up most of the day but closed flat. The new deal doesn't solve all the problems the industry faces. Even if U.S.-made cars face lower tariffs, they still are being made with parts that cost more than peers are paying due to tariffs. A car built in Japan with Vietnamese parts sent to the U.K. will be tough for an American auto maker to compete with. Still, the relief of some trade pressure is a positive, though investors are still pondering when pressure on the Tesla brand resulting from CEO Elon Musk's political activities will ease. There isn't much evidence of that. Tesla sales in Germany fell 46% year over year in April. That's an improvement from the first quarter when sales fell 62% year over year. Still, going from down 62% to down 46% doesn't qualify as a recovery. Tesla management even referenced brand image \"challenges\" on their first-quarter-earnings conference call. On that call, Musk said he would spend less time in Washington with the Department of Government Efficiency, or DOGE, and more time in Texas at Tesla's headquarters. How that decision is carried out, and what impact it will have on Tesla remains to be seen. Tesla doesn't have brand-image issues in China, but Trump's trade war has Chinese car buyers favoring local models, according to Wall Street analysts. That is starting to have an impact. Domestic sales data tracked by Citi's Jeff Chung show that over the past five weeks ending May 4, Tesla's sales in China were down about 15% year over year. Tesla's Chinese sales were down about 2% in the first quarter of 2025. April isn't looking good in the U.S., either. On Wednesday, The Wall Street Journal reported U.S. electric-vehicle sales fell 5% year over year in April, citing data from Motor Intelligence, with Tesla down 13%. Tesla sales in the U.S. fell 8.6% in the first quarter, according to Cox Automotive. Despite weakening sales, Tesla shares were up 55% over the 12 months heading into Thursday's trading. That gain is despite estimates for 2025 vehicle sales going from 2.1 million vehicles to 1.7 million over the same span. Investors are more focused on AI opportunities. Tesla is slated to launch a robo-taxi service in Austin, Texas, in June. Seeing Teslas take paying customers around the town without any drivers would go a long way toward calming fears about the company's car business. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires May 08, 2025 16:23 ET (20:23 GMT)"
+                }
+            ],
+            "publication_time": "2025-05-08T20:23:04.570Z"
+        },
+        "id": "drn:archive.newsarticle.DJDN000020250508el58004jd",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "DJDN000020250506el56000ps",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "djdn",
+                "name": "Dow Jones Institutional News"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250506el56000ps"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "Al Root"
+                    },
+                    {
+                        "text": "Tesla stock was falling in premarket trading after Ford Motor reported earnings on Monday and ahead of Rivian's earnings report on Tuesday."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+            },
+            "content_type": "Article",
+            "load_time": "2025-05-06T08:26:26.423Z",
+            "modification_date": "2025-05-06",
+            "publication_date": "2025-05-06",
+            "load_date": "2025-05-06",
+            "headline": {
+                "main": {
+                    "text": "                           Tesla Stock Falls Amid Tariffs Turmoil. What Ford Earnings Mean for Auto Makers. -- Barrons.com"
+                }
+            },
+            "modification_time": "2025-05-06T08:25:41.000Z",
+            "content": [
+                {
+                    "text": "Tesla Stock Falls Amid Tariffs Turmoil. What Ford Earnings Mean for Auto Makers. -- Barrons.com Al Root Tesla stock was falling in premarket trading after Ford Motor reported earnings on Monday and ahead of Rivian's earnings report on Tuesday. Tariffs are hitting all car markers regardless of the type of vehicles they make. None is sure just how bad things will get. Shares of the electric vehicle maker were falling 1.8% at $275.13 in premarket trading, while S&P 500 and Dow Jones Industrial Average futures were 0.3% and 0.4%, respectively. The move comes after Ford reported first-quarter earnings Monday evening. It suspended full-year financial guidance, estimating a 2025 \"gross\" tariff impact of $2.5 billion and a \"net\" tariff impact of $1.5 billion. (Ford will work to offset tariff-related cost increases.) Ford's prior financial guidance called for a 2025 operating profit of about $7.8 billion, so the $1.5 billion net impact is about 20% of prior guidance. General Motors trimmed its financial guidance by almost 25%. The midpoint of its 2025 operating profit is now about $11.3 billion, down from $14.7 billion. GM imports about 40% of the cars it sells domestically. Ford imports about 20%. Chrysler parent Stellantis imports just over 40% of the vehicles its sells domestically. Stellantis suspended its financial guidance at the end of April. Its prior guidance provided in February called for positive sales growth and mid-single-digit operating profit margins. Tesla doesn't give guidance and it assembles all the cars it sells domestically in the U.S. It has a lower tariff exposure than most auto makers, but still faces tariffs on some imported parts. \"Tariffs are still tough on a company when margins are still low,\" said Tesla CEO Elon Musk on Tesla's first-quarter earnings conference call. \"But we do have localized supply chains in...America, Europe, and China.\" Tesla reported a first-quarter operating profit margin of just 2%. It was the weakest margin since the second quarter of 2019. Rivian reports first-quarter earnings on Tuesday evening. It also assembles all the cars sold in the U.S. domestically. Investors will get another chance to see how parts tariffs could affect a car maker. Coming into Tuesday trading, Tesla shares were down about 31% so far this year. Shares of Stellantis and GM were down 28% and 15%, respectively. Shares of Ford and Rivian were up 3% and 2%, respectively. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires May 06, 2025 04:24 ET (08:24 GMT)"
+                }
+            ],
+            "publication_time": "2025-05-06T08:24:57.866Z"
+        },
+        "id": "drn:archive.newsarticle.DJDN000020250506el56000ps",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "DJDN000020250513el5d002pj",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "djdn",
+                "name": "Dow Jones Institutional News"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250513el5d002pj"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "Al Root"
+                    },
+                    {
+                        "text": "Tesla stock was rising again early Tuesday after thawing U.S.-Chinese trade relations gave the shares a big boost on Monday."
+                    },
+                    {
+                        "text": "The focus has shifted back to the U.S. and President Donald Trump's tax policy."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+            },
+            "content_type": "Article",
+            "load_time": "2025-05-13T14:05:48.453Z",
+            "modification_date": "2025-05-13",
+            "publication_date": "2025-05-13",
+            "load_date": "2025-05-13",
+            "headline": {
+                "main": {
+                    "text": "                           Tesla Stock Drops on Fall in Chinese Sales, Trump's Plan to Kill EV Credit -- Barrons.com"
+                }
+            },
+            "modification_time": "2025-05-13T14:05:16.000Z",
+            "content": [
+                {
+                    "text": "Tesla Stock Drops on Fall in Chinese Sales, Trump's Plan to Kill EV Credit -- Barrons.com Al Root Tesla stock was rising again early Tuesday after thawing U.S.-Chinese trade relations gave the shares a big boost on Monday. The focus has shifted back to the U.S. and President Donald Trump's tax policy. Shares of the electric-vehicle maker were up 0.8% in early trading at $320.97, while the S&P 500 was up 0.4%, and the Dow Jones Industrial Average had fallen 0.4%. Tesla shares rose 6.7% to start the week, closing at $318.38, giving the auto maker a market capitalization north of $1 trillion, as Chinese and U.S. officials announced a 90-day pause on steep import tariffs following talks in Switzerland over the weekend. Tariffs on Chinese and U.S. imports were north of 100% before the pause. Tesla stock rose despite Chinese EV sales dropping almost 9% year over year in April. Things haven't improved in May. Tesla's Chinese sales are down 56% year over year, according to data tracked by Citi analyst Jeff Chung. The falling sales are one reason Tesla investors are happy with the improvement in trade relations. Cantor Fitzgerald analyst Andres Sheppard noted that Chinese consumers have avoided American products as the U.S.-China trade war escalated. With trade tensions easing, investors can turn their attention back to the U.S. On Monday evening, the House Ways and Means Committee published a markup of a bill intended to be part of Trump's package of tax legislation, which is intended to cut tax rates, among other things. That markup would see EV purchase tax credits eliminated by the end of 2025. That is bad for EV buyers, who qualify for up to a $7,500 tax deduction. The markup, however, also included a provision to deduct auto-loan interest from taxable income as long as the car is manufactured in America. Tesla makes all the cars it sells in the U.S. domestically. For overall EV affordability, losing the EV credit is worse than getting tax-deductibility of auto loan interest, but both things were widely expected. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires May 13, 2025 10:04 ET (14:04 GMT)"
+                }
+            ],
+            "publication_time": "2025-05-13T14:04:58.258Z"
+        },
+        "id": "drn:archive.newsarticle.DJDN000020250513el5d002pj",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "DJDN000020250520el5k002n6",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "djdn",
+                "name": "Dow Jones Newswires"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250520el5k002n6"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "Al Root"
+                    },
+                    {
+                        "text": "Tesla stock rose early Tuesday despite more weak sales data."
+                    },
+                    {
+                        "text": "Shares have been on a tear since the company reported first-quarter earnings, giving shares a stretched valuation for even a hot growth stock."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+            },
+            "content_type": "Article",
+            "load_time": "2025-05-20T12:51:18.571Z",
+            "modification_date": "2025-05-20",
+            "publication_date": "2025-05-20",
+            "load_date": "2025-05-20",
+            "headline": {
+                "main": {
+                    "text": "Tesla's China Sales Stink. Why the Stock Is Rising Anyway. -- Barrons.com"
+                }
+            },
+            "modification_time": "2025-05-20T12:50:50.000Z",
+            "content": [
+                {
+                    "text": "Tesla's China Sales Stink. Why the Stock Is Rising Anyway. -- Barrons.com Al Root Tesla stock rose early Tuesday despite more weak sales data. Shares have been on a tear since the company reported first-quarter earnings, giving shares a stretched valuation for even a hot growth stock. Tesla shares were 1.2% higher in premarket trading at $346.24, while S&P 500 futures were down 0.2% and Dow Jones Industrial Average futures were flat. The rise comes as Tesla sold 11,150 cars in China this past week, according to industry data tracked by Citi analyst Jeff Chung. That is a big improvement from the 3,040 sold the week before, but results are still down about 16% from the comparable week in 2024. Investors have been looking for a recovery in Tesla's sales after the number of vehicles delivered dipped 13% year over year in the first quarter. It just hasn't arrived. In the first seven weeks of the second quarter, Tesla sold about 48,000 vehicles in China, down 24% year over year. Despite the weak sales, coming into Tuesday trading, Tesla stock was up about 44% since the company reported its first-quarter earnings on April 22. That left shares trading for about 172 times estimated 2025 earnings, up from closer to 72 times a year ago. Morgan Stanley analyst Adam Jonas sees the valuation getting even higher before it gets better, although that doesn't mean he believes the stock is going down. The valuation-multiple expansion is hard for value-oriented investors to understand. A year ago, Tesla shares were roughly $200 and Wall Street projected 2025 earnings roughly $3. Now, shares are north of $340, and Wall Street's 2025 EPS estimate is below $2. The stock has risen while estimates have fallen. \"Nearly 15 years after going public, investors struggle to justify the value of Tesla as much as ever before,\" wrote Jonas on Monday, adding he sees the valuation problem getting \"worse before it gets better.\" The problem is the future. Tesla is investing heavily in AI and robotics, and those businesses don't generate substantial earnings yet. \"The majority of the company's current $1.1 trillion market [value] is based on businesses that have either poor disclosure, no disclosure, or that have yet to be launched into the commercial market at all,\" added Jonas. He rates Tesla shares Buy and has a $410 price target for the stock, valuing the company at roughly $1.3 trillion. Only $240 billion, or $75 a share, of the valuation comes from the car business. The majority of his value comes from AI-related businesses such as self-driving cars. He doesn't have the robot business in his model, which could easily be worth $100 a share, by his math. Including that number for robots, Tesla's nonautomotive businesses are worth some $1.4 trillion, despite low or no earnings at this point. Jonas' views essentially sums up the difference between Tesla bulls and bears these days. The bulls are full of AI optimism. The bears are confused. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires May 20, 2025 08:50 ET (12:50 GMT)"
+                }
+            ],
+            "publication_time": "2025-05-20T12:50:19.383Z"
+        },
+        "id": "drn:archive.newsarticle.DJDN000020250520el5k002n6",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "DJDN000020250508el58002y4",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "djdn",
+                "name": "Dow Jones Institutional News"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250508el58002y4"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "Al Root"
+                    },
+                    {
+                        "text": "Tesla stock was rising in early Thursday trading as investors pondered when brand and trade pressure would ease."
+                    },
+                    {
+                        "text": "Tesla stock was up 2.6% in early trading at $283.25, while the S&P 500 and Dow Jones Industrial Average were up about ..."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+            },
+            "content_type": "Article",
+            "load_time": "2025-05-08T14:28:21.244Z",
+            "modification_date": "2025-05-08",
+            "publication_date": "2025-05-08",
+            "load_date": "2025-05-08",
+            "headline": {
+                "main": {
+                    "text": "                           Tesla Stock Is Rising. There's Little Evidence of a Post-DOGE Sales Recovery. -- Barrons.com"
+                }
+            },
+            "modification_time": "2025-05-08T14:27:13.000Z",
+            "content": [
+                {
+                    "text": "Tesla Stock Is Rising. There's Little Evidence of a Post-DOGE Sales Recovery. -- Barrons.com Al Root Tesla stock was rising in early Thursday trading as investors pondered when brand and trade pressure would ease. Tesla stock was up 2.6% in early trading at $283.25, while the S&P 500 and Dow Jones Industrial Average were up about 0.4%. Through Wednesday, shares were down 3.8% for the week. One factor has been weak sales data. Tesla sales in Germany fell 46% year over year in April. That's actually an improvement from the first quarter when sales fell 62% year over year. Still, going from down 62% to down 46% doesn't qualify as a recovery and continues to stoke fears that CEO Elon Musk's political activities are hurting sales. Tesla management even referenced brand image \"challenges\" on their first-quarter-earnings conference call. On that call, Musk said he would spend less time in Washington with the Department of Government Efficiency, or DOGE, and more time in Texas at Tesla's headquarters. How that decision is carried out, and what impact it will have on Tesla remains to be seen. Tesla doesn't have brand-image issues in China, but President Donald Trump's trade war has Chinese car buyers favoring local models, according to Wall Street analysts. That is starting to have an impact. Domestic sales data tracked by Citi's Jeff Chung show that over the past five weeks ending May 4, Tesla's sales in China were down about 15% year over year. Tesla's Chinese sales were down about 2% in the first quarter of 2025. April isn't looking good in the U.S., either. On Wednesday, The Wall Street Journal reported U.S. electric-vehicle sales fell 5% year-over-year in April, citing data from Motor Intelligence, with Tesla down 13%. Tesla sales in the U.S. fell 8.6% in the first quarter, according to Cox Automotive. Despite weakening sales, Tesla shares are up 55% over the past 12 months heading into Thursday's trading. That gain is despite estimates for 2025 vehicle sales going from 2.1 million vehicles to 1.7 million over the same span. Investors are more focused on AI opportunities. Tesla is slated to launch a robotaxi service in Austin, Texas, in June. Seeing Teslas take paying customers around the town without any drivers would go a long way to calming fears about the company's car business. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires May 08, 2025 10:25 ET (14:25 GMT)"
+                }
+            ],
+            "publication_time": "2025-05-08T14:25:38.532Z"
+        },
+        "id": "drn:archive.newsarticle.DJDN000020250508el58002y4",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "DJDN000020250518el5i00017",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "djdn",
+                "name": "Dow Jones Newswires"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250518el5i00017"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "Al Root"
+                    },
+                    {
+                        "text": "Investors are looking for evidence that brand \"challenges\" caused by Tesla CEO Elon Musk's politics are fading. They're still waiting. A weekly update from China could be a sign this week."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+            },
+            "content_type": "Article",
+            "load_time": "2025-05-18T19:00:00.489Z",
+            "modification_date": "2025-05-18",
+            "publication_date": "2025-05-18",
+            "load_date": "2025-05-18",
+            "headline": {
+                "main": {
+                    "text": "                           Tesla Demand Hasn't Rebounded Yet. Watch China This Week. -- Barrons.com"
+                }
+            },
+            "modification_time": "2025-05-18T18:59:44.000Z",
+            "content": [
+                {
+                    "text": "Tesla Demand Hasn't Rebounded Yet. Watch China This Week. -- Barrons.com Al Root Investors are looking for evidence that brand \"challenges\" caused by Tesla CEO Elon Musk's politics are fading. They're still waiting. A weekly update from China could be a sign this week. Most recent sales data for the electric vehicle maker just hasn't been good, putting second-quarter delivery estimates at risk. Still, there is one caveat: Most of the data is from April, and Musk announced he would step back from some of his government responsibilities at the end of April. The first three months of the year didn't go as planned. Tesla delivered about 337,000 cars in the first quarter, down 13% from a year earlier and far below what Wall Street expected. At the start of 2025, the first-quarter delivery estimate was about 455,000 vehicles, according to FactSet. The miss even had CFO Vaibhav Taneja citing brand image \"challenges\" on his company's first-quarter earnings conference call. Those challenges might have been part of the reason Musk promised on the conference call to spend more time at Tesla than in Washington, D.C. Coming into Monday trading, Tesla stock was up 47% since the earnings report. An outside observer might assume some sales pickup has contributed to gains. They would be wrong. April sales in key European markets, including France, Germany, and the U.K., fell about 49% from a year ago after dropping about 45% in the first quarter. Tesla's April U.S. sales dropped about 13% after falling 9% in the first quarter. (Tesla's California sales dipped 15% in the first quarter.) April losses accelerated while things were supposed to be getting better with a new version of the Model Y shipping. The model refresh pickup has been slower than expected. Tesla forecaster, who goes by @troyteslike on X and who is widely followed by Wall Street, projects U.S. Model Y production of about 84,000 in the second quarter, up 17% from the first quarter but down about 12% from a year ago. In China, the second quarter started weakly, likely because of U.S.-China trade tensions. Tesla sales in the first six weeks of the second quarter, based on registration data followed by Wall Street, fell about 26% from a year ago. Chinese sales were roughly flat in the first quarter. Investors can look for 13,000 Chinese deliveries from last week when the number becomes available. That would be close to flat from a year ago and a sign that things were normalizing. Below 13,000, and Wall Street will start to reconsider second-quarter estimates. Currently, Wall Street expects about 412,000 cars delivered, up more than 20% from the first quarter but down 7% from last year. What the impact of falling delivery estimates on the stock is hard to say. They haven't impacted the stock lately. The stock market, of course, is forward-looking. Right now, investors are excited about self-driving taxis and robots. (Tesla is planning to launch a robotaxi service in Austin, Texas, in June.) Still, growing car sales certainly couldn't hurt the situation. Coming into Monday trading, Tesla stock was down about 13% year to date, 12 percentage points behind the S&P 500. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires May 18, 2025 12:20 ET (16:20 GMT)"
+                }
+            ],
+            "publication_time": "2025-05-18T16:20:53.313Z"
+        },
+        "id": "drn:archive.newsarticle.DJDN000020250518el5i00017",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "DJDN000020250506el56001q4",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "djdn",
+                "name": "Dow Jones Institutional News"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250506el56001q4"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "Al Root"
+                    },
+                    {
+                        "text": "Tesla stock fell early Tuesday after more bad sales news out of Europe. Sales just haven't picked up yet."
+                    },
+                    {
+                        "text": "Shares of the electric vehicle maker were falling 1.8% at $275.13 in premarket trading, while S&P 500 and Dow Jones Industrial ..."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+            },
+            "content_type": "Article",
+            "load_time": "2025-05-06T12:18:09.154Z",
+            "modification_date": "2025-05-06",
+            "publication_date": "2025-05-06",
+            "load_date": "2025-05-06",
+            "headline": {
+                "main": {
+                    "text": "                           Tesla Stock Falls as Sales in Germany Tumble. It's About More Than Musk. -- Barrons.com"
+                }
+            },
+            "modification_time": "2025-05-06T12:17:08.000Z",
+            "content": [
+                {
+                    "text": "Tesla Stock Falls as Sales in Germany Tumble. It's About More Than Musk. -- Barrons.com Al Root Tesla stock fell early Tuesday after more bad sales news out of Europe. Sales just haven't picked up yet. Shares of the electric vehicle maker were falling 1.8% at $275.13 in premarket trading, while S&P 500 and Dow Jones Industrial Average futures were down 0.3% and 0.4%, respectively. Tesla's April sales in Germany amounted to 885 vehicles, down 46% year over year, according to the Federal Motor Transit Authority. It's one of the latest sales data points Tesla investors have. Across Europe Tesla sales dropped 37% year over year in the first quarter. Globally, Tesla delivered about 337,000 vehicles during the three months -- down 13% year over year. Falling sales stoked fears that CEO Elon Musk's political activities were turning off some car buyers. Tesla management admitted to some brand \"challenges\" on their company's first-quarter earnings conference call. Those challenges could be part of the reason Musk announced during the call he would be spending less time in Washington, D.C. heading the Department of Government Efficiency. To be sure, Musk made his decision in late April, and the weak sales number represents one month in one country. But Tesla sales don't seem to be getting a bounce from an updated version of the Model Y. The Model Y is one of the best-selling vehicles on the planet. Failure to get a sales bump from an updated model would be another disappointment for investors. Tariff uncertainty could be hitting Tesla stock, too. President Donald Trump recently altered his auto tariff policies, giving manufacturers some relief on imported parts, but tariffs still threaten industry profits -- and no one knows just how bad things can get. Ford Motor reported first-quarter earnings on Monday evening. It suspended full-year financial guidance, estimating a 2025 \"gross\" tariff impact of $2.5 billion and a \"net\" tariff impact of $1.5 billion. (Ford will work to offset tariff-related cost increases.) Ford's prior financial guidance called for a 2025 operating profit of about $7.8 billion, so the $1.5 billion net impact is about 20% of prior guidance. General Motors trimmed its financial guidance by almost 25%. The midpoint of its 2025 operating profit is now about $11.3 billion, down from $14.7 billion. GM imports about 40% of the cars it sells domestically. Ford imports about 20%. Chrysler parent Stellantis imports just over 40% of the vehicles it sells domestically. Stellantis suspended its financial guidance at the end of April. Its prior guidance provided in February called for positive sales growth and mid-single-digit operating profit margins. Tesla doesn't give guidance, and it assembles all the cars it sells domestically in the U.S. It has a lower tariff exposure than most auto makers, but still faces tariffs on some imported parts. \"Tariffs are still tough on a company when margins are still low,\" said Tesla CEO Elon Musk on Tesla's first-quarter earnings conference call. \"But we do have localized supply chains in...America, Europe, and China.\" Tesla reported a first-quarter operating profit margin of just 2%. It was the weakest margin since the second quarter of 2019. Rivian reports first-quarter earnings on Tuesday evening. It also assembles all the cars sold in the U.S. domestically. Investors will get another chance to see how parts tariffs could affect a car maker. Coming into Tuesday's trading, Tesla shares were down about 31% so far this year. Shares of Stellantis and GM were down 28% and 15%, respectively. Shares of Ford and Rivian were up 3% and 2%, respectively. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires May 06, 2025 08:15 ET (12:15 GMT)"
+                }
+            ],
+            "publication_time": "2025-05-06T12:15:46.500Z"
+        },
+        "id": "drn:archive.newsarticle.DJDN000020250506el56001q4",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "DJDN000020250422el4m003rc",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "djdn",
+                "name": "Dow Jones Institutional News"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250422el4m003rc"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "Tesla's net income slid 71% in the first quarter, as the company struggled to overcome competitive pressure overseas and a reputational hit from Chief Executive Elon Musk's polarizing role in the Trump administration."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+            },
+            "content_type": "Article",
+            "load_time": "2025-04-30T17:57:20.329Z",
+            "modification_date": "2025-04-30",
+            "publication_date": "2025-04-22",
+            "load_date": "2025-04-30",
+            "byline": {
+                "text": "By Sean McLain"
+            },
+            "headline": {
+                "main": {
+                    "text": "                           Tesla Profit Sinks, Hurt by Backlash Over Elon Musk's Political Role -- Update"
+                }
+            },
+            "modification_time": "2025-04-30T17:56:49.000Z",
+            "content": [
+                {
+                    "text": "Tesla Profit Sinks, Hurt by Backlash Over Elon Musk's Political Role -- Update Tesla's net income slid 71% in the first quarter, as the company struggled to overcome competitive pressure overseas and a reputational hit from Chief Executive Elon Musk's polarizing role in the Trump administration. Musk said he would be devoting significantly less time to his federal cost-cutting work at the Department of Government Efficiency starting next month, but struck a defiant tone against critics. \"I believe the right thing to do is to fight the waste and fraud and try to get the country back on the right track,\" Musk said on a call with analysts after the quarterly earnings report Tuesday. The electric-vehicle maker also reported adjusted earnings per share of 27 cents, which missed analysts' expectations of 41 cents. Tesla said that shifting trade policies, exacerbated by the administration's tariff regime, are stressing supply chains while adding to the automaker's costs. Tesla imports some of its battery cells from China, but said it was looking to source them from the U.S. instead. The trade fight and \"changing political sentiment\" could weigh on demand for its vehicles, the company said, leading it to potentially revisit its sales forecast for the year. Tesla previously said it expected vehicle sales to rise this year, after reporting a rare drop in 2024. Musk sighed deeply on Tuesday's call before addressing the Trump administration's trade war. The CEO said he has advocated for lower tariffs and would continue to do so. \"I just want to emphasize that the tariff decision is entirely up to the president of the United States,\" Musk said. \"Whether he will listen to my advice is up to him.\" Tesla shares were up more than 3% in after-hours trading on Tuesday, after gaining 4.6% ahead of the first-quarter report. Analysts attributed the rise to investors taking comfort in Tesla reaffirming plans to launch more affordable models later this year. The company's first-quarter revenue fell after a steep decline in automotive sales, including double-digit percentage drops in crucial markets such as the U.S., China and Germany. The drop in vehicle sales and weaker selling prices -- dented by more-generous sales promotions -- hurt revenue and the bottom line, Tesla said. The company also cited several weeks of lost production time across its four factories to prepare for the recent launch of a retooled Model Y, its top seller. Larger investments in artificial intelligence also weighed down profit. Musk has said that autonomous cars and other AI innovations are central to Tesla's growth prospects. Even before Musk's entrance into partisan politics sapped some of the brand's goodwill among consumers, Tesla was contending with slowing demand for its vehicles. The company has long touted the potential of its nonautomotive businesses as a way to expand the company beyond the core car business. The sharp quarterly sales and profit declines masked an otherwise bright spot in Tesla's energy-storage and services businesses, which had double-digit growth in the first quarter. The next step for Tesla is the launch of its fleet of robotaxis, which Musk has compared to a combination of Uber and Airbnb. The company said it was on track to launch its first driverless taxi service in Austin, Texas, in June. Still, Tesla reported $19.3 billion in revenue for the quarter, down 9% compared with the same period last year. Revenue from the company's automotive business fell 20%. The energy business grew 67%. Tesla also reported $595 million in revenue from other automakers that pay Tesla for carbon credits to offset their sale of conventional vehicles, up sharply from a year earlier. The company reported a 2.1% operating margin for the quarter, compared with 5.5% a year earlier. Tesla's global vehicle deliveries fell 13% in the first quarter, partly because of a consumer backlash against the brand in response to Musk's role as President Trump's cost-cutting czar. Tesla has faced protests across the U.S. and Europe, and some of its stores and charging stations have been vandalized or even set on fire."
+                }
+            ],
+            "publication_time": "2025-04-22T22:31:15.712Z"
+        },
+        "id": "drn:archive.newsarticle.DJDN000020250422el4m003rc",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "WSJO000020250422el4m0053d",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "wsjo",
+                "name": "The Wall Street Journal Online"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.WSJO000020250422el4m0053d"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "Tesla's net income slid 71% in the first quarter, as the company struggled to overcome competitive pressure overseas and a reputational hit from Chief Executive Elon Musk's polarizing role in the Trump administration."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright 2025 Dow Jones & Company, Inc. All Rights Reserved."
+            },
+            "content_type": "Article",
+            "load_time": "2025-04-30T17:50:41.980Z",
+            "modification_date": "2025-04-30",
+            "publication_date": "2025-04-22",
+            "load_date": "2025-04-30",
+            "byline": {
+                "text": "By Sean McLain"
+            },
+            "headline": {
+                "main": {
+                    "text": "                           Tesla Profit Sinks, Hurt by Backlash Over Elon Musk's Political Role; CEO says he will spend significantly less time on DOGE starting in May; electric-vehicle maker's net income falls 71%"
+                }
+            },
+            "modification_time": "2025-04-30T17:50:13.000Z",
+            "content": [
+                {
+                    "text": "Tesla Profit Sinks, Hurt by Backlash Over Elon Musk's Political Role; CEO says he will spend significantly less time on DOGE starting in May; electric-vehicle maker's net income falls 71% Corrections & Amplifications Tesla's services business saw double-digit growth in the first quarter. An earlier version of this article incorrectly attributed the growth to software subscriptions. (Corrected on April 30) https://asset.wsj.net/wsjnewsgraphics/projects/narrator/d90969df-db3f-4890-9f4e-2892f502493a.json Tesla's net income slid 71% in the first quarter, as the company struggled to overcome competitive pressure overseas and a reputational hit from Chief Executive Elon Musk's polarizing role in the Trump administration. Musk said he would be devoting significantly less time to his federal cost-cutting work at the Department of Government Efficiency starting next month, but struck a defiant tone against critics. \"I believe the right thing to do is to fight the waste and fraud and try to get the country back on the right track,\" Musk said on a call with analysts after the quarterly earnings report Tuesday. The electric-vehicle maker also reported adjusted earnings per share of 27 cents, which missed analysts' expectations of 41 cents. Tesla said that shifting trade policies, exacerbated by the administration's tariff regime, are stressing supply chains while adding to the automaker's costs. Tesla imports some of its battery cells from China, but said it was looking to source them from the U.S. instead. The trade fight and \"changing political sentiment\" could weigh on demand for its vehicles, the company said, leading it to potentially revisit its sales forecast for the year. Tesla previously said it expected vehicle sales to rise this year, after reporting a rare drop in 2024. Musk sighed deeply on Tuesday's call before addressing the Trump administration's trade war. The CEO said he has advocated for lower tariffs and would continue to do so. \"I just want to emphasize that the tariff decision is entirely up to the president of the United States,\" Musk said. \"Whether he will listen to my advice is up to him.\" Tesla shares were up more than 3% in after-hours trading on Tuesday, after gaining 4.6% ahead of the first-quarter report. Analysts attributed the rise to investors taking comfort in Tesla reaffirming plans to launch more affordable models later this year. The company's first-quarter revenue fell after a steep decline in automotive sales, including double-digit percentage drops in crucial markets such as the U.S., China and Germany. The decline in vehicle sales and weaker selling prices\u2014dented by more-generous sales promotions\u2014hurt revenue and the bottom line, Tesla said. The company also cited several weeks of lost production time across its four factories to prepare for the recent launch of a retooled Model Y, its top seller. Larger investments in artificial intelligence also weighed down profit. Musk has said that autonomous cars and other AI innovations are central to Tesla's growth prospects. Even before Musk's entrance into partisan politics sapped some of the brand's goodwill among consumers, Tesla was contending with slowing demand for its vehicles. The company has long touted the potential of its nonautomotive businesses as a way to expand the company beyond the core car business. The sharp quarterly sales and profit declines masked an otherwise bright spot in Tesla's energy-storage and services businesses, which had double-digit growth in the first quarter. The next step for Tesla is the launch of its fleet of robotaxis, which Musk has compared to a combination of Uber and Airbnb. The company said it was on track to launch its first driverless taxi service in Austin, Texas, in June. Still, Tesla reported $19.3 billion in revenue for the quarter, down 9% compared with the same period last year. Revenue from the company's automotive business fell 20%. The energy business grew 67%. Tesla also reported $595 million in revenue from other automakers that pay Tesla for carbon credits to offset their sale of conventional vehicles, up sharply from a year earlier. The company reported a 2.1% operating margin for the quarter, compared with 5.5% a year earlier."
+                }
+            ],
+            "publication_time": "2025-04-22T22:31:00.000Z"
+        },
+        "id": "drn:archive.newsarticle.WSJO000020250422el4m0053d",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "DJDN000020250422el4m003sa",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "djdn",
+                "name": "Dow Jones Institutional News"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250422el4m003sa"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "Tesla's net income slid 71% in the first quarter, as the company struggled to overcome competitive pressure overseas and a reputational hit from Chief Executive Elon Musk's polarizing role in the Trump administration."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+            },
+            "content_type": "Article",
+            "load_time": "2025-04-30T17:55:44.093Z",
+            "modification_date": "2025-04-30",
+            "publication_date": "2025-04-22",
+            "load_date": "2025-04-30",
+            "byline": {
+                "text": "By Sean McLain"
+            },
+            "headline": {
+                "main": {
+                    "text": "                           Tesla Profit Sinks, Hurt by Backlash Over Elon Musk's Political Role -- WSJ"
+                }
+            },
+            "modification_time": "2025-04-30T17:55:25.000Z",
+            "content": [
+                {
+                    "text": "Tesla Profit Sinks, Hurt by Backlash Over Elon Musk's Political Role -- WSJ Tesla's net income slid 71% in the first quarter, as the company struggled to overcome competitive pressure overseas and a reputational hit from Chief Executive Elon Musk's polarizing role in the Trump administration. The electric-vehicle maker also reported adjusted earnings-per-share of 27 cents, which missed analysts' expectations of 41 cents. Tesla said that shifting trade policies, exacerbated by the administration's tariff regime, are stressing supply chains while adding to the automaker's costs. The trade fight and \"changing political sentiment\" could weigh on demand for its vehicles, the company said, leading it to potentially revisit its sales forecast for the year. Tesla previously said it expected vehicle sales to rise this year, after reporting a rare drop in 2024. Tesla shares were flat in after-hours trading on Tuesday, after gaining 4.6% ahead of the first-quarter report. The company's first-quarter revenue fell after a steep decline in automotive sales, including double-digit percentage drops in crucial markets such as the U.S., China and Germany. The drop in vehicle sales and weaker selling prices -- dented by more-generous sales promotions -- hurt revenue and the bottom line, Tesla said. It also cited several weeks of lost production time across its four factories to prepare for the recent launch of a retooled Model Y, its top seller. Larger investments in artificial intelligence also weighed down profit. Musk has said that autonomous cars and other AI innovations are central to Tesla's growth prospects. Even before Musk's entrance into partisan politics sapped some of the brand's goodwill among consumers, Tesla was contending with slowing demand for its vehicles. The company has long touted the potential of its nonautomotive businesses as a way to expand the company beyond the core car business. The sharp quarterly sales and profit declines masked an otherwise bright spot in Tesla's energy-storage and services businesses, which had double-digit growth in the first quarter. The next step for Tesla is the launch of its fleet of robotaxis, which Musk has compared to a combination of Uber and Airbnb. The company said it was on track to launch its first driverless taxi service in Austin, Texas, in June. Still, Tesla reported $19.3 billion in revenue for the quarter, down 9% compared with the same period last year. Revenue from the company's automotive business fell 20%. The energy business grew 67%. Tesla also reported $595 million in revenue from other automakers who pay Tesla for carbon credits to offset their sale of conventional vehicles, up sharply from a year earlier. The company reported a 2.1% operating margin for the quarter, compared with 5.5% a year earlier. Tesla's global vehicle deliveries fell 13% in the first quarter, partly because of a consumer backlash against the brand in response to Musk's role as President Trump's cost-cutting czar. Tesla has faced protests across the U.S. and Europe, and some of its stores and charging stations have been vandalized or even set on fire. Some analysts also have said that customers likely delayed purchases as they waited for the recent introduction of a refreshed version of Tesla's Model Y, the company's top seller. Tesla also is contending with 25% tariffs imposed on auto imports. While Tesla builds its U.S.-sold cars in Texas and California, it relies on neighboring countries for components, including Mexico, which supplies more than 20% of its parts, according to federal data. Estimates from third-party research providers show significant sales declines in some of Tesla's biggest markets, including California and China. The company doesn't disclose delivery figures by model or region. In California, the nation's largest EV market, Tesla's first-quarter market share fell to 44% of all zero-emission vehicle registrations in the state, from 56% a year earlier, according to the California New Car Dealers Association. Tesla shipments fell about 22% in the quarter in China, while its deliveries sank 62% in Germany, according to industry trade groups. To spur sales, Tesla in April released a less-expensive version of the Cybertruck, priced at $69,990, with low-cost features including fabric seats. The company is also developing a lower-cost version of its Model Y. Write to Sean McLain at sean.mclain@wsj.com Corrections & Amplifications This article was corrected on April 30, 2025 to show that Tesla's services business saw double-digit growth in the first quarter. The original version incorrectly attributed the growth to software subscriptions. (END) Dow Jones Newswires April 22, 2025 17:42 ET (21:42 GMT)"
+                }
+            ],
+            "publication_time": "2025-04-22T21:42:21.508Z"
+        },
+        "id": "drn:archive.newsarticle.DJDN000020250422el4m003sa",
+        "type": "content"
+    }
+]

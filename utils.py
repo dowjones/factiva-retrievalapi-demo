@@ -146,3 +146,34 @@ def generate_random_guid() -> str:
         str: A randomly generated GUID.
     """
     return str(uuid.uuid4()).replace("-", "")
+
+
+def save_dict_json(data_dict: dict, filename: str):
+    """
+    Saves a dictionary object to a JSON file.
+
+    Args:
+        data_dict (dict): The dictionary to save.
+        filename (str): The name of the file to save the dictionary to.
+                        The file will be saved in the same directory as the script.
+    """
+    with open(filename, 'w') as f:
+        json.dump(data_dict, f, indent=4)
+
+
+def load_dict_json(filename_base: str) -> dict:
+    """
+    Loads a dictionary object from a JSON file.
+
+    Args:
+        filename_base (str): The base name of the file to load the dictionary from.
+                             '.json' will be appended to this name.
+                             The file is assumed to be in the same directory as the script.
+
+    Returns:
+        dict: The dictionary loaded from the JSON file.
+    """
+    filename = f"{filename_base}.json"
+    with open(filename, 'r') as f:
+        data_dict = json.load(f)
+    return data_dict
