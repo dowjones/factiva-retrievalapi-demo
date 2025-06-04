@@ -1,160 +1,7 @@
 [
     {
         "meta": {
-            "original_doc_id": "DJDN000020250508el58004jd",
-            "language": {
-                "code": "en"
-            },
-            "source": {
-                "code": "djdn",
-                "name": "Dow Jones Institutional News"
-            }
-        },
-        "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250508el58004jd"
-        },
-        "attributes": {
-            "snippet": {
-                "content": [
-                    {
-                        "text": "Al Root"
-                    },
-                    {
-                        "text": "Tesla stock rose Thursday as President Donald Trump's trade deal with the U.K. showed where policy might be headed."
-                    },
-                    {
-                        "text": "Tesla stock added 3.1% on Thursday, closing at $284.82, while the S&P 500 and Dow Jones Industrial Average gained ..."
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
-            },
-            "content_type": "Article",
-            "load_time": "2025-05-08T20:25:01.266Z",
-            "modification_date": "2025-05-08",
-            "publication_date": "2025-05-08",
-            "load_date": "2025-05-08",
-            "headline": {
-                "main": {
-                    "text": "                           Tesla Stock Got a Lift From Trump's Trade Deal -- Barrons.com"
-                }
-            },
-            "modification_time": "2025-05-08T20:24:27.000Z",
-            "content": [
-                {
-                    "text": "Tesla Stock Got a Lift From Trump's Trade Deal -- Barrons.com Al Root Tesla stock rose Thursday as President Donald Trump's trade deal with the U.K. showed where policy might be headed. Tesla stock added 3.1% on Thursday, closing at $284.82, while the S&P 500 and Dow Jones Industrial Average gained about 0.6%. The market jumped after details emerged of the president's trade deal with the U.K. It includes smaller tariffs on imports of vehicles from Britain, as well as lower U.K. levies on U.S. cars. Lower tariffs are a boon for all auto makers. General Motors stock rose 4.1%. Stellantis shares gained 4.7%. Ford Motors shares were up most of the day but closed flat. The new deal doesn't solve all the problems the industry faces. Even if U.S.-made cars face lower tariffs, they still are being made with parts that cost more than peers are paying due to tariffs. A car built in Japan with Vietnamese parts sent to the U.K. will be tough for an American auto maker to compete with. Still, the relief of some trade pressure is a positive, though investors are still pondering when pressure on the Tesla brand resulting from CEO Elon Musk's political activities will ease. There isn't much evidence of that. Tesla sales in Germany fell 46% year over year in April. That's an improvement from the first quarter when sales fell 62% year over year. Still, going from down 62% to down 46% doesn't qualify as a recovery. Tesla management even referenced brand image \"challenges\" on their first-quarter-earnings conference call. On that call, Musk said he would spend less time in Washington with the Department of Government Efficiency, or DOGE, and more time in Texas at Tesla's headquarters. How that decision is carried out, and what impact it will have on Tesla remains to be seen. Tesla doesn't have brand-image issues in China, but Trump's trade war has Chinese car buyers favoring local models, according to Wall Street analysts. That is starting to have an impact. Domestic sales data tracked by Citi's Jeff Chung show that over the past five weeks ending May 4, Tesla's sales in China were down about 15% year over year. Tesla's Chinese sales were down about 2% in the first quarter of 2025. April isn't looking good in the U.S., either. On Wednesday, The Wall Street Journal reported U.S. electric-vehicle sales fell 5% year over year in April, citing data from Motor Intelligence, with Tesla down 13%. Tesla sales in the U.S. fell 8.6% in the first quarter, according to Cox Automotive. Despite weakening sales, Tesla shares were up 55% over the 12 months heading into Thursday's trading. That gain is despite estimates for 2025 vehicle sales going from 2.1 million vehicles to 1.7 million over the same span. Investors are more focused on AI opportunities. Tesla is slated to launch a robo-taxi service in Austin, Texas, in June. Seeing Teslas take paying customers around the town without any drivers would go a long way toward calming fears about the company's car business. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires May 08, 2025 16:23 ET (20:23 GMT)"
-                }
-            ],
-            "publication_time": "2025-05-08T20:23:04.570Z"
-        },
-        "id": "drn:archive.newsarticle.DJDN000020250508el58004jd",
-        "type": "content"
-    },
-    {
-        "meta": {
-            "original_doc_id": "DJDN000020250506el56000ps",
-            "language": {
-                "code": "en"
-            },
-            "source": {
-                "code": "djdn",
-                "name": "Dow Jones Institutional News"
-            }
-        },
-        "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250506el56000ps"
-        },
-        "attributes": {
-            "snippet": {
-                "content": [
-                    {
-                        "text": "Al Root"
-                    },
-                    {
-                        "text": "Tesla stock was falling in premarket trading after Ford Motor reported earnings on Monday and ahead of Rivian's earnings report on Tuesday."
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
-            },
-            "content_type": "Article",
-            "load_time": "2025-05-06T08:26:26.423Z",
-            "modification_date": "2025-05-06",
-            "publication_date": "2025-05-06",
-            "load_date": "2025-05-06",
-            "headline": {
-                "main": {
-                    "text": "                           Tesla Stock Falls Amid Tariffs Turmoil. What Ford Earnings Mean for Auto Makers. -- Barrons.com"
-                }
-            },
-            "modification_time": "2025-05-06T08:25:41.000Z",
-            "content": [
-                {
-                    "text": "Tesla Stock Falls Amid Tariffs Turmoil. What Ford Earnings Mean for Auto Makers. -- Barrons.com Al Root Tesla stock was falling in premarket trading after Ford Motor reported earnings on Monday and ahead of Rivian's earnings report on Tuesday. Tariffs are hitting all car markers regardless of the type of vehicles they make. None is sure just how bad things will get. Shares of the electric vehicle maker were falling 1.8% at $275.13 in premarket trading, while S&P 500 and Dow Jones Industrial Average futures were 0.3% and 0.4%, respectively. The move comes after Ford reported first-quarter earnings Monday evening. It suspended full-year financial guidance, estimating a 2025 \"gross\" tariff impact of $2.5 billion and a \"net\" tariff impact of $1.5 billion. (Ford will work to offset tariff-related cost increases.) Ford's prior financial guidance called for a 2025 operating profit of about $7.8 billion, so the $1.5 billion net impact is about 20% of prior guidance. General Motors trimmed its financial guidance by almost 25%. The midpoint of its 2025 operating profit is now about $11.3 billion, down from $14.7 billion. GM imports about 40% of the cars it sells domestically. Ford imports about 20%. Chrysler parent Stellantis imports just over 40% of the vehicles its sells domestically. Stellantis suspended its financial guidance at the end of April. Its prior guidance provided in February called for positive sales growth and mid-single-digit operating profit margins. Tesla doesn't give guidance and it assembles all the cars it sells domestically in the U.S. It has a lower tariff exposure than most auto makers, but still faces tariffs on some imported parts. \"Tariffs are still tough on a company when margins are still low,\" said Tesla CEO Elon Musk on Tesla's first-quarter earnings conference call. \"But we do have localized supply chains in...America, Europe, and China.\" Tesla reported a first-quarter operating profit margin of just 2%. It was the weakest margin since the second quarter of 2019. Rivian reports first-quarter earnings on Tuesday evening. It also assembles all the cars sold in the U.S. domestically. Investors will get another chance to see how parts tariffs could affect a car maker. Coming into Tuesday trading, Tesla shares were down about 31% so far this year. Shares of Stellantis and GM were down 28% and 15%, respectively. Shares of Ford and Rivian were up 3% and 2%, respectively. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires May 06, 2025 04:24 ET (08:24 GMT)"
-                }
-            ],
-            "publication_time": "2025-05-06T08:24:57.866Z"
-        },
-        "id": "drn:archive.newsarticle.DJDN000020250506el56000ps",
-        "type": "content"
-    },
-    {
-        "meta": {
-            "original_doc_id": "DJDN000020250513el5d002pj",
-            "language": {
-                "code": "en"
-            },
-            "source": {
-                "code": "djdn",
-                "name": "Dow Jones Institutional News"
-            }
-        },
-        "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250513el5d002pj"
-        },
-        "attributes": {
-            "snippet": {
-                "content": [
-                    {
-                        "text": "Al Root"
-                    },
-                    {
-                        "text": "Tesla stock was rising again early Tuesday after thawing U.S.-Chinese trade relations gave the shares a big boost on Monday."
-                    },
-                    {
-                        "text": "The focus has shifted back to the U.S. and President Donald Trump's tax policy."
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
-            },
-            "content_type": "Article",
-            "load_time": "2025-05-13T14:05:48.453Z",
-            "modification_date": "2025-05-13",
-            "publication_date": "2025-05-13",
-            "load_date": "2025-05-13",
-            "headline": {
-                "main": {
-                    "text": "                           Tesla Stock Drops on Fall in Chinese Sales, Trump's Plan to Kill EV Credit -- Barrons.com"
-                }
-            },
-            "modification_time": "2025-05-13T14:05:16.000Z",
-            "content": [
-                {
-                    "text": "Tesla Stock Drops on Fall in Chinese Sales, Trump's Plan to Kill EV Credit -- Barrons.com Al Root Tesla stock was rising again early Tuesday after thawing U.S.-Chinese trade relations gave the shares a big boost on Monday. The focus has shifted back to the U.S. and President Donald Trump's tax policy. Shares of the electric-vehicle maker were up 0.8% in early trading at $320.97, while the S&P 500 was up 0.4%, and the Dow Jones Industrial Average had fallen 0.4%. Tesla shares rose 6.7% to start the week, closing at $318.38, giving the auto maker a market capitalization north of $1 trillion, as Chinese and U.S. officials announced a 90-day pause on steep import tariffs following talks in Switzerland over the weekend. Tariffs on Chinese and U.S. imports were north of 100% before the pause. Tesla stock rose despite Chinese EV sales dropping almost 9% year over year in April. Things haven't improved in May. Tesla's Chinese sales are down 56% year over year, according to data tracked by Citi analyst Jeff Chung. The falling sales are one reason Tesla investors are happy with the improvement in trade relations. Cantor Fitzgerald analyst Andres Sheppard noted that Chinese consumers have avoided American products as the U.S.-China trade war escalated. With trade tensions easing, investors can turn their attention back to the U.S. On Monday evening, the House Ways and Means Committee published a markup of a bill intended to be part of Trump's package of tax legislation, which is intended to cut tax rates, among other things. That markup would see EV purchase tax credits eliminated by the end of 2025. That is bad for EV buyers, who qualify for up to a $7,500 tax deduction. The markup, however, also included a provision to deduct auto-loan interest from taxable income as long as the car is manufactured in America. Tesla makes all the cars it sells in the U.S. domestically. For overall EV affordability, losing the EV credit is worse than getting tax-deductibility of auto loan interest, but both things were widely expected. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires May 13, 2025 10:04 ET (14:04 GMT)"
-                }
-            ],
-            "publication_time": "2025-05-13T14:04:58.258Z"
-        },
-        "id": "drn:archive.newsarticle.DJDN000020250513el5d002pj",
-        "type": "content"
-    },
-    {
-        "meta": {
-            "original_doc_id": "DJDN000020250520el5k002n6",
+            "original_doc_id": "DJDN000020250603el63002rw",
             "language": {
                 "code": "en"
             },
@@ -164,19 +11,16 @@
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250520el5k002n6"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250603el63002rw"
         },
         "attributes": {
             "snippet": {
                 "content": [
                     {
-                        "text": "Al Root"
+                        "text": "Americans are still buying a lot of cars, despite broader consumer concerns about the economy and rising prices as a result of tariffs."
                     },
                     {
-                        "text": "Tesla stock rose early Tuesday despite more weak sales data."
-                    },
-                    {
-                        "text": "Shares have been on a tear since the company reported first-quarter earnings, giving shares a stretched valuation for even a hot growth stock."
+                        "text": "Carmakers sold 1.2 million vehicles in May, roughly in line with the figure from last year, according to ..."
                     }
                 ]
             },
@@ -184,81 +28,217 @@
                 "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
             },
             "content_type": "Article",
-            "load_time": "2025-05-20T12:51:18.571Z",
-            "modification_date": "2025-05-20",
-            "publication_date": "2025-05-20",
-            "load_date": "2025-05-20",
+            "load_time": "2025-06-03T21:14:15.393Z",
+            "modification_date": "2025-06-03",
+            "publication_date": "2025-06-03",
+            "load_date": "2025-06-03",
+            "byline": {
+                "text": "By Christopher Otts"
+            },
             "headline": {
                 "main": {
-                    "text": "Tesla's China Sales Stink. Why the Stock Is Rising Anyway. -- Barrons.com"
+                    "text": "Americans Still Hit the Car Lots in May -- WSJ"
                 }
             },
-            "modification_time": "2025-05-20T12:50:50.000Z",
+            "modification_time": "2025-06-03T21:13:41.000Z",
             "content": [
                 {
-                    "text": "Tesla's China Sales Stink. Why the Stock Is Rising Anyway. -- Barrons.com Al Root Tesla stock rose early Tuesday despite more weak sales data. Shares have been on a tear since the company reported first-quarter earnings, giving shares a stretched valuation for even a hot growth stock. Tesla shares were 1.2% higher in premarket trading at $346.24, while S&P 500 futures were down 0.2% and Dow Jones Industrial Average futures were flat. The rise comes as Tesla sold 11,150 cars in China this past week, according to industry data tracked by Citi analyst Jeff Chung. That is a big improvement from the 3,040 sold the week before, but results are still down about 16% from the comparable week in 2024. Investors have been looking for a recovery in Tesla's sales after the number of vehicles delivered dipped 13% year over year in the first quarter. It just hasn't arrived. In the first seven weeks of the second quarter, Tesla sold about 48,000 vehicles in China, down 24% year over year. Despite the weak sales, coming into Tuesday trading, Tesla stock was up about 44% since the company reported its first-quarter earnings on April 22. That left shares trading for about 172 times estimated 2025 earnings, up from closer to 72 times a year ago. Morgan Stanley analyst Adam Jonas sees the valuation getting even higher before it gets better, although that doesn't mean he believes the stock is going down. The valuation-multiple expansion is hard for value-oriented investors to understand. A year ago, Tesla shares were roughly $200 and Wall Street projected 2025 earnings roughly $3. Now, shares are north of $340, and Wall Street's 2025 EPS estimate is below $2. The stock has risen while estimates have fallen. \"Nearly 15 years after going public, investors struggle to justify the value of Tesla as much as ever before,\" wrote Jonas on Monday, adding he sees the valuation problem getting \"worse before it gets better.\" The problem is the future. Tesla is investing heavily in AI and robotics, and those businesses don't generate substantial earnings yet. \"The majority of the company's current $1.1 trillion market [value] is based on businesses that have either poor disclosure, no disclosure, or that have yet to be launched into the commercial market at all,\" added Jonas. He rates Tesla shares Buy and has a $410 price target for the stock, valuing the company at roughly $1.3 trillion. Only $240 billion, or $75 a share, of the valuation comes from the car business. The majority of his value comes from AI-related businesses such as self-driving cars. He doesn't have the robot business in his model, which could easily be worth $100 a share, by his math. Including that number for robots, Tesla's nonautomotive businesses are worth some $1.4 trillion, despite low or no earnings at this point. Jonas' views essentially sums up the difference between Tesla bulls and bears these days. The bulls are full of AI optimism. The bears are confused. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires May 20, 2025 08:50 ET (12:50 GMT)"
+                    "text": "Americans Still Hit the Car Lots in May -- WSJ Americans are still buying a lot of cars, despite broader consumer concerns about the economy and rising prices as a result of tariffs. Carmakers sold 1.2 million vehicles in May, roughly in line with the figure from last year, according to an estimate from research firm J.D. Power. Sales returned to a more typical pace in the month following a rush of buying in late March and April, which analysts attributed to consumers seeking to get ahead of President Trump's threatened tariffs on automotive imports. Concerns about inflation and the impact higher tariffs could have on prices have weighed on consumer confidence, which remains near a record low. Low consumer confidence can indicate that Americans are less willing to spend on big ticket purchases, like automobiles. Thus far that gloomy mood has yet to spread onto dealer lots. Americans spent around $53.8 billion on new vehicles in May, a 7% increase from a year prior, according to J.D. Power. General Motors, which has not yet reported sales results for May, has said it expects industry prices to hold steady in 2025. People paid $45,462 on average for a new vehicle in May, according to J.D. Power. Ford reported a 16% increase in May compared with a year earlier, bolstered by an \"employee pricing\" discount program. Toyota said May sales grew 11%, as a result of a sharp increase in hybrid and sedan sales. The Japanese carmaker imports around 45% of the vehicles it sells in the U.S. from factories outside the country and has said U.S. tariffs added $1.25 billion to its costs in April and May. Honda reported a 7% gain in sales, despite a sharp increase in imported car sales. Korean automakers Hyundai and Kia said sales rose 8% and 5%, respectively. Mazda, a Japanese brand that relies heavily on imports, saw its sales plunge 19%. This item is part of a Wall Street Journal live coverage event. The full stream can be found by searching P/WSJL (WSJ Live Coverage). (END) Dow Jones Newswires June 03, 2025 15:52 ET (19:52 GMT)"
                 }
             ],
-            "publication_time": "2025-05-20T12:50:19.383Z"
+            "publication_time": "2025-06-03T19:52:03.957Z"
         },
-        "id": "drn:archive.newsarticle.DJDN000020250520el5k002n6",
+        "id": "drn:archive.newsarticle.DJDN000020250603el63002rw",
         "type": "content"
     },
     {
         "meta": {
-            "original_doc_id": "DJDN000020250508el58002y4",
+            "original_doc_id": "RTCNWS0020250602el620008b",
+            "language": {
+                "code": "zhcn"
+            },
+            "source": {
+                "code": "rtcnws",
+                "name": "\u9053\u743c\u65af\u4e2d\u6587\u901a\u8baf (\u7b80\u4f53)"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.RTCNWS0020250602el620008b"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "\n\n  \u5468\u4e00\u5728\u5168\u7403\u80a1\u5e02\u7684\u4e0b\u8dcc\u80a1\u5f53\u4e2d\uff0c\u4e30\u7530\u6c7d\u8f66(Toyota)\u548cJeep\u5236\u9020\u5546Stellantis\u8d6b\u7136\u4f4d\u5217\u5176\u4e2d\uff0c\u4e24\u5bb6\u8f66\u4f01\u7684\u80a1\u4ef7\u5206\u522b\u5728\u4e1c\u4eac\u548c\u7c73\u5170\u4e0b\u8dcc\u7ea63%\u3002 "
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+            },
+            "content_type": "Article",
+            "load_time": "2025-06-02T09:31:06.121Z",
+            "modification_date": "2025-06-02",
+            "publication_date": "2025-06-02",
+            "load_date": "2025-06-02",
+            "headline": {
+                "main": {
+                    "text": "\u7279\u6717\u666e\u8ba1\u5212\u4e0a\u8c03\u94a2\u94dd\u5173\u7a0e\u7684\u4e3e\u52a8\u5bfc\u81f4\u6c7d\u8f66\u80a1\u666e\u904d\u8d70\u4f4e"
+                }
+            },
+            "modification_time": "2025-06-02T09:30:18.000Z",
+            "content": [
+                {
+                    "text": "\u7279\u6717\u666e\u8ba1\u5212\u4e0a\u8c03\u94a2\u94dd\u5173\u7a0e\u7684\u4e3e\u52a8\u5bfc\u81f4\u6c7d\u8f66\u80a1\u666e\u904d\u8d70\u4f4e \u5468\u4e00\u5728\u5168\u7403\u80a1\u5e02\u7684\u4e0b\u8dcc\u80a1\u5f53\u4e2d\uff0c\u4e30\u7530\u6c7d\u8f66(Toyota)\u548cJeep\u5236\u9020\u5546Stellantis\u8d6b\u7136\u4f4d\u5217\u5176\u4e2d\uff0c\u4e24\u5bb6\u8f66\u4f01\u7684\u80a1\u4ef7\u5206\u522b\u5728\u4e1c\u4eac\u548c\u7c73\u5170\u4e0b\u8dcc\u7ea63%\u3002 \u7f8e\u56fd\u603b\u7edf\u7279\u6717\u666e(Trump)\u627f\u8bfa\u4ece\u5468\u4e09\u8d77\u5c06\u628a\u94a2\u94c1\u548c\u94dd\u7684\u5173\u7a0e\u7a0e\u7387\u63d0\u9ad8\u4e00\u500d\u81f350%\uff0c\u800c\u6b64\u4e3e\u5c06\u589e\u52a0\u8f66\u4f01\u5728\u7f8e\u56fd\u7684\u5236\u9020\u6210\u672c\u3002\u6295\u8d44\u8005\u5bf9\u8fd9\u4e2a\u6d88\u606f\u505a\u51fa\u53cd\u5e94\u3002 \u798f\u7279\u6c7d\u8f66(Ford, F)\u548c\u901a\u7528\u6c7d\u8f66(General Motors, GM)\u7684\u80a1\u4ef7\u5728\u76d8\u524d\u7684\u6e05\u6de1\u4ea4\u6295\u4e2d\u5c0f\u5e45\u4e0b\u8dcc\u3002 \u94a2\u94c1\u548c\u94dd\u5728\u4e00\u8f86\u6c7d\u8f66\u7684\u91cd\u91cf\u4e2d\u5360\u5f88\u5927\u4e00\u90e8\u5206\uff0c\u5728\u6c7d\u8f66\u6210\u672c\u4e2d\u4e5f\u5360\u5f88\u5927\u4efd\u989d\u3002\u636e\u5238\u5546Bernstein\u79f0\uff0c\u5c06\u73b0\u6709\u768425%\u94a2\u94dd\u5173\u7a0e\u63d0\u9ad8\u4e00\u500d\uff0c\u5c06\u4f7f\u7279\u6717\u666e\u5173\u7a0e\u9020\u6210\u7684\u7d2f\u8ba1\u6210\u672c\u589e\u52a0\u7ea65%\uff0c\u8fbe\u5230\u6bcf\u8f86\u8f66\u7565\u9ad8\u4e8e7,000\u7f8e\u5143\u7684\u6c34\u5e73\u3002 By Stephen Wilmot \u7248\u6743\u6240\u6709(c)2025\u9053\u743c\u65af\u516c\u53f8\u3002\u672c\u6587\u7248\u6743\u5f52\u9053\u743c\u65af\u516c\u53f8\u6240\u6709\uff0c\u672a\u7ecf\u8bb8\u53ef\u4e0d\u5f97\u7ffb\u8bd1\u6216\u8f6c\u8f7d\u3002 (END) Dow Jones Newswires 02-06-25 0930GMT"
+                }
+            ],
+            "publication_time": "2025-06-02T09:30:13.735Z"
+        },
+        "id": "drn:archive.newsarticle.RTCNWS0020250602el620008b",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "PRTRIN0020250603el6300c1g",
             "language": {
                 "code": "en"
             },
             "source": {
-                "code": "djdn",
-                "name": "Dow Jones Institutional News"
+                "code": "prtrin",
+                "name": "Press Trust of India"
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250508el58002y4"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.PRTRIN0020250603el6300c1g"
         },
         "attributes": {
             "snippet": {
                 "content": [
                     {
-                        "text": "Al Root"
-                    },
-                    {
-                        "text": "Tesla stock was rising in early Thursday trading as investors pondered when brand and trade pressure would ease."
-                    },
-                    {
-                        "text": "Tesla stock was up 2.6% in early trading at $283.25, while the S&P 500 and Dow Jones Industrial Average were up about ..."
+                        "text": "New Delhi, Jun 3 (PTI) India on Tuesday sought consultations with the US under the World Trade Organisation's (WTO) safeguard agreement over American tariffs on auto components."
                     }
                 ]
             },
             "copyright": {
-                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+                "text": "Copyright 2025. The Press Trust of India Limited."
             },
             "content_type": "Article",
-            "load_time": "2025-05-08T14:28:21.244Z",
-            "modification_date": "2025-05-08",
-            "publication_date": "2025-05-08",
-            "load_date": "2025-05-08",
+            "load_time": "2025-06-03T11:29:20.710Z",
+            "modification_date": "2025-06-03",
+            "publication_date": "2025-06-03",
+            "load_date": "2025-06-03",
             "headline": {
                 "main": {
-                    "text": "                           Tesla Stock Is Rising. There's Little Evidence of a Post-DOGE Sales Recovery. -- Barrons.com"
+                    "text": "India seeks WTO consultations with US over safeguard measures on auto components"
                 }
             },
-            "modification_time": "2025-05-08T14:27:13.000Z",
+            "modification_time": "2025-06-03T11:28:21.000Z",
             "content": [
                 {
-                    "text": "Tesla Stock Is Rising. There's Little Evidence of a Post-DOGE Sales Recovery. -- Barrons.com Al Root Tesla stock was rising in early Thursday trading as investors pondered when brand and trade pressure would ease. Tesla stock was up 2.6% in early trading at $283.25, while the S&P 500 and Dow Jones Industrial Average were up about 0.4%. Through Wednesday, shares were down 3.8% for the week. One factor has been weak sales data. Tesla sales in Germany fell 46% year over year in April. That's actually an improvement from the first quarter when sales fell 62% year over year. Still, going from down 62% to down 46% doesn't qualify as a recovery and continues to stoke fears that CEO Elon Musk's political activities are hurting sales. Tesla management even referenced brand image \"challenges\" on their first-quarter-earnings conference call. On that call, Musk said he would spend less time in Washington with the Department of Government Efficiency, or DOGE, and more time in Texas at Tesla's headquarters. How that decision is carried out, and what impact it will have on Tesla remains to be seen. Tesla doesn't have brand-image issues in China, but President Donald Trump's trade war has Chinese car buyers favoring local models, according to Wall Street analysts. That is starting to have an impact. Domestic sales data tracked by Citi's Jeff Chung show that over the past five weeks ending May 4, Tesla's sales in China were down about 15% year over year. Tesla's Chinese sales were down about 2% in the first quarter of 2025. April isn't looking good in the U.S., either. On Wednesday, The Wall Street Journal reported U.S. electric-vehicle sales fell 5% year-over-year in April, citing data from Motor Intelligence, with Tesla down 13%. Tesla sales in the U.S. fell 8.6% in the first quarter, according to Cox Automotive. Despite weakening sales, Tesla shares are up 55% over the past 12 months heading into Thursday's trading. That gain is despite estimates for 2025 vehicle sales going from 2.1 million vehicles to 1.7 million over the same span. Investors are more focused on AI opportunities. Tesla is slated to launch a robotaxi service in Austin, Texas, in June. Seeing Teslas take paying customers around the town without any drivers would go a long way to calming fears about the company's car business. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires May 08, 2025 10:25 ET (14:25 GMT)"
+                    "text": "India seeks WTO consultations with US over safeguard measures on auto components New Delhi, Jun 3 (PTI) India on Tuesday sought consultations with the US under the World Trade Organisation's (WTO) safeguard agreement over American tariffs on auto components. This move comes shortly after India reserved the right to impose retaliatory duties on select US products in response to American tariffs on steel and aluminium. On March 26, 2025, the US adopted a measure in the form of a tariff increase of 25 per cent ad valorem on imports of passenger vehicles and light trucks, and on certain automobile parts originating in or from India, a communication sent by India to WTO said. The measure on automobile parts applies from May 3, 2025 and for an unlimited duration. \"India considers that the measure, in its design and effect, constitutes a safeguard measure within the meaning of.... GATT (General Agreement on Trade and Tariff) 1994 and the Agreement on Safeguards, as it is intended to protect the US domestic industry from increased imports,\" it said. It added that the United States failed to notify the WTO Committee on safeguards under a provision of the Agreement on Safeguards (AoS) on taking a decision to apply the safeguard measure. \"Accordingly, as an affected Member with significant export interest to the United States in the products concerned, India requests consultations with the United States,\" it said. In the consultations, India would like to exchange views on the measure. \"India looks forward to receiving a prompt reply to this request from the United States and to setting a mutually convenient date and venue for the... consultations,\" it said. India reserves all its rights under the agreement establishing the WTO. The US imported USD 89 billion worth of auto parts globally last year, with Mexico accounting for USD 36 billion, China for USD 10.1 billion, and India for just USD 2.2 billion."
                 }
-            ],
-            "publication_time": "2025-05-08T14:25:38.532Z"
+            ]
         },
-        "id": "drn:archive.newsarticle.DJDN000020250508el58002y4",
+        "id": "drn:archive.newsarticle.PRTRIN0020250603el6300c1g",
         "type": "content"
     },
     {
         "meta": {
-            "original_doc_id": "DJDN000020250518el5i00017",
+            "original_doc_id": "PRESSA0020250603el63006mx",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "pressa",
+                "name": "Press Association National Newswire"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.PRESSA0020250603el63006mx"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "The recent trade agreement with the US \"is the very best deal that the UK could have hoped for under the circumstances,\" a Jaguar Land Rover director has told MPs."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "(c)2025, The Press Association, All Rights Reserved"
+            },
+            "content_type": "Article",
+            "load_time": "2025-06-03T15:52:37.938Z",
+            "modification_date": "2025-06-03",
+            "publication_date": "2025-06-03",
+            "load_date": "2025-06-03",
+            "headline": {
+                "main": {
+                    "text": "The recent trade agreement with the US \"is the very best deal that the UK could..."
+                }
+            },
+            "modification_time": "2025-06-03T15:52:14.000Z",
+            "content": [
+                {
+                    "text": "The recent trade agreement with the US \"is the very best deal that the UK could... The recent trade agreement with the US \"is the very best deal that the UK could have hoped for under the circumstances,\" a Jaguar Land Rover director has told MPs. Appearing before the Commons Business and Trade Committee, Murray Paul said: \"We have seen a complete change in the landscape internationally, and I think where the UK has found itself in the relationship that is established with the administration, from an automotive perspective, is the best we could possibly hope for.\" Car manufacturers would \"of course\" like the 100,000 quota for a 10% tariff on car imports into the US to be higher, an industry figure has said. Murray Paul, public affairs director at Jaguar Land Rover told the Business and Trade committee: \"Of course we'd prefer for it to be higher. \"But I think if we're honest it's there or thereabouts what the current market volume is of producing from the UK into the US. \"We are expectant that it's administered fairly, that if there's a small amount of pain that that is distributed equally amongst British manufacturers of goods. \"Obviously we would like it to grow in the future because we think there's a growth opportunity in the US market as the incredible cars that we produce in this country are admired around the world. \"But I think for now, it works\". Asked how it could be calculated which manufacturers car tipped over the 100,000 quota if the figure is reached, Mr Paul told the committee that has \"yet to be determined\". He added: \"Whilst it hasn't been decided yet, most car manufacturers are advocating taking the 2024 sales volume into the US, percentagising that and then applying that to the 100% and distributing it back out to the manufacturers, so that you have an allocation essentially that you're going to work within.\" A Tata Steel director has told MPs that the EU is moving faster to defend the industry in response to US tariffs than the UK, with a cost to the industry of up to \u00a3150 million a year. Russell Codling, director of markets, business development and commercial services, said his company is \"extremely exposed\" to divergence in prices since the US imposed new tariffs. He said: \"We can see where our prices in the UK have followed similarly those in the EU for many, many years. At the moment, we're seeing them diverge, and the divergence is leading to currently something in the order of about 100 to 150 million revenue a year loss in the UK, in comparison with Europe. \"So it is not just for us making sure that this deal (with the US) is the right deal, it is also about making sure that the trade protection measures are the appropriate ones in the UK, and they are at least as good as other trading partners around the world. When asked if the UK needs to go faster on the issue, Mr Codling said: \"Absolutely.\" It is \"very hard to know what the US policy\" within biosciences and pharmaceuticals is, an industry figure has suggested. Steve Bates, chief executive of BioIndustry Association, was asked by the business and trade committee what he was hoping to get out of the recent deal with the US for the UK life-sciences sector. He said: \"We were hoping to ensure that the most valuable export market for UK pharmaceuticals was protected, that we'd be able to grow that more quickly, that they'd continue to be a valuable partner in innovation and science. \"I think the challenge that we've had at this stage is that it's very hard to know what the US policy in our sector is, since they haven't actually defined what they want to do yet. \"It's very difficult to buy a pig in a poke, but that's where we're at.\" A leading businessman in the bioethanol sector has told MPs the sector was \"shocked and really upset\" by the terms of the UK's trade agreement with the US, adding the industry will be destroyed without a Government rescue plan."
+                }
+            ],
+            "publication_time": "2025-06-03T15:51:43.010Z"
+        },
+        "id": "drn:archive.newsarticle.PRESSA0020250603el63006mx",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "BSNLNO0020250603el630010g",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "bsnlno",
+                "name": "BusinessLine Online"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.BSNLNO0020250603el630010g"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "India has sought consultations with the US at the World Trade Organisation (WTO) on tariff increase of 25 per cent on imports of passenger vehicles (PVs) and light trucks, and on certain automobile parts, stating that these were safeguard ..."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "\u00a9 2025 THG Publishing Pvt. Ltd."
+            },
+            "content_type": "Article",
+            "load_time": "2025-06-03T14:39:55.481Z",
+            "modification_date": "2025-06-03",
+            "publication_date": "2025-06-03",
+            "load_date": "2025-06-03",
+            "byline": {
+                "text": "Amiti Sen"
+            },
+            "headline": {
+                "main": {
+                    "text": "India seeks consultations with US at WTO on auto tariffs"
+                }
+            },
+            "modification_time": "2025-06-03T14:39:24.000Z",
+            "content": [
+                {
+                    "text": "India seeks consultations with US at WTO on auto tariffs India has sought consultations with the US at the World Trade Organisation (WTO) on tariff increase of 25 per cent on imports of passenger vehicles (PVs) and light trucks, and on certain automobile parts, stating that these were safeguard measures that should have been notified by the US to the multilateral trade body. This comes on the heels of India reserving its rights at the WTO to retaliate against US tariffs on steel and aluminium. India may raise the issue of tariffs on both steel and aluminium and automobiles, seeking a rollback, in the ongoing bilateral trade agreement (BTA) negotiations with the US, sources said. Discuss compensation In its latest submission at the WTO, India pointed out that on March 26, 2025, the US adopted a measure in the form of a tariff increase of 25 per cent ad valorem on imports of PVs and light trucks, and on certain automobile parts originating in India. The measure on automobile parts applies from May 3 2025 and for an unlimited duration. \"India considers that the measure, in its design and effect, constitutes safeguard measure within the meaning of Article XIX of GATT 1994 and the Agreement on Safeguards (AoS), as it is intended to protect the US domestic industry from increased imports,\" it said. While India's export of cars and trucks to the US is low, that of its auto components to the country is significant and is estimated at around $6.8 billion in FY24. The US failed to notify the WTO Committee on Safeguards under Article 12.1(c) of the AoS on taking a decision to apply the safeguard measure. \"As an affected member with significant export interest to the United States in the products concerned, India requests consultations with the country to exchange views on the measure and to meet the objectives set out in Article 8.1, AoS,\" India submitted. This means that India wants to discuss compensation as Article 8.1 outlines the obligation of a member to compensate a trading partner for the application of a safeguard measure. This compensation requirement applies when a safeguard measure is imposed and causes, or threatens to cause, significant damage to the trading partner's exports. Safeguard measures India had also sought consultations with the US when it applied 25 per cent import duties on steel and aluminium products on March 12, 2025. While the US argued that the sector-specific duties were applied on national security grounds, India maintained that these were essentially safeguard duties. When wrongfully applied, the affected WTO member can seek permission for retaliation. \"The safeguard measures would affect $7.6 billion imports into the United States of the relevant products originating in India, on which the duty collection would be $1.91 billion,\" India's WTO submission noted. New Delhi proposed to suspend concessions on US goods of equivalent amount of duty at a later time. \"Now that the US is set to double steel and aluminium tariffs to 50 per cent from 25 per cent, the duty collection on India's exports of the items would have increased proportionately. It has to be seen if India gives a fresh submission on right for suspended concessions of a higher amount,\" a source pointed out."
+                }
+            ]
+        },
+        "id": "drn:archive.newsarticle.BSNLNO0020250603el630010g",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "DJDN000020250602el62002gf",
             "language": {
                 "code": "en"
             },
@@ -268,7 +248,7 @@
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250518el5i00017"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250602el62002gf"
         },
         "attributes": {
             "snippet": {
@@ -277,7 +257,7 @@
                         "text": "Al Root"
                     },
                     {
-                        "text": "Investors are looking for evidence that brand \"challenges\" caused by Tesla CEO Elon Musk's politics are fading. They're still waiting. A weekly update from China could be a sign this week."
+                        "text": "Shares of Ford Motor and General Motors were weak early Monday. Trade-related comments by President Donald Trump are the likeliest reason for the declines."
                     }
                 ]
             },
@@ -285,223 +265,213 @@
                 "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
             },
             "content_type": "Article",
-            "load_time": "2025-05-18T19:00:00.489Z",
-            "modification_date": "2025-05-18",
-            "publication_date": "2025-05-18",
-            "load_date": "2025-05-18",
+            "load_time": "2025-06-02T15:34:27.204Z",
+            "modification_date": "2025-06-02",
+            "publication_date": "2025-06-02",
+            "load_date": "2025-06-02",
             "headline": {
                 "main": {
-                    "text": "                           Tesla Demand Hasn't Rebounded Yet. Watch China This Week. -- Barrons.com"
+                    "text": "Ford, GM Stocks Are Slipping. Investors Want a Brake on Tariffs. -- Barrons.com"
                 }
             },
-            "modification_time": "2025-05-18T18:59:44.000Z",
+            "modification_time": "2025-06-02T15:34:12.000Z",
             "content": [
                 {
-                    "text": "Tesla Demand Hasn't Rebounded Yet. Watch China This Week. -- Barrons.com Al Root Investors are looking for evidence that brand \"challenges\" caused by Tesla CEO Elon Musk's politics are fading. They're still waiting. A weekly update from China could be a sign this week. Most recent sales data for the electric vehicle maker just hasn't been good, putting second-quarter delivery estimates at risk. Still, there is one caveat: Most of the data is from April, and Musk announced he would step back from some of his government responsibilities at the end of April. The first three months of the year didn't go as planned. Tesla delivered about 337,000 cars in the first quarter, down 13% from a year earlier and far below what Wall Street expected. At the start of 2025, the first-quarter delivery estimate was about 455,000 vehicles, according to FactSet. The miss even had CFO Vaibhav Taneja citing brand image \"challenges\" on his company's first-quarter earnings conference call. Those challenges might have been part of the reason Musk promised on the conference call to spend more time at Tesla than in Washington, D.C. Coming into Monday trading, Tesla stock was up 47% since the earnings report. An outside observer might assume some sales pickup has contributed to gains. They would be wrong. April sales in key European markets, including France, Germany, and the U.K., fell about 49% from a year ago after dropping about 45% in the first quarter. Tesla's April U.S. sales dropped about 13% after falling 9% in the first quarter. (Tesla's California sales dipped 15% in the first quarter.) April losses accelerated while things were supposed to be getting better with a new version of the Model Y shipping. The model refresh pickup has been slower than expected. Tesla forecaster, who goes by @troyteslike on X and who is widely followed by Wall Street, projects U.S. Model Y production of about 84,000 in the second quarter, up 17% from the first quarter but down about 12% from a year ago. In China, the second quarter started weakly, likely because of U.S.-China trade tensions. Tesla sales in the first six weeks of the second quarter, based on registration data followed by Wall Street, fell about 26% from a year ago. Chinese sales were roughly flat in the first quarter. Investors can look for 13,000 Chinese deliveries from last week when the number becomes available. That would be close to flat from a year ago and a sign that things were normalizing. Below 13,000, and Wall Street will start to reconsider second-quarter estimates. Currently, Wall Street expects about 412,000 cars delivered, up more than 20% from the first quarter but down 7% from last year. What the impact of falling delivery estimates on the stock is hard to say. They haven't impacted the stock lately. The stock market, of course, is forward-looking. Right now, investors are excited about self-driving taxis and robots. (Tesla is planning to launch a robotaxi service in Austin, Texas, in June.) Still, growing car sales certainly couldn't hurt the situation. Coming into Monday trading, Tesla stock was down about 13% year to date, 12 percentage points behind the S&P 500. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires May 18, 2025 12:20 ET (16:20 GMT)"
+                    "text": "Ford, GM Stocks Are Slipping. Investors Want a Brake on Tariffs. -- Barrons.com Al Root Shares of Ford Motor and General Motors were weak early Monday. Trade-related comments by President Donald Trump are the likeliest reason for the declines. \"It used to bother me [that] they make a part in Canada, a part in Mexico, a part in Europe, send it all over the place, nobody knew what the hell was happening,\" said President Trump at a Friday afternoon news conference thanking Elon Musk for his work at the Department of Government Efficiency. \"If you build a car, make it in America.\" President Trump went on to add that while he's given the industry some time -- about a year -- to adjust its parts supply, he expects parts manufacturing to come back to the U.S. GM and Ford stocks were down 4.7% and 4.4%, respectively, in early trading Monday. Stellantis shares were down 3.4%, while the S&P 500 and Dow Jones Industrial Average were down 0.3% and down 0.5%, respectively. Trump's tariff policy has loomed over the sector for months. There is a 25% import tariff on car imports. Roughly half the cars sold in the U.S. are imported, mainly from Mexico, Canada, Japan, and South Korea. Manufacturers have started to raise prices to offset tariffs, after existing pre-tariff inventory was sold. The parts issue looks to be a longer term problem for the industry to deal with. Auto makers including Ford have pointed out the difficult of making all parts in the U.S. a variety of ways. For starters, it makes sense for lower value parts to be made in lower-wage regions, such a Mexico. And it isn't easy to staff plants to, essentially, stamp metal repetitively. What's more, the U.S. doesn't make some things such as LED displays any more. Low-cost parts, common in both Asia and Europe -- and North America for now -- help auto makers keep new-car prices affordable. The president's recent comments demonstrate again that investors will be worrying about cost and the impact of affordability on demand for a while yet. Coming into Monday trading, Ford and GM stocks were up about 2% and 3%, respectively since President Trump's April 2 \"Liberation Day\" tariff announcement; however, the shares were down 2% and 8%, respectively, since the Nov. 5 election. Shares seem stuck while investors wait for clarity. Investors are really hoping for a change in Trump's policies regarding tariffs on parts. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires June 02, 2025 11:33 ET (15:33 GMT)"
                 }
             ],
-            "publication_time": "2025-05-18T16:20:53.313Z"
+            "publication_time": "2025-06-02T15:33:24.021Z"
         },
-        "id": "drn:archive.newsarticle.DJDN000020250518el5i00017",
+        "id": "drn:archive.newsarticle.DJDN000020250602el62002gf",
         "type": "content"
     },
     {
         "meta": {
-            "original_doc_id": "DJDN000020250506el56001q4",
+            "original_doc_id": "NAFTA00020250602el620002z",
             "language": {
                 "code": "en"
             },
             "source": {
-                "code": "djdn",
-                "name": "Dow Jones Institutional News"
+                "code": "nafta",
+                "name": "CE NAFTA 2.0-USMCA"
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250506el56001q4"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.NAFTA00020250602el620002z"
         },
         "attributes": {
             "snippet": {
                 "content": [
                     {
-                        "text": "Al Root"
-                    },
-                    {
-                        "text": "Tesla stock fell early Tuesday after more bad sales news out of Europe. Sales just haven't picked up yet."
-                    },
-                    {
-                        "text": "Shares of the electric vehicle maker were falling 1.8% at $275.13 in premarket trading, while S&P 500 and Dow Jones Industrial ..."
+                        "text": "Faced with the uncertainty generated by President Donald Trump's trade policy, Mexican companies are opting to export under the Mexico-United States-Canada Agreement (T-MEC). But which are the sectors that most use this protection?"
                     }
                 ]
             },
             "copyright": {
-                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+                "text": "Copyright \u00a9 ContentEngineLLC"
             },
             "content_type": "Article",
-            "load_time": "2025-05-06T12:18:09.154Z",
-            "modification_date": "2025-05-06",
-            "publication_date": "2025-05-06",
-            "load_date": "2025-05-06",
-            "headline": {
-                "main": {
-                    "text": "                           Tesla Stock Falls as Sales in Germany Tumble. It's About More Than Musk. -- Barrons.com"
-                }
-            },
-            "modification_time": "2025-05-06T12:17:08.000Z",
-            "content": [
-                {
-                    "text": "Tesla Stock Falls as Sales in Germany Tumble. It's About More Than Musk. -- Barrons.com Al Root Tesla stock fell early Tuesday after more bad sales news out of Europe. Sales just haven't picked up yet. Shares of the electric vehicle maker were falling 1.8% at $275.13 in premarket trading, while S&P 500 and Dow Jones Industrial Average futures were down 0.3% and 0.4%, respectively. Tesla's April sales in Germany amounted to 885 vehicles, down 46% year over year, according to the Federal Motor Transit Authority. It's one of the latest sales data points Tesla investors have. Across Europe Tesla sales dropped 37% year over year in the first quarter. Globally, Tesla delivered about 337,000 vehicles during the three months -- down 13% year over year. Falling sales stoked fears that CEO Elon Musk's political activities were turning off some car buyers. Tesla management admitted to some brand \"challenges\" on their company's first-quarter earnings conference call. Those challenges could be part of the reason Musk announced during the call he would be spending less time in Washington, D.C. heading the Department of Government Efficiency. To be sure, Musk made his decision in late April, and the weak sales number represents one month in one country. But Tesla sales don't seem to be getting a bounce from an updated version of the Model Y. The Model Y is one of the best-selling vehicles on the planet. Failure to get a sales bump from an updated model would be another disappointment for investors. Tariff uncertainty could be hitting Tesla stock, too. President Donald Trump recently altered his auto tariff policies, giving manufacturers some relief on imported parts, but tariffs still threaten industry profits -- and no one knows just how bad things can get. Ford Motor reported first-quarter earnings on Monday evening. It suspended full-year financial guidance, estimating a 2025 \"gross\" tariff impact of $2.5 billion and a \"net\" tariff impact of $1.5 billion. (Ford will work to offset tariff-related cost increases.) Ford's prior financial guidance called for a 2025 operating profit of about $7.8 billion, so the $1.5 billion net impact is about 20% of prior guidance. General Motors trimmed its financial guidance by almost 25%. The midpoint of its 2025 operating profit is now about $11.3 billion, down from $14.7 billion. GM imports about 40% of the cars it sells domestically. Ford imports about 20%. Chrysler parent Stellantis imports just over 40% of the vehicles it sells domestically. Stellantis suspended its financial guidance at the end of April. Its prior guidance provided in February called for positive sales growth and mid-single-digit operating profit margins. Tesla doesn't give guidance, and it assembles all the cars it sells domestically in the U.S. It has a lower tariff exposure than most auto makers, but still faces tariffs on some imported parts. \"Tariffs are still tough on a company when margins are still low,\" said Tesla CEO Elon Musk on Tesla's first-quarter earnings conference call. \"But we do have localized supply chains in...America, Europe, and China.\" Tesla reported a first-quarter operating profit margin of just 2%. It was the weakest margin since the second quarter of 2019. Rivian reports first-quarter earnings on Tuesday evening. It also assembles all the cars sold in the U.S. domestically. Investors will get another chance to see how parts tariffs could affect a car maker. Coming into Tuesday's trading, Tesla shares were down about 31% so far this year. Shares of Stellantis and GM were down 28% and 15%, respectively. Shares of Ford and Rivian were up 3% and 2%, respectively. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires May 06, 2025 08:15 ET (12:15 GMT)"
-                }
-            ],
-            "publication_time": "2025-05-06T12:15:46.500Z"
-        },
-        "id": "drn:archive.newsarticle.DJDN000020250506el56001q4",
-        "type": "content"
-    },
-    {
-        "meta": {
-            "original_doc_id": "DJDN000020250422el4m003rc",
-            "language": {
-                "code": "en"
-            },
-            "source": {
-                "code": "djdn",
-                "name": "Dow Jones Institutional News"
-            }
-        },
-        "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250422el4m003rc"
-        },
-        "attributes": {
-            "snippet": {
-                "content": [
-                    {
-                        "text": "Tesla's net income slid 71% in the first quarter, as the company struggled to overcome competitive pressure overseas and a reputational hit from Chief Executive Elon Musk's polarizing role in the Trump administration."
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
-            },
-            "content_type": "Article",
-            "load_time": "2025-04-30T17:57:20.329Z",
-            "modification_date": "2025-04-30",
-            "publication_date": "2025-04-22",
-            "load_date": "2025-04-30",
+            "load_time": "2025-06-02T19:43:26.153Z",
+            "modification_date": "2025-06-02",
+            "publication_date": "2025-06-02",
+            "load_date": "2025-06-02",
             "byline": {
-                "text": "By Sean McLain"
+                "text": "Rodrigo Rosales"
             },
             "headline": {
                 "main": {
-                    "text": "                           Tesla Profit Sinks, Hurt by Backlash Over Elon Musk's Political Role -- Update"
+                    "text": "Automotive industry, the largest exporter within T-MEC"
                 }
             },
-            "modification_time": "2025-04-30T17:56:49.000Z",
+            "modification_time": "2025-06-02T19:42:43.000Z",
             "content": [
                 {
-                    "text": "Tesla Profit Sinks, Hurt by Backlash Over Elon Musk's Political Role -- Update Tesla's net income slid 71% in the first quarter, as the company struggled to overcome competitive pressure overseas and a reputational hit from Chief Executive Elon Musk's polarizing role in the Trump administration. Musk said he would be devoting significantly less time to his federal cost-cutting work at the Department of Government Efficiency starting next month, but struck a defiant tone against critics. \"I believe the right thing to do is to fight the waste and fraud and try to get the country back on the right track,\" Musk said on a call with analysts after the quarterly earnings report Tuesday. The electric-vehicle maker also reported adjusted earnings per share of 27 cents, which missed analysts' expectations of 41 cents. Tesla said that shifting trade policies, exacerbated by the administration's tariff regime, are stressing supply chains while adding to the automaker's costs. Tesla imports some of its battery cells from China, but said it was looking to source them from the U.S. instead. The trade fight and \"changing political sentiment\" could weigh on demand for its vehicles, the company said, leading it to potentially revisit its sales forecast for the year. Tesla previously said it expected vehicle sales to rise this year, after reporting a rare drop in 2024. Musk sighed deeply on Tuesday's call before addressing the Trump administration's trade war. The CEO said he has advocated for lower tariffs and would continue to do so. \"I just want to emphasize that the tariff decision is entirely up to the president of the United States,\" Musk said. \"Whether he will listen to my advice is up to him.\" Tesla shares were up more than 3% in after-hours trading on Tuesday, after gaining 4.6% ahead of the first-quarter report. Analysts attributed the rise to investors taking comfort in Tesla reaffirming plans to launch more affordable models later this year. The company's first-quarter revenue fell after a steep decline in automotive sales, including double-digit percentage drops in crucial markets such as the U.S., China and Germany. The drop in vehicle sales and weaker selling prices -- dented by more-generous sales promotions -- hurt revenue and the bottom line, Tesla said. The company also cited several weeks of lost production time across its four factories to prepare for the recent launch of a retooled Model Y, its top seller. Larger investments in artificial intelligence also weighed down profit. Musk has said that autonomous cars and other AI innovations are central to Tesla's growth prospects. Even before Musk's entrance into partisan politics sapped some of the brand's goodwill among consumers, Tesla was contending with slowing demand for its vehicles. The company has long touted the potential of its nonautomotive businesses as a way to expand the company beyond the core car business. The sharp quarterly sales and profit declines masked an otherwise bright spot in Tesla's energy-storage and services businesses, which had double-digit growth in the first quarter. The next step for Tesla is the launch of its fleet of robotaxis, which Musk has compared to a combination of Uber and Airbnb. The company said it was on track to launch its first driverless taxi service in Austin, Texas, in June. Still, Tesla reported $19.3 billion in revenue for the quarter, down 9% compared with the same period last year. Revenue from the company's automotive business fell 20%. The energy business grew 67%. Tesla also reported $595 million in revenue from other automakers that pay Tesla for carbon credits to offset their sale of conventional vehicles, up sharply from a year earlier. The company reported a 2.1% operating margin for the quarter, compared with 5.5% a year earlier. Tesla's global vehicle deliveries fell 13% in the first quarter, partly because of a consumer backlash against the brand in response to Musk's role as President Trump's cost-cutting czar. Tesla has faced protests across the U.S. and Europe, and some of its stores and charging stations have been vandalized or even set on fire."
+                    "text": "Automotive industry, the largest exporter within T-MEC Faced with the uncertainty generated by President Donald Trump's trade policy, Mexican companies are opting to export under the Mexico-United States-Canada Agreement (T-MEC). But which are the sectors that most use this protection? According to the latest quarterly report from Banco de M\u00e9xico, January-March 2025, during the past year, almost 100% of the trucks, 80% of the cars and more than half of the auto parts that Mexico exported to the United States used the T-MEC. So did 100% of some fruits and vegetables, dairy products and eggs. In contrast, goods such as telephones, cell phones, computers and medical instruments were exported without using the treaty. The U.S. administration that took office in January of this year has made a substantial change in the direction of U.S. trade policy. In particular, it has imposed tariffs of significant magnitude on all its trading partners, explains Banxico. However, trade under the T-MEC has continued to receive preferential treatment, as most of the products traded under the agreement have remained tariff-free, although some steel and aluminum products face tariffs of 25%, and cars 15%. T-MEC rules of origin The Mexican central bank's quarterly report details that exporting under the T-MEC allows tariff-free access to the U.S. market. In order to export under this benefit, companies must comply with the rules of origin stipulated in the treaty. The rules of origin require that under the transaction value approach, more than 50% of the content must come from T-MEC member countries or that under the net cost approach, such percentage must be at least 60%. In the case of automobiles, the percentage of regional content increases to 75%. Until February 2025, according to Banxico, goods imported by the United States outside of a trade agreement faced Most Favored Nation (MFN) tariffs, which were relatively low in general, and in several cases close to or equal to zero. For example, Mexico's non-treaty exports of automotive goods to the United States in 2024 faced an average effective tariff of 1.4%. For non-automotive products the average effective tariff was only 0.2%, reads the central institution's report. In the absence of the T-MEC, it is estimated that the average tariff for total Mexican exports in 2024 would have been 3.2%, being on average higher for automotive exports (8.1%) than for non-automotive (3.4%). Photo art: Andrea Vel\u00e1zquez Estimates without T-MEC In the absence of the T-MEC, the average tariff for total Mexican exports in 2024 would be 3.2%; higher on average for automotive exports (8.1%) than for non-automotive exports (3.4%). In general, sectors that have faced relatively high MFN tariffs for the export of their products to the United States have tended to make more intensive use of the treaty. Banxico cites the example of trucks, which face a 25% MFN tariff, which has encouraged the creation of regional supply chains that have allowed almost all of these goods to be exported under the agreement. Cars and auto parts, on the other hand, face relatively low average MFN tariffs of 2.5% and 1.3%, respectively, so the cost of not complying with the rules of origin is lower. Thus, in 2024, 18% of the value of cars exported to the United States and 43% of auto parts were traded without using the Agreement. In the case of goods such as telephones, cell phones, computers and medical instruments, the MFN tariff is 0%, so exporting under the treaty does not confer a benefit in terms of tariff savings, while it would imply higher administrative costs and less flexibility to organize their supply chains."
                 }
-            ],
-            "publication_time": "2025-04-22T22:31:15.712Z"
+            ]
         },
-        "id": "drn:archive.newsarticle.DJDN000020250422el4m003rc",
+        "id": "drn:archive.newsarticle.NAFTA00020250602el620002z",
         "type": "content"
     },
     {
         "meta": {
-            "original_doc_id": "WSJO000020250422el4m0053d",
+            "original_doc_id": "TOI0000020250603el630008l",
             "language": {
                 "code": "en"
             },
             "source": {
-                "code": "wsjo",
-                "name": "The Wall Street Journal Online"
+                "code": "toi",
+                "name": "The Times of India"
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.WSJO000020250422el4m0053d"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.TOI0000020250603el630008l"
         },
         "attributes": {
             "snippet": {
                 "content": [
                     {
-                        "text": "Tesla's net income slid 71% in the first quarter, as the company struggled to overcome competitive pressure overseas and a reputational hit from Chief Executive Elon Musk's polarizing role in the Trump administration."
+                        "text": "India has formally requested consultations with the United States under the World Trade Organisation\u2019s (WTO) Agreement on Safeguards, challenging recent American tariffs imposed on automobile parts.The move follows India\u2019s earlier decision ..."
                     }
                 ]
             },
             "copyright": {
-                "text": "Copyright 2025 Dow Jones & Company, Inc. All Rights Reserved."
+                "text": "(c) 2025 The Times of India Group"
             },
             "content_type": "Article",
-            "load_time": "2025-04-30T17:50:41.980Z",
-            "modification_date": "2025-04-30",
-            "publication_date": "2025-04-22",
-            "load_date": "2025-04-30",
+            "load_time": "2025-06-03T13:36:48.834Z",
+            "modification_date": "2025-06-03",
+            "publication_date": "2025-06-03",
+            "load_date": "2025-06-03",
             "byline": {
-                "text": "By Sean McLain"
+                "text": "TOI Business Desk"
             },
             "headline": {
                 "main": {
-                    "text": "                           Tesla Profit Sinks, Hurt by Backlash Over Elon Musk's Political Role; CEO says he will spend significantly less time on DOGE starting in May; electric-vehicle maker's net income falls 71%"
+                    "text": "India invokes WTO mechanism to address US safeguard duties on auto components"
                 }
             },
-            "modification_time": "2025-04-30T17:50:13.000Z",
+            "modification_time": "2025-06-03T13:35:19.000Z",
             "content": [
                 {
-                    "text": "Tesla Profit Sinks, Hurt by Backlash Over Elon Musk's Political Role; CEO says he will spend significantly less time on DOGE starting in May; electric-vehicle maker's net income falls 71% Corrections & Amplifications Tesla's services business saw double-digit growth in the first quarter. An earlier version of this article incorrectly attributed the growth to software subscriptions. (Corrected on April 30) https://asset.wsj.net/wsjnewsgraphics/projects/narrator/d90969df-db3f-4890-9f4e-2892f502493a.json Tesla's net income slid 71% in the first quarter, as the company struggled to overcome competitive pressure overseas and a reputational hit from Chief Executive Elon Musk's polarizing role in the Trump administration. Musk said he would be devoting significantly less time to his federal cost-cutting work at the Department of Government Efficiency starting next month, but struck a defiant tone against critics. \"I believe the right thing to do is to fight the waste and fraud and try to get the country back on the right track,\" Musk said on a call with analysts after the quarterly earnings report Tuesday. The electric-vehicle maker also reported adjusted earnings per share of 27 cents, which missed analysts' expectations of 41 cents. Tesla said that shifting trade policies, exacerbated by the administration's tariff regime, are stressing supply chains while adding to the automaker's costs. Tesla imports some of its battery cells from China, but said it was looking to source them from the U.S. instead. The trade fight and \"changing political sentiment\" could weigh on demand for its vehicles, the company said, leading it to potentially revisit its sales forecast for the year. Tesla previously said it expected vehicle sales to rise this year, after reporting a rare drop in 2024. Musk sighed deeply on Tuesday's call before addressing the Trump administration's trade war. The CEO said he has advocated for lower tariffs and would continue to do so. \"I just want to emphasize that the tariff decision is entirely up to the president of the United States,\" Musk said. \"Whether he will listen to my advice is up to him.\" Tesla shares were up more than 3% in after-hours trading on Tuesday, after gaining 4.6% ahead of the first-quarter report. Analysts attributed the rise to investors taking comfort in Tesla reaffirming plans to launch more affordable models later this year. The company's first-quarter revenue fell after a steep decline in automotive sales, including double-digit percentage drops in crucial markets such as the U.S., China and Germany. The decline in vehicle sales and weaker selling prices\u2014dented by more-generous sales promotions\u2014hurt revenue and the bottom line, Tesla said. The company also cited several weeks of lost production time across its four factories to prepare for the recent launch of a retooled Model Y, its top seller. Larger investments in artificial intelligence also weighed down profit. Musk has said that autonomous cars and other AI innovations are central to Tesla's growth prospects. Even before Musk's entrance into partisan politics sapped some of the brand's goodwill among consumers, Tesla was contending with slowing demand for its vehicles. The company has long touted the potential of its nonautomotive businesses as a way to expand the company beyond the core car business. The sharp quarterly sales and profit declines masked an otherwise bright spot in Tesla's energy-storage and services businesses, which had double-digit growth in the first quarter. The next step for Tesla is the launch of its fleet of robotaxis, which Musk has compared to a combination of Uber and Airbnb. The company said it was on track to launch its first driverless taxi service in Austin, Texas, in June. Still, Tesla reported $19.3 billion in revenue for the quarter, down 9% compared with the same period last year. Revenue from the company's automotive business fell 20%. The energy business grew 67%. Tesla also reported $595 million in revenue from other automakers that pay Tesla for carbon credits to offset their sale of conventional vehicles, up sharply from a year earlier. The company reported a 2.1% operating margin for the quarter, compared with 5.5% a year earlier."
+                    "text": "India invokes WTO mechanism to address US safeguard duties on auto components India has formally requested consultations with the United States under the World Trade Organisation\u2019s (WTO) Agreement on Safeguards, challenging recent American tariffs imposed on automobile parts.The move follows India\u2019s earlier decision to reserve the right to impose retaliatory duties on select US goods in response to Washington\u2019s tariffs on steel and aluminium.According to a communication sent by India to the WTO, the US on March 26, 2025, adopted a measure increasing tariffs by 25 per cent ad valorem on imports of passenger vehicles, light trucks, and certain auto components originating in or from India. These duties came into effect on May 3, 2025, and have been applied for an indefinite period, PTI reported.\"India considers that the measure, in its design and effect, constitutes a safeguard measure within the meaning of... GATT (General Agreement on Tariffs and Trade) 1994 and the Agreement on Safeguards, as it is intended to protect the US domestic industry from increased imports,\" the communication stated.India further noted that the United States failed to notify the WTO Committee on Safeguards about the decision to apply such measures, as required under the provisions of the Agreement on Safeguards (AoS).\"Accordingly, as an affected Member with significant export interest to the United States in the products concerned, India requests consultations with the United States,\" the communication added.India said it seeks to exchange views on the measure and its implications during the consultations.\"India looks forward to receiving a prompt reply to this request from the United States and to setting a mutually convenient date and venue for the... consultations,\" it said.India also reserved all its rights under the agreement establishing the WTO.In 2024, the United States imported auto parts worth USD 89 billion globally. Mexico was the top supplier at USD 36 billion, followed by China at USD 10.1 billion. India accounted for USD 2.2 billion of those imports. For Reprint Rights: timescontent.com"
                 }
-            ],
-            "publication_time": "2025-04-22T22:31:00.000Z"
+            ]
         },
-        "id": "drn:archive.newsarticle.WSJO000020250422el4m0053d",
+        "id": "drn:archive.newsarticle.TOI0000020250603el630008l",
         "type": "content"
     },
     {
         "meta": {
-            "original_doc_id": "DJDN000020250422el4m003sa",
+            "original_doc_id": "KORTIM0020250603el630000i",
             "language": {
                 "code": "en"
             },
             "source": {
-                "code": "djdn",
-                "name": "Dow Jones Institutional News"
+                "code": "kortim",
+                "name": "Korea Times"
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250422el4m003sa"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.KORTIM0020250603el630000i"
         },
         "attributes": {
             "snippet": {
                 "content": [
                     {
-                        "text": "Tesla's net income slid 71% in the first quarter, as the company struggled to overcome competitive pressure overseas and a reputational hit from Chief Executive Elon Musk's polarizing role in the Trump administration."
+                        "text": "The nation\u2019s auto industry is trapped in a double whammy of drastic declining exports and a domestic consumption slump amid a prolonged leadership vacuum."
                     }
                 ]
             },
             "copyright": {
-                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+                "text": "(c) 2025 Korea Times.  All rights reserved."
             },
             "content_type": "Article",
-            "load_time": "2025-04-30T17:55:44.093Z",
-            "modification_date": "2025-04-30",
-            "publication_date": "2025-04-22",
-            "load_date": "2025-04-30",
+            "load_time": "2025-06-03T14:52:54.892Z",
+            "modification_date": "2025-06-03",
+            "publication_date": "2025-06-03",
+            "load_date": "2025-06-03",
+            "headline": {
+                "main": {
+                    "text": "Carmakers face double whammy of export fall, domestic slump amid leadership vacuum"
+                }
+            },
+            "modification_time": "2025-06-03T14:51:07.000Z",
+            "content": [
+                {
+                    "text": "Carmakers face double whammy of export fall, domestic slump amid leadership vacuum The nation\u2019s auto industry is trapped in a double whammy of drastic declining exports and a domestic consumption slump amid a prolonged leadership vacuum. The export decline is attributed to U.S. President Donald Trump\u2019s 25 percent auto tariff, which is expected to cause serious earnings damage to Hyundai Motor, Kia and General Motors (GM) Korea. The weakening domestic consumption is also cited as another major risk for the major automakers. Data from four major carmakers \u2014 Hyundai Motor, Kia, KG Mobility and GM Korea \u2014 reported a drop in domestic sales in May. Hyundai Motor\u2019s vehicle sales decreased 5.2 percent last month from a year earlier, while those of Kia also dropped by 2.4 percent during the same period. KG Mobility and GM Korea suffered even bigger declines, with sales falling 11 percent and 39.8 percent, respectively. Renault Korea was the only top-five carmaker to report a sales growth last month. This was triggered by the economy\u2019s continuous exposure to weak demand. Despite the economic slump, Korea has in recent months failed to implement any preemptive policy measures, after former President Yoon Suk Yeol was impeached over his martial law declaration. Industry officials argue the chaotic political environment has further aggravated the economic downturn. \u201cThe incumbent government seems to have lost its steam when it comes to taking timely actions for the economy following the removal of Yoon from office,\u201d an auto industry official said. \u201cThe next government is advised to focus more on reviving the economy to help major firms, including carmakers, achieve sustainable growth.\u201d To make matters worse, the carmakers are faced with growing management uncertainties due to the escalating tariff pressure from the United States. Seoul and Washington held several rounds of trade talks to narrow their differences on a series of trade agendas, but the two sides have yet to reach any meaningful outcome. Korea\u2019s top priority in its ongoing trade negotiations with the U.S. is to abolish the auto tariff, as cars are one of the nation's top two export items, along with semiconductors. Automakers expect the inauguration of the next president to help reduce the lingering tariff-related uncertainties, even if it still requires more time for the economy to achieve any meaningful recovery. However, the absence of any vehicle-related policies from the two major presidential candidates' campaign pledges still remains a concern, according to industry officials. Both Democratic Party of Korea candidate Lee Jae-myung and People Power Party candidate Kim Moon-soo have focused on expanding the supply of electric vehicles (EVs), but officials said this is not enough, as the industry is now struggling to overcome the EV chasm before their mass adoption. \u201cThe government should pay more attention to resolving the tariff risk rather than focusing on sharing any unrealistic populist policy drives in support of future mobility,\u201d another industry official said."
+                }
+            ]
+        },
+        "id": "drn:archive.newsarticle.KORTIM0020250603el630000i",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "ECTDEL0020250604el640000o",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "ectdel",
+                "name": "The Economic Times - Delhi Edition"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.ECTDEL0020250604el640000o"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "SAFEGUARD AGREEMENTParis: Days after India reserved the right to impose retaliatory duties on select US products in response to American tariffs on steel and aluminium, on Tuesday New Delhi sought consultations with the US under WTO ..."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright \u00a9 2025. Bennett, Coleman & Co., Ltd."
+            },
+            "content_type": "Article",
+            "load_time": "2025-06-04T04:03:43.777Z",
+            "modification_date": "2025-06-04",
+            "publication_date": "2025-06-04",
+            "load_date": "2025-06-04",
             "byline": {
-                "text": "By Sean McLain"
+                "text": "Our Bureau"
             },
             "headline": {
                 "main": {
-                    "text": "                           Tesla Profit Sinks, Hurt by Backlash Over Elon Musk's Political Role -- WSJ"
+                    "text": "Consultations Sought with US on Auto Parts Levies"
                 }
             },
-            "modification_time": "2025-04-30T17:55:25.000Z",
+            "modification_time": "2025-06-04T04:03:09.000Z",
             "content": [
                 {
-                    "text": "Tesla Profit Sinks, Hurt by Backlash Over Elon Musk's Political Role -- WSJ Tesla's net income slid 71% in the first quarter, as the company struggled to overcome competitive pressure overseas and a reputational hit from Chief Executive Elon Musk's polarizing role in the Trump administration. The electric-vehicle maker also reported adjusted earnings-per-share of 27 cents, which missed analysts' expectations of 41 cents. Tesla said that shifting trade policies, exacerbated by the administration's tariff regime, are stressing supply chains while adding to the automaker's costs. The trade fight and \"changing political sentiment\" could weigh on demand for its vehicles, the company said, leading it to potentially revisit its sales forecast for the year. Tesla previously said it expected vehicle sales to rise this year, after reporting a rare drop in 2024. Tesla shares were flat in after-hours trading on Tuesday, after gaining 4.6% ahead of the first-quarter report. The company's first-quarter revenue fell after a steep decline in automotive sales, including double-digit percentage drops in crucial markets such as the U.S., China and Germany. The drop in vehicle sales and weaker selling prices -- dented by more-generous sales promotions -- hurt revenue and the bottom line, Tesla said. It also cited several weeks of lost production time across its four factories to prepare for the recent launch of a retooled Model Y, its top seller. Larger investments in artificial intelligence also weighed down profit. Musk has said that autonomous cars and other AI innovations are central to Tesla's growth prospects. Even before Musk's entrance into partisan politics sapped some of the brand's goodwill among consumers, Tesla was contending with slowing demand for its vehicles. The company has long touted the potential of its nonautomotive businesses as a way to expand the company beyond the core car business. The sharp quarterly sales and profit declines masked an otherwise bright spot in Tesla's energy-storage and services businesses, which had double-digit growth in the first quarter. The next step for Tesla is the launch of its fleet of robotaxis, which Musk has compared to a combination of Uber and Airbnb. The company said it was on track to launch its first driverless taxi service in Austin, Texas, in June. Still, Tesla reported $19.3 billion in revenue for the quarter, down 9% compared with the same period last year. Revenue from the company's automotive business fell 20%. The energy business grew 67%. Tesla also reported $595 million in revenue from other automakers who pay Tesla for carbon credits to offset their sale of conventional vehicles, up sharply from a year earlier. The company reported a 2.1% operating margin for the quarter, compared with 5.5% a year earlier. Tesla's global vehicle deliveries fell 13% in the first quarter, partly because of a consumer backlash against the brand in response to Musk's role as President Trump's cost-cutting czar. Tesla has faced protests across the U.S. and Europe, and some of its stores and charging stations have been vandalized or even set on fire. Some analysts also have said that customers likely delayed purchases as they waited for the recent introduction of a refreshed version of Tesla's Model Y, the company's top seller. Tesla also is contending with 25% tariffs imposed on auto imports. While Tesla builds its U.S.-sold cars in Texas and California, it relies on neighboring countries for components, including Mexico, which supplies more than 20% of its parts, according to federal data. Estimates from third-party research providers show significant sales declines in some of Tesla's biggest markets, including California and China. The company doesn't disclose delivery figures by model or region. In California, the nation's largest EV market, Tesla's first-quarter market share fell to 44% of all zero-emission vehicle registrations in the state, from 56% a year earlier, according to the California New Car Dealers Association. Tesla shipments fell about 22% in the quarter in China, while its deliveries sank 62% in Germany, according to industry trade groups. To spur sales, Tesla in April released a less-expensive version of the Cybertruck, priced at $69,990, with low-cost features including fabric seats. The company is also developing a lower-cost version of its Model Y. Write to Sean McLain at sean.mclain@wsj.com Corrections & Amplifications This article was corrected on April 30, 2025 to show that Tesla's services business saw double-digit growth in the first quarter. The original version incorrectly attributed the growth to software subscriptions. (END) Dow Jones Newswires April 22, 2025 17:42 ET (21:42 GMT)"
+                    "text": "Consultations Sought with US on Auto Parts Levies SAFEGUARD AGREEMENTParis: Days after India reserved the right to impose retaliatory duties on select US products in response to American tariffs on steel and aluminium, on Tuesday New Delhi sought consultations with the US under WTO safeguard agreement over American tariffs on auto components. On March 26, the US adopted a measure in the form of a tariff increase of 25% ad valorem on imports of passenger vehicles and light trucks, and certain automobile parts originating in or from India. The measure on automobile parts applies from May 3 and for an unlimited duration. \"India considers that the measure, in its design and effect, constitutes a safeguard measure within the meaning of.... GATT (General Agreement on Trade and Tariff) 1994 and the Agreement on Safeguards, as it is intended to protect the US domestic industry from increased imports,\" India told the WTO. It added that the US failed to notify the WTO Committee on safeguards under a provision of the Agreement on Safeguards (AoS) on taking a decision to apply the safeguard measure. \"Accordingly, as an affected member with significant export interest to the United States in the products concerned, India requests consultations with the United States,\" it said."
                 }
-            ],
-            "publication_time": "2025-04-22T21:42:21.508Z"
+            ]
         },
-        "id": "drn:archive.newsarticle.DJDN000020250422el4m003sa",
+        "id": "drn:archive.newsarticle.ECTDEL0020250604el640000o",
         "type": "content"
     }
 ]

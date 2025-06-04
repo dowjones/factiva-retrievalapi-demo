@@ -3,43 +3,24 @@
         "attributes": {
             "response_limit": 10,
             "query": {
-                "value": "Summarise tariff decisions by the US administration during April and May 2025 and their impact for Tesla",
+                "value": "Summarise tariff decisions by the US administration over the last few months and their impact on the automotive industry worldwide",
                 "search_filters": [
                     {
                         "scope": "Language",
-                        "value": "en or es or it"
-                    },
-                    {
-                        "scope": "Organization",
-                        "value": "TESLMI"
-                    },
-                    {
-                        "scope": "NewsSubject",
-                        "value": "C151"
+                        "value": "en or es or it or zhcn or zhtw or de or fr"
                     },
                     {
                         "scope": "Industry",
                         "value": "IAUT"
-                    },
-                    {
-                        "scope": "Source",
-                        "value": "DJDN or J or WSJO or B"
-                    },
-                    {
-                        "scope": "Region",
-                        "value": "USA"
                     }
                 ],
                 "date": {
-                    "custom": {
-                        "from": "2025-04-01",
-                        "to": "2025-05-31"
-                    }
+                    "days_range": "Last3Months"
                 }
             },
             "metrics_data": {
                 "user_id": "9cdbfc51d86b7de9136f77b69fa4e060",
-                "work_id": "f5d9c5dceec5457d885489fded103fed"
+                "work_id": "bcd4e9bed9774677ad7b91923401c031"
             }
         },
         "id": "GenAIRetrievalExample",
