@@ -1,6 +1,55 @@
 [
     {
         "meta": {
+            "original_doc_id": "MRKWC00020250604el640018h",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "mrkwc",
+                "name": "MarketWatch"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.MRKWC00020250604el640018h"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "U.S. trade wars turbocharged sales of new cars and trucks in the spring to a four-year high, but the mad dash by consumers to avoid tariff-related price increases ran out of gas in May."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright 2025 MarketWatch, Inc.  All Rights Reserved."
+            },
+            "content_type": "Article",
+            "load_time": "2025-06-04T16:19:08.955Z",
+            "modification_date": "2025-06-04",
+            "publication_date": "2025-06-04",
+            "load_date": "2025-06-04",
+            "byline": {
+                "text": "By Jeffry Bartash"
+            },
+            "headline": {
+                "main": {
+                    "text": "Car buyers drove sales to a 4-year high to beat tariffs. Now sales are running out of gas. Trade wars cause U.S. economy to seesaw"
+                }
+            },
+            "modification_time": "2025-06-04T16:18:48.000Z",
+            "content": [
+                {
+                    "text": "Car buyers drove sales to a 4-year high to beat tariffs. Now sales are running out of gas. Trade wars cause U.S. economy to seesaw U.S. trade wars turbocharged sales of new cars and trucks in the spring to a four-year high, but the mad dash by consumers to avoid tariff-related price increases ran out of gas in May. Sales of new cars and trucks in the U.S. dropped almost 10% in May to a 15.6 million annual rate, according to automotive researcher Wards Intelligence. That's how many vehicles would be sold over the entire year if the same number that were bought in May were purchased in every month. The big ups and downs in car purchases this year illuminate the disruptions caused to the economy by the Trump administration's efforts to remake a global trading system that has been in place for decades. Economists predict the U.S. will suffer slower and more uneven growth — and potentially higher inflation — until the trade fights are resolved. The tariffs have also altered the timing of when individuals and companies make big purchases. The car business is a good example. Buyers piled into dealerships in March and April to buy new cars and trucks before the Trump administration's auto and steel tariffs raised prices. Sales raced to as high as a 17.8 million annual rate in March from less than 16 million in the first two months of 2025. The last time sales were that strong was early 2021, as the U.S. emerged from the pandemic. Now comes the flip side of the coin: dwindling sales. Dealers have begun running out of vehicles they obtained before the tariffs kicked in, while the rising costs of imported goods and domestic steel have pushed some carmakers to raise prices. Ryan Sweet, chief economist at Oxford Economics, said auto sales in March are likely to be the high point of the year. He predicts sales will continue to slow before rebounding next year. Higher prices and a lack of vehicles for sale — especially less expensive cars — hampered sales in May. The Trump administration has relaxed some tariffs on vehicles, but it just doubled them on steel and aluminum. Metals tariffs could complicate the efforts of carmakers to build and sell more vehicles. Car purchases play a big role in retail sales and in overall consumer spending, the main engine of the economy. Rising car sales tend to be an indicator of a strong economy. A potential slowdown in sales tied to the tariffs wouldn't be enough to send the U.S. economy into a tailspin, economists say, but automobile-industry leaders warn of tougher times ahead. Ford F, for instance, suspended its regular forecast of future sales and profits because of uncertainty sparked by the trade wars."
+                }
+            ],
+            "publication_time": "2025-06-04T16:13:00.000Z"
+        },
+        "id": "drn:archive.newsarticle.MRKWC00020250604el640018h",
+        "type": "content"
+    },
+    {
+        "meta": {
             "original_doc_id": "DJDN000020250603el63002rw",
             "language": {
                 "code": "en"
@@ -25,7 +74,7 @@
                 ]
             },
             "copyright": {
-                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+                "text": "Copyright © 2025, Dow Jones & Company, Inc."
             },
             "content_type": "Article",
             "load_time": "2025-06-03T21:14:15.393Z",
@@ -59,7 +108,7 @@
             },
             "source": {
                 "code": "rtcnws",
-                "name": "\u9053\u743c\u65af\u4e2d\u6587\u901a\u8baf (\u7b80\u4f53)"
+                "name": "道琼斯中文通讯 (简体)"
             }
         },
         "links": {
@@ -69,12 +118,12 @@
             "snippet": {
                 "content": [
                     {
-                        "text": "\n\n  \u5468\u4e00\u5728\u5168\u7403\u80a1\u5e02\u7684\u4e0b\u8dcc\u80a1\u5f53\u4e2d\uff0c\u4e30\u7530\u6c7d\u8f66(Toyota)\u548cJeep\u5236\u9020\u5546Stellantis\u8d6b\u7136\u4f4d\u5217\u5176\u4e2d\uff0c\u4e24\u5bb6\u8f66\u4f01\u7684\u80a1\u4ef7\u5206\u522b\u5728\u4e1c\u4eac\u548c\u7c73\u5170\u4e0b\u8dcc\u7ea63%\u3002 "
+                        "text": "\n\n  周一在全球股市的下跌股当中，丰田汽车(Toyota)和Jeep制造商Stellantis赫然位列其中，两家车企的股价分别在东京和米兰下跌约3%。 "
                     }
                 ]
             },
             "copyright": {
-                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+                "text": "Copyright © 2025, Dow Jones & Company, Inc."
             },
             "content_type": "Article",
             "load_time": "2025-06-02T09:31:06.121Z",
@@ -83,13 +132,13 @@
             "load_date": "2025-06-02",
             "headline": {
                 "main": {
-                    "text": "\u7279\u6717\u666e\u8ba1\u5212\u4e0a\u8c03\u94a2\u94dd\u5173\u7a0e\u7684\u4e3e\u52a8\u5bfc\u81f4\u6c7d\u8f66\u80a1\u666e\u904d\u8d70\u4f4e"
+                    "text": "特朗普计划上调钢铝关税的举动导致汽车股普遍走低"
                 }
             },
             "modification_time": "2025-06-02T09:30:18.000Z",
             "content": [
                 {
-                    "text": "\u7279\u6717\u666e\u8ba1\u5212\u4e0a\u8c03\u94a2\u94dd\u5173\u7a0e\u7684\u4e3e\u52a8\u5bfc\u81f4\u6c7d\u8f66\u80a1\u666e\u904d\u8d70\u4f4e \u5468\u4e00\u5728\u5168\u7403\u80a1\u5e02\u7684\u4e0b\u8dcc\u80a1\u5f53\u4e2d\uff0c\u4e30\u7530\u6c7d\u8f66(Toyota)\u548cJeep\u5236\u9020\u5546Stellantis\u8d6b\u7136\u4f4d\u5217\u5176\u4e2d\uff0c\u4e24\u5bb6\u8f66\u4f01\u7684\u80a1\u4ef7\u5206\u522b\u5728\u4e1c\u4eac\u548c\u7c73\u5170\u4e0b\u8dcc\u7ea63%\u3002 \u7f8e\u56fd\u603b\u7edf\u7279\u6717\u666e(Trump)\u627f\u8bfa\u4ece\u5468\u4e09\u8d77\u5c06\u628a\u94a2\u94c1\u548c\u94dd\u7684\u5173\u7a0e\u7a0e\u7387\u63d0\u9ad8\u4e00\u500d\u81f350%\uff0c\u800c\u6b64\u4e3e\u5c06\u589e\u52a0\u8f66\u4f01\u5728\u7f8e\u56fd\u7684\u5236\u9020\u6210\u672c\u3002\u6295\u8d44\u8005\u5bf9\u8fd9\u4e2a\u6d88\u606f\u505a\u51fa\u53cd\u5e94\u3002 \u798f\u7279\u6c7d\u8f66(Ford, F)\u548c\u901a\u7528\u6c7d\u8f66(General Motors, GM)\u7684\u80a1\u4ef7\u5728\u76d8\u524d\u7684\u6e05\u6de1\u4ea4\u6295\u4e2d\u5c0f\u5e45\u4e0b\u8dcc\u3002 \u94a2\u94c1\u548c\u94dd\u5728\u4e00\u8f86\u6c7d\u8f66\u7684\u91cd\u91cf\u4e2d\u5360\u5f88\u5927\u4e00\u90e8\u5206\uff0c\u5728\u6c7d\u8f66\u6210\u672c\u4e2d\u4e5f\u5360\u5f88\u5927\u4efd\u989d\u3002\u636e\u5238\u5546Bernstein\u79f0\uff0c\u5c06\u73b0\u6709\u768425%\u94a2\u94dd\u5173\u7a0e\u63d0\u9ad8\u4e00\u500d\uff0c\u5c06\u4f7f\u7279\u6717\u666e\u5173\u7a0e\u9020\u6210\u7684\u7d2f\u8ba1\u6210\u672c\u589e\u52a0\u7ea65%\uff0c\u8fbe\u5230\u6bcf\u8f86\u8f66\u7565\u9ad8\u4e8e7,000\u7f8e\u5143\u7684\u6c34\u5e73\u3002 By Stephen Wilmot \u7248\u6743\u6240\u6709(c)2025\u9053\u743c\u65af\u516c\u53f8\u3002\u672c\u6587\u7248\u6743\u5f52\u9053\u743c\u65af\u516c\u53f8\u6240\u6709\uff0c\u672a\u7ecf\u8bb8\u53ef\u4e0d\u5f97\u7ffb\u8bd1\u6216\u8f6c\u8f7d\u3002 (END) Dow Jones Newswires 02-06-25 0930GMT"
+                    "text": "特朗普计划上调钢铝关税的举动导致汽车股普遍走低 周一在全球股市的下跌股当中，丰田汽车(Toyota)和Jeep制造商Stellantis赫然位列其中，两家车企的股价分别在东京和米兰下跌约3%。 美国总统特朗普(Trump)承诺从周三起将把钢铁和铝的关税税率提高一倍至50%，而此举将增加车企在美国的制造成本。投资者对这个消息做出反应。 福特汽车(Ford, F)和通用汽车(General Motors, GM)的股价在盘前的清淡交投中小幅下跌。 钢铁和铝在一辆汽车的重量中占很大一部分，在汽车成本中也占很大份额。据券商Bernstein称，将现有的25%钢铝关税提高一倍，将使特朗普关税造成的累计成本增加约5%，达到每辆车略高于7,000美元的水平。 By Stephen Wilmot 版权所有(c)2025道琼斯公司。本文版权归道琼斯公司所有，未经许可不得翻译或转载。 (END) Dow Jones Newswires 02-06-25 0930GMT"
                 }
             ],
             "publication_time": "2025-06-02T09:30:13.735Z"
@@ -180,7 +229,7 @@
             "modification_time": "2025-06-03T15:52:14.000Z",
             "content": [
                 {
-                    "text": "The recent trade agreement with the US \"is the very best deal that the UK could... The recent trade agreement with the US \"is the very best deal that the UK could have hoped for under the circumstances,\" a Jaguar Land Rover director has told MPs. Appearing before the Commons Business and Trade Committee, Murray Paul said: \"We have seen a complete change in the landscape internationally, and I think where the UK has found itself in the relationship that is established with the administration, from an automotive perspective, is the best we could possibly hope for.\" Car manufacturers would \"of course\" like the 100,000 quota for a 10% tariff on car imports into the US to be higher, an industry figure has said. Murray Paul, public affairs director at Jaguar Land Rover told the Business and Trade committee: \"Of course we'd prefer for it to be higher. \"But I think if we're honest it's there or thereabouts what the current market volume is of producing from the UK into the US. \"We are expectant that it's administered fairly, that if there's a small amount of pain that that is distributed equally amongst British manufacturers of goods. \"Obviously we would like it to grow in the future because we think there's a growth opportunity in the US market as the incredible cars that we produce in this country are admired around the world. \"But I think for now, it works\". Asked how it could be calculated which manufacturers car tipped over the 100,000 quota if the figure is reached, Mr Paul told the committee that has \"yet to be determined\". He added: \"Whilst it hasn't been decided yet, most car manufacturers are advocating taking the 2024 sales volume into the US, percentagising that and then applying that to the 100% and distributing it back out to the manufacturers, so that you have an allocation essentially that you're going to work within.\" A Tata Steel director has told MPs that the EU is moving faster to defend the industry in response to US tariffs than the UK, with a cost to the industry of up to \u00a3150 million a year. Russell Codling, director of markets, business development and commercial services, said his company is \"extremely exposed\" to divergence in prices since the US imposed new tariffs. He said: \"We can see where our prices in the UK have followed similarly those in the EU for many, many years. At the moment, we're seeing them diverge, and the divergence is leading to currently something in the order of about 100 to 150 million revenue a year loss in the UK, in comparison with Europe. \"So it is not just for us making sure that this deal (with the US) is the right deal, it is also about making sure that the trade protection measures are the appropriate ones in the UK, and they are at least as good as other trading partners around the world. When asked if the UK needs to go faster on the issue, Mr Codling said: \"Absolutely.\" It is \"very hard to know what the US policy\" within biosciences and pharmaceuticals is, an industry figure has suggested. Steve Bates, chief executive of BioIndustry Association, was asked by the business and trade committee what he was hoping to get out of the recent deal with the US for the UK life-sciences sector. He said: \"We were hoping to ensure that the most valuable export market for UK pharmaceuticals was protected, that we'd be able to grow that more quickly, that they'd continue to be a valuable partner in innovation and science. \"I think the challenge that we've had at this stage is that it's very hard to know what the US policy in our sector is, since they haven't actually defined what they want to do yet. \"It's very difficult to buy a pig in a poke, but that's where we're at.\" A leading businessman in the bioethanol sector has told MPs the sector was \"shocked and really upset\" by the terms of the UK's trade agreement with the US, adding the industry will be destroyed without a Government rescue plan."
+                    "text": "The recent trade agreement with the US \"is the very best deal that the UK could... The recent trade agreement with the US \"is the very best deal that the UK could have hoped for under the circumstances,\" a Jaguar Land Rover director has told MPs. Appearing before the Commons Business and Trade Committee, Murray Paul said: \"We have seen a complete change in the landscape internationally, and I think where the UK has found itself in the relationship that is established with the administration, from an automotive perspective, is the best we could possibly hope for.\" Car manufacturers would \"of course\" like the 100,000 quota for a 10% tariff on car imports into the US to be higher, an industry figure has said. Murray Paul, public affairs director at Jaguar Land Rover told the Business and Trade committee: \"Of course we'd prefer for it to be higher. \"But I think if we're honest it's there or thereabouts what the current market volume is of producing from the UK into the US. \"We are expectant that it's administered fairly, that if there's a small amount of pain that that is distributed equally amongst British manufacturers of goods. \"Obviously we would like it to grow in the future because we think there's a growth opportunity in the US market as the incredible cars that we produce in this country are admired around the world. \"But I think for now, it works\". Asked how it could be calculated which manufacturers car tipped over the 100,000 quota if the figure is reached, Mr Paul told the committee that has \"yet to be determined\". He added: \"Whilst it hasn't been decided yet, most car manufacturers are advocating taking the 2024 sales volume into the US, percentagising that and then applying that to the 100% and distributing it back out to the manufacturers, so that you have an allocation essentially that you're going to work within.\" A Tata Steel director has told MPs that the EU is moving faster to defend the industry in response to US tariffs than the UK, with a cost to the industry of up to £150 million a year. Russell Codling, director of markets, business development and commercial services, said his company is \"extremely exposed\" to divergence in prices since the US imposed new tariffs. He said: \"We can see where our prices in the UK have followed similarly those in the EU for many, many years. At the moment, we're seeing them diverge, and the divergence is leading to currently something in the order of about 100 to 150 million revenue a year loss in the UK, in comparison with Europe. \"So it is not just for us making sure that this deal (with the US) is the right deal, it is also about making sure that the trade protection measures are the appropriate ones in the UK, and they are at least as good as other trading partners around the world. When asked if the UK needs to go faster on the issue, Mr Codling said: \"Absolutely.\" It is \"very hard to know what the US policy\" within biosciences and pharmaceuticals is, an industry figure has suggested. Steve Bates, chief executive of BioIndustry Association, was asked by the business and trade committee what he was hoping to get out of the recent deal with the US for the UK life-sciences sector. He said: \"We were hoping to ensure that the most valuable export market for UK pharmaceuticals was protected, that we'd be able to grow that more quickly, that they'd continue to be a valuable partner in innovation and science. \"I think the challenge that we've had at this stage is that it's very hard to know what the US policy in our sector is, since they haven't actually defined what they want to do yet. \"It's very difficult to buy a pig in a poke, but that's where we're at.\" A leading businessman in the bioethanol sector has told MPs the sector was \"shocked and really upset\" by the terms of the UK's trade agreement with the US, adding the industry will be destroyed without a Government rescue plan."
                 }
             ],
             "publication_time": "2025-06-03T15:51:43.010Z"
@@ -211,7 +260,7 @@
                 ]
             },
             "copyright": {
-                "text": "\u00a9 2025 THG Publishing Pvt. Ltd."
+                "text": "© 2025 THG Publishing Pvt. Ltd."
             },
             "content_type": "Article",
             "load_time": "2025-06-03T14:39:55.481Z",
@@ -262,7 +311,7 @@
                 ]
             },
             "copyright": {
-                "text": "Copyright \u00a9 2025, Dow Jones & Company, Inc."
+                "text": "Copyright © 2025, Dow Jones & Company, Inc."
             },
             "content_type": "Article",
             "load_time": "2025-06-02T15:34:27.204Z",
@@ -308,7 +357,7 @@
                 ]
             },
             "copyright": {
-                "text": "Copyright \u00a9 ContentEngineLLC"
+                "text": "Copyright © ContentEngineLLC"
             },
             "content_type": "Article",
             "load_time": "2025-06-02T19:43:26.153Z",
@@ -326,7 +375,7 @@
             "modification_time": "2025-06-02T19:42:43.000Z",
             "content": [
                 {
-                    "text": "Automotive industry, the largest exporter within T-MEC Faced with the uncertainty generated by President Donald Trump's trade policy, Mexican companies are opting to export under the Mexico-United States-Canada Agreement (T-MEC). But which are the sectors that most use this protection? According to the latest quarterly report from Banco de M\u00e9xico, January-March 2025, during the past year, almost 100% of the trucks, 80% of the cars and more than half of the auto parts that Mexico exported to the United States used the T-MEC. So did 100% of some fruits and vegetables, dairy products and eggs. In contrast, goods such as telephones, cell phones, computers and medical instruments were exported without using the treaty. The U.S. administration that took office in January of this year has made a substantial change in the direction of U.S. trade policy. In particular, it has imposed tariffs of significant magnitude on all its trading partners, explains Banxico. However, trade under the T-MEC has continued to receive preferential treatment, as most of the products traded under the agreement have remained tariff-free, although some steel and aluminum products face tariffs of 25%, and cars 15%. T-MEC rules of origin The Mexican central bank's quarterly report details that exporting under the T-MEC allows tariff-free access to the U.S. market. In order to export under this benefit, companies must comply with the rules of origin stipulated in the treaty. The rules of origin require that under the transaction value approach, more than 50% of the content must come from T-MEC member countries or that under the net cost approach, such percentage must be at least 60%. In the case of automobiles, the percentage of regional content increases to 75%. Until February 2025, according to Banxico, goods imported by the United States outside of a trade agreement faced Most Favored Nation (MFN) tariffs, which were relatively low in general, and in several cases close to or equal to zero. For example, Mexico's non-treaty exports of automotive goods to the United States in 2024 faced an average effective tariff of 1.4%. For non-automotive products the average effective tariff was only 0.2%, reads the central institution's report. In the absence of the T-MEC, it is estimated that the average tariff for total Mexican exports in 2024 would have been 3.2%, being on average higher for automotive exports (8.1%) than for non-automotive (3.4%). Photo art: Andrea Vel\u00e1zquez Estimates without T-MEC In the absence of the T-MEC, the average tariff for total Mexican exports in 2024 would be 3.2%; higher on average for automotive exports (8.1%) than for non-automotive exports (3.4%). In general, sectors that have faced relatively high MFN tariffs for the export of their products to the United States have tended to make more intensive use of the treaty. Banxico cites the example of trucks, which face a 25% MFN tariff, which has encouraged the creation of regional supply chains that have allowed almost all of these goods to be exported under the agreement. Cars and auto parts, on the other hand, face relatively low average MFN tariffs of 2.5% and 1.3%, respectively, so the cost of not complying with the rules of origin is lower. Thus, in 2024, 18% of the value of cars exported to the United States and 43% of auto parts were traded without using the Agreement. In the case of goods such as telephones, cell phones, computers and medical instruments, the MFN tariff is 0%, so exporting under the treaty does not confer a benefit in terms of tariff savings, while it would imply higher administrative costs and less flexibility to organize their supply chains."
+                    "text": "Automotive industry, the largest exporter within T-MEC Faced with the uncertainty generated by President Donald Trump's trade policy, Mexican companies are opting to export under the Mexico-United States-Canada Agreement (T-MEC). But which are the sectors that most use this protection? According to the latest quarterly report from Banco de México, January-March 2025, during the past year, almost 100% of the trucks, 80% of the cars and more than half of the auto parts that Mexico exported to the United States used the T-MEC. So did 100% of some fruits and vegetables, dairy products and eggs. In contrast, goods such as telephones, cell phones, computers and medical instruments were exported without using the treaty. The U.S. administration that took office in January of this year has made a substantial change in the direction of U.S. trade policy. In particular, it has imposed tariffs of significant magnitude on all its trading partners, explains Banxico. However, trade under the T-MEC has continued to receive preferential treatment, as most of the products traded under the agreement have remained tariff-free, although some steel and aluminum products face tariffs of 25%, and cars 15%. T-MEC rules of origin The Mexican central bank's quarterly report details that exporting under the T-MEC allows tariff-free access to the U.S. market. In order to export under this benefit, companies must comply with the rules of origin stipulated in the treaty. The rules of origin require that under the transaction value approach, more than 50% of the content must come from T-MEC member countries or that under the net cost approach, such percentage must be at least 60%. In the case of automobiles, the percentage of regional content increases to 75%. Until February 2025, according to Banxico, goods imported by the United States outside of a trade agreement faced Most Favored Nation (MFN) tariffs, which were relatively low in general, and in several cases close to or equal to zero. For example, Mexico's non-treaty exports of automotive goods to the United States in 2024 faced an average effective tariff of 1.4%. For non-automotive products the average effective tariff was only 0.2%, reads the central institution's report. In the absence of the T-MEC, it is estimated that the average tariff for total Mexican exports in 2024 would have been 3.2%, being on average higher for automotive exports (8.1%) than for non-automotive (3.4%). Photo art: Andrea Velázquez Estimates without T-MEC In the absence of the T-MEC, the average tariff for total Mexican exports in 2024 would be 3.2%; higher on average for automotive exports (8.1%) than for non-automotive exports (3.4%). In general, sectors that have faced relatively high MFN tariffs for the export of their products to the United States have tended to make more intensive use of the treaty. Banxico cites the example of trucks, which face a 25% MFN tariff, which has encouraged the creation of regional supply chains that have allowed almost all of these goods to be exported under the agreement. Cars and auto parts, on the other hand, face relatively low average MFN tariffs of 2.5% and 1.3%, respectively, so the cost of not complying with the rules of origin is lower. Thus, in 2024, 18% of the value of cars exported to the United States and 43% of auto parts were traded without using the Agreement. In the case of goods such as telephones, cell phones, computers and medical instruments, the MFN tariff is 0%, so exporting under the treaty does not confer a benefit in terms of tariff savings, while it would imply higher administrative costs and less flexibility to organize their supply chains."
                 }
             ]
         },
@@ -351,7 +400,7 @@
             "snippet": {
                 "content": [
                     {
-                        "text": "India has formally requested consultations with the United States under the World Trade Organisation\u2019s (WTO) Agreement on Safeguards, challenging recent American tariffs imposed on automobile parts.The move follows India\u2019s earlier decision ..."
+                        "text": "India has formally requested consultations with the United States under the World Trade Organisation’s (WTO) Agreement on Safeguards, challenging recent American tariffs imposed on automobile parts.The move follows India’s earlier decision ..."
                     }
                 ]
             },
@@ -374,7 +423,7 @@
             "modification_time": "2025-06-03T13:35:19.000Z",
             "content": [
                 {
-                    "text": "India invokes WTO mechanism to address US safeguard duties on auto components India has formally requested consultations with the United States under the World Trade Organisation\u2019s (WTO) Agreement on Safeguards, challenging recent American tariffs imposed on automobile parts.The move follows India\u2019s earlier decision to reserve the right to impose retaliatory duties on select US goods in response to Washington\u2019s tariffs on steel and aluminium.According to a communication sent by India to the WTO, the US on March 26, 2025, adopted a measure increasing tariffs by 25 per cent ad valorem on imports of passenger vehicles, light trucks, and certain auto components originating in or from India. These duties came into effect on May 3, 2025, and have been applied for an indefinite period, PTI reported.\"India considers that the measure, in its design and effect, constitutes a safeguard measure within the meaning of... GATT (General Agreement on Tariffs and Trade) 1994 and the Agreement on Safeguards, as it is intended to protect the US domestic industry from increased imports,\" the communication stated.India further noted that the United States failed to notify the WTO Committee on Safeguards about the decision to apply such measures, as required under the provisions of the Agreement on Safeguards (AoS).\"Accordingly, as an affected Member with significant export interest to the United States in the products concerned, India requests consultations with the United States,\" the communication added.India said it seeks to exchange views on the measure and its implications during the consultations.\"India looks forward to receiving a prompt reply to this request from the United States and to setting a mutually convenient date and venue for the... consultations,\" it said.India also reserved all its rights under the agreement establishing the WTO.In 2024, the United States imported auto parts worth USD 89 billion globally. Mexico was the top supplier at USD 36 billion, followed by China at USD 10.1 billion. India accounted for USD 2.2 billion of those imports. For Reprint Rights: timescontent.com"
+                    "text": "India invokes WTO mechanism to address US safeguard duties on auto components India has formally requested consultations with the United States under the World Trade Organisation’s (WTO) Agreement on Safeguards, challenging recent American tariffs imposed on automobile parts.The move follows India’s earlier decision to reserve the right to impose retaliatory duties on select US goods in response to Washington’s tariffs on steel and aluminium.According to a communication sent by India to the WTO, the US on March 26, 2025, adopted a measure increasing tariffs by 25 per cent ad valorem on imports of passenger vehicles, light trucks, and certain auto components originating in or from India. These duties came into effect on May 3, 2025, and have been applied for an indefinite period, PTI reported.\"India considers that the measure, in its design and effect, constitutes a safeguard measure within the meaning of... GATT (General Agreement on Tariffs and Trade) 1994 and the Agreement on Safeguards, as it is intended to protect the US domestic industry from increased imports,\" the communication stated.India further noted that the United States failed to notify the WTO Committee on Safeguards about the decision to apply such measures, as required under the provisions of the Agreement on Safeguards (AoS).\"Accordingly, as an affected Member with significant export interest to the United States in the products concerned, India requests consultations with the United States,\" the communication added.India said it seeks to exchange views on the measure and its implications during the consultations.\"India looks forward to receiving a prompt reply to this request from the United States and to setting a mutually convenient date and venue for the... consultations,\" it said.India also reserved all its rights under the agreement establishing the WTO.In 2024, the United States imported auto parts worth USD 89 billion globally. Mexico was the top supplier at USD 36 billion, followed by China at USD 10.1 billion. India accounted for USD 2.2 billion of those imports. For Reprint Rights: timescontent.com"
                 }
             ]
         },
@@ -399,7 +448,7 @@
             "snippet": {
                 "content": [
                     {
-                        "text": "The nation\u2019s auto industry is trapped in a double whammy of drastic declining exports and a domestic consumption slump amid a prolonged leadership vacuum."
+                        "text": "The nation’s auto industry is trapped in a double whammy of drastic declining exports and a domestic consumption slump amid a prolonged leadership vacuum."
                     }
                 ]
             },
@@ -419,59 +468,11 @@
             "modification_time": "2025-06-03T14:51:07.000Z",
             "content": [
                 {
-                    "text": "Carmakers face double whammy of export fall, domestic slump amid leadership vacuum The nation\u2019s auto industry is trapped in a double whammy of drastic declining exports and a domestic consumption slump amid a prolonged leadership vacuum. The export decline is attributed to U.S. President Donald Trump\u2019s 25 percent auto tariff, which is expected to cause serious earnings damage to Hyundai Motor, Kia and General Motors (GM) Korea. The weakening domestic consumption is also cited as another major risk for the major automakers. Data from four major carmakers \u2014 Hyundai Motor, Kia, KG Mobility and GM Korea \u2014 reported a drop in domestic sales in May. Hyundai Motor\u2019s vehicle sales decreased 5.2 percent last month from a year earlier, while those of Kia also dropped by 2.4 percent during the same period. KG Mobility and GM Korea suffered even bigger declines, with sales falling 11 percent and 39.8 percent, respectively. Renault Korea was the only top-five carmaker to report a sales growth last month. This was triggered by the economy\u2019s continuous exposure to weak demand. Despite the economic slump, Korea has in recent months failed to implement any preemptive policy measures, after former President Yoon Suk Yeol was impeached over his martial law declaration. Industry officials argue the chaotic political environment has further aggravated the economic downturn. \u201cThe incumbent government seems to have lost its steam when it comes to taking timely actions for the economy following the removal of Yoon from office,\u201d an auto industry official said. \u201cThe next government is advised to focus more on reviving the economy to help major firms, including carmakers, achieve sustainable growth.\u201d To make matters worse, the carmakers are faced with growing management uncertainties due to the escalating tariff pressure from the United States. Seoul and Washington held several rounds of trade talks to narrow their differences on a series of trade agendas, but the two sides have yet to reach any meaningful outcome. Korea\u2019s top priority in its ongoing trade negotiations with the U.S. is to abolish the auto tariff, as cars are one of the nation's top two export items, along with semiconductors. Automakers expect the inauguration of the next president to help reduce the lingering tariff-related uncertainties, even if it still requires more time for the economy to achieve any meaningful recovery. However, the absence of any vehicle-related policies from the two major presidential candidates' campaign pledges still remains a concern, according to industry officials. Both Democratic Party of Korea candidate Lee Jae-myung and People Power Party candidate Kim Moon-soo have focused on expanding the supply of electric vehicles (EVs), but officials said this is not enough, as the industry is now struggling to overcome the EV chasm before their mass adoption. \u201cThe government should pay more attention to resolving the tariff risk rather than focusing on sharing any unrealistic populist policy drives in support of future mobility,\u201d another industry official said."
+                    "text": "Carmakers face double whammy of export fall, domestic slump amid leadership vacuum The nation’s auto industry is trapped in a double whammy of drastic declining exports and a domestic consumption slump amid a prolonged leadership vacuum. The export decline is attributed to U.S. President Donald Trump’s 25 percent auto tariff, which is expected to cause serious earnings damage to Hyundai Motor, Kia and General Motors (GM) Korea. The weakening domestic consumption is also cited as another major risk for the major automakers. Data from four major carmakers — Hyundai Motor, Kia, KG Mobility and GM Korea — reported a drop in domestic sales in May. Hyundai Motor’s vehicle sales decreased 5.2 percent last month from a year earlier, while those of Kia also dropped by 2.4 percent during the same period. KG Mobility and GM Korea suffered even bigger declines, with sales falling 11 percent and 39.8 percent, respectively. Renault Korea was the only top-five carmaker to report a sales growth last month. This was triggered by the economy’s continuous exposure to weak demand. Despite the economic slump, Korea has in recent months failed to implement any preemptive policy measures, after former President Yoon Suk Yeol was impeached over his martial law declaration. Industry officials argue the chaotic political environment has further aggravated the economic downturn. “The incumbent government seems to have lost its steam when it comes to taking timely actions for the economy following the removal of Yoon from office,” an auto industry official said. “The next government is advised to focus more on reviving the economy to help major firms, including carmakers, achieve sustainable growth.” To make matters worse, the carmakers are faced with growing management uncertainties due to the escalating tariff pressure from the United States. Seoul and Washington held several rounds of trade talks to narrow their differences on a series of trade agendas, but the two sides have yet to reach any meaningful outcome. Korea’s top priority in its ongoing trade negotiations with the U.S. is to abolish the auto tariff, as cars are one of the nation's top two export items, along with semiconductors. Automakers expect the inauguration of the next president to help reduce the lingering tariff-related uncertainties, even if it still requires more time for the economy to achieve any meaningful recovery. However, the absence of any vehicle-related policies from the two major presidential candidates' campaign pledges still remains a concern, according to industry officials. Both Democratic Party of Korea candidate Lee Jae-myung and People Power Party candidate Kim Moon-soo have focused on expanding the supply of electric vehicles (EVs), but officials said this is not enough, as the industry is now struggling to overcome the EV chasm before their mass adoption. “The government should pay more attention to resolving the tariff risk rather than focusing on sharing any unrealistic populist policy drives in support of future mobility,” another industry official said."
                 }
             ]
         },
         "id": "drn:archive.newsarticle.KORTIM0020250603el630000i",
-        "type": "content"
-    },
-    {
-        "meta": {
-            "original_doc_id": "ECTDEL0020250604el640000o",
-            "language": {
-                "code": "en"
-            },
-            "source": {
-                "code": "ectdel",
-                "name": "The Economic Times - Delhi Edition"
-            }
-        },
-        "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.ECTDEL0020250604el640000o"
-        },
-        "attributes": {
-            "snippet": {
-                "content": [
-                    {
-                        "text": "SAFEGUARD AGREEMENTParis: Days after India reserved the right to impose retaliatory duties on select US products in response to American tariffs on steel and aluminium, on Tuesday New Delhi sought consultations with the US under WTO ..."
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "Copyright \u00a9 2025. Bennett, Coleman & Co., Ltd."
-            },
-            "content_type": "Article",
-            "load_time": "2025-06-04T04:03:43.777Z",
-            "modification_date": "2025-06-04",
-            "publication_date": "2025-06-04",
-            "load_date": "2025-06-04",
-            "byline": {
-                "text": "Our Bureau"
-            },
-            "headline": {
-                "main": {
-                    "text": "Consultations Sought with US on Auto Parts Levies"
-                }
-            },
-            "modification_time": "2025-06-04T04:03:09.000Z",
-            "content": [
-                {
-                    "text": "Consultations Sought with US on Auto Parts Levies SAFEGUARD AGREEMENTParis: Days after India reserved the right to impose retaliatory duties on select US products in response to American tariffs on steel and aluminium, on Tuesday New Delhi sought consultations with the US under WTO safeguard agreement over American tariffs on auto components. On March 26, the US adopted a measure in the form of a tariff increase of 25% ad valorem on imports of passenger vehicles and light trucks, and certain automobile parts originating in or from India. The measure on automobile parts applies from May 3 and for an unlimited duration. \"India considers that the measure, in its design and effect, constitutes a safeguard measure within the meaning of.... GATT (General Agreement on Trade and Tariff) 1994 and the Agreement on Safeguards, as it is intended to protect the US domestic industry from increased imports,\" India told the WTO. It added that the US failed to notify the WTO Committee on safeguards under a provision of the Agreement on Safeguards (AoS) on taking a decision to apply the safeguard measure. \"Accordingly, as an affected member with significant export interest to the United States in the products concerned, India requests consultations with the United States,\" it said."
-                }
-            ]
-        },
-        "id": "drn:archive.newsarticle.ECTDEL0020250604el640000o",
         "type": "content"
     }
 ]

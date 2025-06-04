@@ -63,14 +63,14 @@ def print_partial_chunks(chunks_list):
 
 
 def print_full_llm_prompt(llm_prompt):
-    print(json.dumps(llm_prompt, indent=4))
+    print(json.dumps(llm_prompt, indent=4, ensure_ascii=False))
 
 
 def print_partial_llm_prompt(llm_prompt):
     llm_prompt_copy = copy.deepcopy(llm_prompt)
     for article in llm_prompt_copy['articles']:
         article['content'] = article['content'][:150] + "..."
-    print(json.dumps(llm_prompt_copy, indent=4))
+    print(json.dumps(llm_prompt_copy, indent=4, ensure_ascii=False))
     
 
 def gemini_generate(gemini_prompt, gproject, glocation, gmodel) -> str:
@@ -158,7 +158,7 @@ def save_dict_json(data_dict: dict, filename: str):
                         The file will be saved in the same directory as the script.
     """
     with open(filename, 'w') as f:
-        json.dump(data_dict, f, indent=4)
+        json.dump(data_dict, f, indent=4, ensure_ascii=False)
 
 
 def load_dict_json(filename_base: str) -> dict:

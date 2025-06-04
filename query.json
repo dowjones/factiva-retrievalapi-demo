@@ -20,10 +20,10 @@
             },
             "metrics_data": {
                 "user_id": "9cdbfc51d86b7de9136f77b69fa4e060",
-                "work_id": "bcd4e9bed9774677ad7b91923401c031"
+                "work_id": "4e34919e7bd846ecb54f1dc04b571d7c"
             }
         },
-        "id": "GenAIRetrievalExample",
+        "id": "GenAIRetrieval",
         "type": "genai-content"
     }
 }
