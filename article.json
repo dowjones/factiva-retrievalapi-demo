@@ -1,0 +1,875 @@
+{
+    "links": {
+        "self": "https://api.dowjones.com/content/refs/drn:archive.newsarticle.WSJO000020190920ef9k000jh"
+    },
+    "data": {
+        "type": "Content",
+        "id": "WSJO000020190920ef9k000jh",
+        "links": {},
+        "meta": {
+            "language": {
+                "code": "en"
+            },
+            "is_translation_allowed": true,
+            "metrics": {
+                "character_count": 3335,
+                "word_count": 716
+            },
+            "code_sets": [
+                {
+                    "type": "Organization",
+                    "id": "co",
+                    "codes": [
+                        {
+                            "code": "fed",
+                            "descriptor": "Board of Governors of the Federal Reserve System"
+                        },
+                        {
+                            "code": "frbny",
+                            "descriptor": "Federal Reserve Bank of New York"
+                        },
+                        {
+                            "code": "ggtjyq",
+                            "descriptor": "State Street Global Advisors Inc"
+                        },
+                        {
+                            "code": "netfli",
+                            "descriptor": "Netflix, Inc."
+                        },
+                        {
+                            "code": "usdtr",
+                            "descriptor": "United States Department of the Treasury"
+                        }
+                    ]
+                },
+                {
+                    "type": "NewsSubject",
+                    "id": "ns",
+                    "codes": [
+                        {
+                            "code": "mcroil",
+                            "descriptor": "Crude Oil Markets"
+                        },
+                        {
+                            "code": "m11",
+                            "descriptor": "Equity Markets"
+                        },
+                        {
+                            "code": "m14",
+                            "descriptor": "Commodity Markets"
+                        },
+                        {
+                            "code": "mcat",
+                            "descriptor": "Commodity/Financial Market News"
+                        },
+                        {
+                            "code": "mnasdq",
+                            "descriptor": "NASDAQ Market Commentary"
+                        },
+                        {
+                            "code": "ncolu",
+                            "descriptor": "Columns"
+                        },
+                        {
+                            "code": "nngmc",
+                            "descriptor": "New York Stock Market Commentary"
+                        },
+                        {
+                            "code": "nrmf",
+                            "descriptor": "Routine Market/Financial News"
+                        },
+                        {
+                            "code": "nsmcm",
+                            "descriptor": "Stock Market Commentary"
+                        },
+                        {
+                            "code": "m143",
+                            "descriptor": "Energy Markets"
+                        },
+                        {
+                            "code": "ncat",
+                            "descriptor": "Content Types"
+                        },
+                        {
+                            "code": "nfact",
+                            "descriptor": "Factiva Filters"
+                        },
+                        {
+                            "code": "nfce",
+                            "descriptor": "C&E Exclusion Filter"
+                        },
+                        {
+                            "code": "niwe",
+                            "descriptor": "IWE Filter"
+                        }
+                    ]
+                },
+                {
+                    "type": "People",
+                    "id": "pe",
+                    "codes": [
+                        {
+                            "code": "155621281",
+                            "descriptor": "Michael Arone"
+                        },
+                        {
+                            "code": "509246",
+                            "descriptor": "Donald Trump"
+                        }
+                    ]
+                },
+                {
+                    "type": "Region",
+                    "id": "re",
+                    "codes": [
+                        {
+                            "code": "saarab",
+                            "descriptor": "Saudi Arabia"
+                        },
+                        {
+                            "code": "china",
+                            "descriptor": "China"
+                        },
+                        {
+                            "code": "asiaz",
+                            "descriptor": "Asia"
+                        },
+                        {
+                            "code": "easiaz",
+                            "descriptor": "Eastern Asia"
+                        },
+                        {
+                            "code": "eurz",
+                            "descriptor": "Europe"
+                        },
+                        {
+                            "code": "meastz",
+                            "descriptor": "Middle East"
+                        },
+                        {
+                            "code": "namz",
+                            "descriptor": "North America"
+                        },
+                        {
+                            "code": "usa",
+                            "descriptor": "United States"
+                        },
+                        {
+                            "code": "apacz",
+                            "descriptor": "Asia Pacific"
+                        },
+                        {
+                            "code": "bric",
+                            "descriptor": "BRICS Countries"
+                        },
+                        {
+                            "code": "chinaz",
+                            "descriptor": "Greater China"
+                        },
+                        {
+                            "code": "devgcoz",
+                            "descriptor": "Emerging Market Countries"
+                        },
+                        {
+                            "code": "dvpcoz",
+                            "descriptor": "Developing Economies"
+                        },
+                        {
+                            "code": "gulfstz",
+                            "descriptor": "Persian Gulf Region"
+                        },
+                        {
+                            "code": "wasiaz",
+                            "descriptor": "Western Asia"
+                        }
+                    ]
+                },
+                {
+                    "type": "InformationProviderCodes",
+                    "id": "ipc",
+                    "codes": [
+                        {
+                            "code": "1106"
+                        },
+                        {
+                            "code": "1234"
+                        },
+                        {
+                            "code": "20716"
+                        },
+                        {
+                            "code": "4116"
+                        },
+                        {
+                            "code": "5042"
+                        },
+                        {
+                            "code": "G/TRE"
+                        },
+                        {
+                            "code": "N/CMR"
+                        },
+                        {
+                            "code": "N/DJCS"
+                        },
+                        {
+                            "code": "N/DJN"
+                        },
+                        {
+                            "code": "N/EPR"
+                        },
+                        {
+                            "code": "N/FXTR"
+                        },
+                        {
+                            "code": "N/MKT"
+                        },
+                        {
+                            "code": "N/NDQ"
+                        },
+                        {
+                            "code": "N/NYS"
+                        },
+                        {
+                            "code": "N/PET"
+                        },
+                        {
+                            "code": "N/SMC"
+                        },
+                        {
+                            "code": "N/STK"
+                        },
+                        {
+                            "code": "N/WER"
+                        },
+                        {
+                            "code": "R/ARA"
+                        },
+                        {
+                            "code": "R/ASI"
+                        },
+                        {
+                            "code": "R/CH"
+                        },
+                        {
+                            "code": "R/FE"
+                        },
+                        {
+                            "code": "R/FEO"
+                        },
+                        {
+                            "code": "R/ML"
+                        },
+                        {
+                            "code": "R/NME"
+                        },
+                        {
+                            "code": "R/SA"
+                        },
+                        {
+                            "code": "R/US"
+                        }
+                    ]
+                },
+                {
+                    "type": "InformationProviderDescriptors",
+                    "id": "ipd",
+                    "codes": [
+                        {
+                            "descriptor": "Wires"
+                        },
+                        {
+                            "descriptor": "NWREGULAR"
+                        },
+                        {
+                            "descriptor": "WSJ"
+                        },
+                        {
+                            "descriptor": "WSJ.com"
+                        },
+                        {
+                            "descriptor": "WSJ.com Site Search"
+                        },
+                        {
+                            "descriptor": "WSJAsia"
+                        },
+                        {
+                            "descriptor": "WSJEurope"
+                        },
+                        {
+                            "descriptor": "WSJ Japanese"
+                        },
+                        {
+                            "descriptor": "Online"
+                        },
+                        {
+                            "descriptor": "WSJ-PRO-WSJ.com"
+                        },
+                        {
+                            "descriptor": "MARKETS TODAY"
+                        },
+                        {
+                            "descriptor": "STOCK MARKET NEWS"
+                        },
+                        {
+                            "descriptor": "STOCK MARKET TODAY"
+                        },
+                        {
+                            "descriptor": "STOCK NEWS"
+                        },
+                        {
+                            "descriptor": "WALL STREET"
+                        },
+                        {
+                            "descriptor": "WSJ MARKET DATA"
+                        },
+                        {
+                            "descriptor": "SB1239056244539349381270458556193098901495817"
+                        },
+                        {
+                            "descriptor": "Arone, Michael"
+                        },
+                        {
+                            "descriptor": "Donald Trump"
+                        },
+                        {
+                            "descriptor": "SYND"
+                        },
+                        {
+                            "descriptor": "CODES_REVIEWED"
+                        },
+                        {
+                            "descriptor": "Today's Markets"
+                        }
+                    ]
+                }
+            ]
+        },
+        "attributes": {
+            "authors": [
+                {
+                    "full_name": "Alexander Osipovich",
+                    "id": "2260176"
+                },
+                {
+                    "full_name": "Avantika Chilkoti",
+                    "id": "4831697"
+                }
+            ],
+            "best_date": "2019-09-20",
+            "best_time": "2019-09-20T18:12:54.784Z",
+            "body": [
+                {
+                    "content": [
+                        {
+                            "type": "Paragraph",
+                            "field_id": "lp",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "Major U.S. stock indexes broke a three-week winning streak, closing with a modest loss after a volatile stretch in the markets."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "lp",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "The Dow Jones Industrial Average suffered a loss of about 1% for the week, which featured turmoil in money markets and dramatic swings in crude prices following an attack on oil facilities in Saudi Arabia."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "Still, both the Dow and the S&P 500 are within about 1.5% of their closing records from July."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "Friday's session started quietly. But stocks turned lower in afternoon trading on reports that a Chinese trade delegation would be returning home earlier than expected, souring hopes for a trade deal between Washington and Beijing."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "Investors have been particularly sensitive to trade-related headlines in recent weeks amid signs that an overseas slowdown is spreading to the U.S. Deputy-level officials were working Thursday and Friday to set the agenda for talks among senior officials tentatively planned for October, The Wall Street Journal reported."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "The blue-chip index fell 159.72 points, or 0.6%, to 26935.07. The S&P 500 dropped 14.72 points, or 0.5%, to 2992.07. The Nasdaq Composite slumped 65.20 points, or 0.8%, to 8117.67."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "Investors snapped up assets seen as havens. The yield on U.S. 10-year Treasurys fell to 1.754% from 1.901% a week earlier—the biggest one-week decline in a month. Bond yields move in the opposite direction from prices. Gold prices rose 1.1% for the week."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "For the first time since the financial crisis, the "
+                                    }
+                                },
+                                {
+                                    "type": "EntityItem",
+                                    "content": {
+                                        "type": "Organization",
+                                        "code": "frbny",
+                                        "code_scheme": "FCode",
+                                        "content": [
+                                            {
+                                                "type": "TextItem",
+                                                "content": {
+                                                    "text": "Federal Reserve Bank of New York"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": " stepped in to relieve funding pressure in the money markets and committed to continuing such interventions through at least Oct. 10."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "Rates on short-term repurchase agreements briefly jumped from around 2% to nearly 10% at the beginning of the week. The spike was likely caused by technical factors: corporate tax payments came due to the "
+                                    }
+                                },
+                                {
+                                    "type": "EntityItem",
+                                    "content": {
+                                        "type": "Organization",
+                                        "code": "usdtr",
+                                        "code_scheme": "FCode",
+                                        "content": [
+                                            {
+                                                "type": "TextItem",
+                                                "content": {
+                                                    "text": "U.S. Treasury"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": " just as Treasury debt auctions settled, leading to large transfers of cash from the banking system."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "Meanwhile, Brent crude—the global oil benchmark—surged 6.7% this week to $64.28 a barrel after days of major price swings. Following an attack on key Saudi production facilities last weekend, Brent booked its largest-ever one-day percentage gain on record Monday. But since then prices have pared gains as Saudi officials have pledged to restore production to regular levels."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "\"The price of oil might be capped due to the fundamental slowdown in growth we see around the world, whether that be Europe or the world's second-largest economy, China,\" said Marshall Stocker, director of country research at Eaton Vance."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "Much of investors' focus earlier this week was whether the Fed—internally divided and under pressure from President "
+                                    }
+                                },
+                                {
+                                    "type": "EntityItem",
+                                    "content": {
+                                        "type": "People",
+                                        "code": "509246",
+                                        "code_scheme": "FCode",
+                                        "content": [
+                                            {
+                                                "type": "TextItem",
+                                                "content": {
+                                                    "text": "Donald Trump"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "—would continue to ease monetary policy and push stocks higher."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "In addition to cutting interest rates Wednesday, the "
+                                    }
+                                },
+                                {
+                                    "type": "EntityItem",
+                                    "content": {
+                                        "type": "Organization",
+                                        "code": "fed",
+                                        "code_scheme": "FCode",
+                                        "content": [
+                                            {
+                                                "type": "TextItem",
+                                                "content": {
+                                                    "text": "Federal Reserve"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": " said it would consider at its next meeting whether it should allow its balance sheet to increase. The move wouldn't mark the start of a new bond-buying program as a stimulus measure, but a return to the normal precrisis practice of letting the Fed's balance sheet grow in line with the broader economy."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "Although investors have cheered the Fed's two rate cuts this year, uncertainty over whether easing will continue is holding stocks back, said "
+                                    }
+                                },
+                                {
+                                    "type": "EntityItem",
+                                    "content": {
+                                        "type": "People",
+                                        "code": "155621281",
+                                        "code_scheme": "FCode",
+                                        "content": [
+                                            {
+                                                "type": "TextItem",
+                                                "content": {
+                                                    "text": "Michael Arone"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": ", chief investment strategist for "
+                                    }
+                                },
+                                {
+                                    "type": "EntityItem",
+                                    "content": {
+                                        "type": "Organization",
+                                        "code": "ggtjyq",
+                                        "code_scheme": "FCode",
+                                        "content": [
+                                            {
+                                                "type": "TextItem",
+                                                "content": {
+                                                    "text": "State Street Global Advisors"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "\"We're just below an all-time high, and yet there is this anxiety and lack of conviction,\" Mr. Arone said. \"One of the factors behind that is that the Fed continues to baffle investors.\""
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "EntityItem",
+                                    "content": {
+                                        "type": "Organization",
+                                        "code": "netfli",
+                                        "code_scheme": "FCode",
+                                        "content": [
+                                            {
+                                                "type": "TextItem",
+                                                "content": {
+                                                    "text": "Netflix"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": " was one of the worst-performing stocks in the S&P 500 Friday, down 5.5%. The streaming company has been under pressure in recent months amid a decline in its U.S. subscribers."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "Overseas, the benchmark Stoxx Europe 600 gained 0.3%. In Asia, the Shanghai Composite and Japan's Nikkei both rose 0.2%."
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        },
+                        {
+                            "type": "Paragraph",
+                            "field_id": "td",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "Write to Alexander Osipovich at "
+                                    }
+                                },
+                                {
+                                    "type": "LinkItem",
+                                    "content": {
+                                        "type": "Webpage",
+                                        "uri": "mailto:alexander.osipovich@dowjones.com",
+                                        "content": [
+                                            {
+                                                "type": "TextItem",
+                                                "content": {
+                                                    "text": "alexander.osipovich@dowjones.com "
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": " and Avantika Chilkoti at "
+                                    }
+                                },
+                                {
+                                    "type": "LinkItem",
+                                    "content": {
+                                        "type": "Webpage",
+                                        "uri": "mailto:Avantika.Chilkoti@wsj.com",
+                                        "content": [
+                                            {
+                                                "type": "TextItem",
+                                                "content": {
+                                                    "text": "Avantika.Chilkoti@wsj.com "
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": " \n                  "
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        }
+                    ]
+                }
+            ],
+            "byline": {
+                "content": [
+                    {
+                        "type": "TextItem",
+                        "content": {
+                            "text": "By Alexander Osipovich and Avantika Chilkoti "
+                        }
+                    }
+                ]
+            },
+            "column_name": {
+                "content": [
+                    {
+                        "type": "TextItem",
+                        "content": {
+                            "text": "Today's Markets"
+                        }
+                    }
+                ]
+            },
+            "content_type": "article",
+            "copyright": {
+                "content": [
+                    {
+                        "type": "TextItem",
+                        "content": {
+                            "text": "Copyright 2019 Dow Jones & Company, Inc. All Rights Reserved. "
+                        }
+                    }
+                ]
+            },
+            "headline": {
+                "main": {
+                    "content": [
+                        {
+                            "type": "Paragraph",
+                            "content": [
+                                {
+                                    "type": "TextItem",
+                                    "content": {
+                                        "text": "Stocks Close Lower in Final Day of a Bumpy Trading Week; Crude prices gained after a week of historic swings"
+                                    }
+                                }
+                            ],
+                            "display": "Plain"
+                        }
+                    ]
+                }
+            },
+            "id_ref": "drn:archive.newsarticle.WSJO000020190920ef9k000jh",
+            "load_date": "2019-09-20",
+            "load_time": "2019-09-20T08:43:31Z",
+            "modification_date": "2024-08-27",
+            "modification_time": "2024-08-27T18:12:54Z",
+            "publication_date": "2019-09-20",
+            "publication_time": "2019-09-20T21:13:00.000Z",
+            "publisher": {
+                "name": "Dow Jones & Company, Inc."
+            },
+            "section_name": {
+                "content": [
+                    {
+                        "type": "TextItem",
+                        "content": {
+                            "text": "Markets"
+                        }
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "code": "WSJO",
+                    "name": "The Wall Street Journal Online",
+                    "logo": {
+                        "size": [
+                            {
+                                "uri": "http://logos.factiva.com/wsjoLogo.gif"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
