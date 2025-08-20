@@ -1,261 +1,380 @@
 [
     {
         "meta": {
-            "original_doc_id": "MRKWC00020250604el640018h",
+            "original_doc_id": "NFINCE0020250820el8k005q1",
             "language": {
                 "code": "en"
             },
             "source": {
-                "code": "mrkwc",
-                "name": "MarketWatch"
+                "code": "nfince",
+                "name": "CE NoticiasFinancieras",
+                "attribution_code": "NFINCE2"
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.MRKWC00020250604el640018h"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.NFINCE0020250820el8k005q1"
         },
         "attributes": {
             "snippet": {
                 "content": [
                     {
-                        "text": "U.S. trade wars turbocharged sales of new cars and trucks in the spring to a four-year high, but the mad dash by consumers to avoid tariff-related price increases ran out of gas in May."
+                        "text": "US President Donald Trump's tariffs and threats have damaged the Mexican automotive industry, considered the jewel of the national economy, analysts indicated in an interview with EL UNIVERSAL."
                     }
                 ]
             },
             "copyright": {
-                "text": "Copyright 2025 MarketWatch, Inc.  All Rights Reserved."
+                "text": "Copyright © Content Engine LLC"
             },
             "content_type": "Article",
-            "load_time": "2025-06-04T16:19:08.955Z",
-            "modification_date": "2025-06-04",
-            "publication_date": "2025-06-04",
-            "load_date": "2025-06-04",
-            "byline": {
-                "text": "By Jeffry Bartash"
-            },
+            "load_time": "2025-08-20T12:27:00.514Z",
+            "modification_date": "2025-08-20",
+            "publication_date": "2025-08-20",
+            "load_date": "2025-08-20",
             "headline": {
                 "main": {
-                    "text": "Car buyers drove sales to a 4-year high to beat tariffs. Now sales are running out of gas. Trade wars cause U.S. economy to seesaw"
+                    "text": "Tariffs hit auto industry with a crush of tariffs"
                 }
             },
-            "modification_time": "2025-06-04T16:18:48.000Z",
+            "modification_time": "2025-08-20T12:20:36.000Z",
             "content": [
                 {
-                    "text": "Car buyers drove sales to a 4-year high to beat tariffs. Now sales are running out of gas. Trade wars cause U.S. economy to seesaw U.S. trade wars turbocharged sales of new cars and trucks in the spring to a four-year high, but the mad dash by consumers to avoid tariff-related price increases ran out of gas in May. Sales of new cars and trucks in the U.S. dropped almost 10% in May to a 15.6 million annual rate, according to automotive researcher Wards Intelligence. That's how many vehicles would be sold over the entire year if the same number that were bought in May were purchased in every month. The big ups and downs in car purchases this year illuminate the disruptions caused to the economy by the Trump administration's efforts to remake a global trading system that has been in place for decades. Economists predict the U.S. will suffer slower and more uneven growth — and potentially higher inflation — until the trade fights are resolved. The tariffs have also altered the timing of when individuals and companies make big purchases. The car business is a good example. Buyers piled into dealerships in March and April to buy new cars and trucks before the Trump administration's auto and steel tariffs raised prices. Sales raced to as high as a 17.8 million annual rate in March from less than 16 million in the first two months of 2025. The last time sales were that strong was early 2021, as the U.S. emerged from the pandemic. Now comes the flip side of the coin: dwindling sales. Dealers have begun running out of vehicles they obtained before the tariffs kicked in, while the rising costs of imported goods and domestic steel have pushed some carmakers to raise prices. Ryan Sweet, chief economist at Oxford Economics, said auto sales in March are likely to be the high point of the year. He predicts sales will continue to slow before rebounding next year. Higher prices and a lack of vehicles for sale — especially less expensive cars — hampered sales in May. The Trump administration has relaxed some tariffs on vehicles, but it just doubled them on steel and aluminum. Metals tariffs could complicate the efforts of carmakers to build and sell more vehicles. Car purchases play a big role in retail sales and in overall consumer spending, the main engine of the economy. Rising car sales tend to be an indicator of a strong economy. A potential slowdown in sales tied to the tariffs wouldn't be enough to send the U.S. economy into a tailspin, economists say, but automobile-industry leaders warn of tougher times ahead. Ford F, for instance, suspended its regular forecast of future sales and profits because of uncertainty sparked by the trade wars."
-                }
-            ],
-            "publication_time": "2025-06-04T16:13:00.000Z"
-        },
-        "id": "drn:archive.newsarticle.MRKWC00020250604el640018h",
-        "type": "content"
-    },
-    {
-        "meta": {
-            "original_doc_id": "DJDN000020250603el63002rw",
-            "language": {
-                "code": "en"
-            },
-            "source": {
-                "code": "djdn",
-                "name": "Dow Jones Newswires"
-            }
-        },
-        "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250603el63002rw"
-        },
-        "attributes": {
-            "snippet": {
-                "content": [
-                    {
-                        "text": "Americans are still buying a lot of cars, despite broader consumer concerns about the economy and rising prices as a result of tariffs."
-                    },
-                    {
-                        "text": "Carmakers sold 1.2 million vehicles in May, roughly in line with the figure from last year, according to ..."
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "Copyright © 2025, Dow Jones & Company, Inc."
-            },
-            "content_type": "Article",
-            "load_time": "2025-06-03T21:14:15.393Z",
-            "modification_date": "2025-06-03",
-            "publication_date": "2025-06-03",
-            "load_date": "2025-06-03",
-            "byline": {
-                "text": "By Christopher Otts"
-            },
-            "headline": {
-                "main": {
-                    "text": "Americans Still Hit the Car Lots in May -- WSJ"
-                }
-            },
-            "modification_time": "2025-06-03T21:13:41.000Z",
-            "content": [
-                {
-                    "text": "Americans Still Hit the Car Lots in May -- WSJ Americans are still buying a lot of cars, despite broader consumer concerns about the economy and rising prices as a result of tariffs. Carmakers sold 1.2 million vehicles in May, roughly in line with the figure from last year, according to an estimate from research firm J.D. Power. Sales returned to a more typical pace in the month following a rush of buying in late March and April, which analysts attributed to consumers seeking to get ahead of President Trump's threatened tariffs on automotive imports. Concerns about inflation and the impact higher tariffs could have on prices have weighed on consumer confidence, which remains near a record low. Low consumer confidence can indicate that Americans are less willing to spend on big ticket purchases, like automobiles. Thus far that gloomy mood has yet to spread onto dealer lots. Americans spent around $53.8 billion on new vehicles in May, a 7% increase from a year prior, according to J.D. Power. General Motors, which has not yet reported sales results for May, has said it expects industry prices to hold steady in 2025. People paid $45,462 on average for a new vehicle in May, according to J.D. Power. Ford reported a 16% increase in May compared with a year earlier, bolstered by an \"employee pricing\" discount program. Toyota said May sales grew 11%, as a result of a sharp increase in hybrid and sedan sales. The Japanese carmaker imports around 45% of the vehicles it sells in the U.S. from factories outside the country and has said U.S. tariffs added $1.25 billion to its costs in April and May. Honda reported a 7% gain in sales, despite a sharp increase in imported car sales. Korean automakers Hyundai and Kia said sales rose 8% and 5%, respectively. Mazda, a Japanese brand that relies heavily on imports, saw its sales plunge 19%. This item is part of a Wall Street Journal live coverage event. The full stream can be found by searching P/WSJL (WSJ Live Coverage). (END) Dow Jones Newswires June 03, 2025 15:52 ET (19:52 GMT)"
-                }
-            ],
-            "publication_time": "2025-06-03T19:52:03.957Z"
-        },
-        "id": "drn:archive.newsarticle.DJDN000020250603el63002rw",
-        "type": "content"
-    },
-    {
-        "meta": {
-            "original_doc_id": "RTCNWS0020250602el620008b",
-            "language": {
-                "code": "zhcn"
-            },
-            "source": {
-                "code": "rtcnws",
-                "name": "道琼斯中文通讯 (简体)"
-            }
-        },
-        "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.RTCNWS0020250602el620008b"
-        },
-        "attributes": {
-            "snippet": {
-                "content": [
-                    {
-                        "text": "\n\n  周一在全球股市的下跌股当中，丰田汽车(Toyota)和Jeep制造商Stellantis赫然位列其中，两家车企的股价分别在东京和米兰下跌约3%。 "
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "Copyright © 2025, Dow Jones & Company, Inc."
-            },
-            "content_type": "Article",
-            "load_time": "2025-06-02T09:31:06.121Z",
-            "modification_date": "2025-06-02",
-            "publication_date": "2025-06-02",
-            "load_date": "2025-06-02",
-            "headline": {
-                "main": {
-                    "text": "特朗普计划上调钢铝关税的举动导致汽车股普遍走低"
-                }
-            },
-            "modification_time": "2025-06-02T09:30:18.000Z",
-            "content": [
-                {
-                    "text": "特朗普计划上调钢铝关税的举动导致汽车股普遍走低 周一在全球股市的下跌股当中，丰田汽车(Toyota)和Jeep制造商Stellantis赫然位列其中，两家车企的股价分别在东京和米兰下跌约3%。 美国总统特朗普(Trump)承诺从周三起将把钢铁和铝的关税税率提高一倍至50%，而此举将增加车企在美国的制造成本。投资者对这个消息做出反应。 福特汽车(Ford, F)和通用汽车(General Motors, GM)的股价在盘前的清淡交投中小幅下跌。 钢铁和铝在一辆汽车的重量中占很大一部分，在汽车成本中也占很大份额。据券商Bernstein称，将现有的25%钢铝关税提高一倍，将使特朗普关税造成的累计成本增加约5%，达到每辆车略高于7,000美元的水平。 By Stephen Wilmot 版权所有(c)2025道琼斯公司。本文版权归道琼斯公司所有，未经许可不得翻译或转载。 (END) Dow Jones Newswires 02-06-25 0930GMT"
-                }
-            ],
-            "publication_time": "2025-06-02T09:30:13.735Z"
-        },
-        "id": "drn:archive.newsarticle.RTCNWS0020250602el620008b",
-        "type": "content"
-    },
-    {
-        "meta": {
-            "original_doc_id": "PRTRIN0020250603el6300c1g",
-            "language": {
-                "code": "en"
-            },
-            "source": {
-                "code": "prtrin",
-                "name": "Press Trust of India"
-            }
-        },
-        "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.PRTRIN0020250603el6300c1g"
-        },
-        "attributes": {
-            "snippet": {
-                "content": [
-                    {
-                        "text": "New Delhi, Jun 3 (PTI) India on Tuesday sought consultations with the US under the World Trade Organisation's (WTO) safeguard agreement over American tariffs on auto components."
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "Copyright 2025. The Press Trust of India Limited."
-            },
-            "content_type": "Article",
-            "load_time": "2025-06-03T11:29:20.710Z",
-            "modification_date": "2025-06-03",
-            "publication_date": "2025-06-03",
-            "load_date": "2025-06-03",
-            "headline": {
-                "main": {
-                    "text": "India seeks WTO consultations with US over safeguard measures on auto components"
-                }
-            },
-            "modification_time": "2025-06-03T11:28:21.000Z",
-            "content": [
-                {
-                    "text": "India seeks WTO consultations with US over safeguard measures on auto components New Delhi, Jun 3 (PTI) India on Tuesday sought consultations with the US under the World Trade Organisation's (WTO) safeguard agreement over American tariffs on auto components. This move comes shortly after India reserved the right to impose retaliatory duties on select US products in response to American tariffs on steel and aluminium. On March 26, 2025, the US adopted a measure in the form of a tariff increase of 25 per cent ad valorem on imports of passenger vehicles and light trucks, and on certain automobile parts originating in or from India, a communication sent by India to WTO said. The measure on automobile parts applies from May 3, 2025 and for an unlimited duration. \"India considers that the measure, in its design and effect, constitutes a safeguard measure within the meaning of.... GATT (General Agreement on Trade and Tariff) 1994 and the Agreement on Safeguards, as it is intended to protect the US domestic industry from increased imports,\" it said. It added that the United States failed to notify the WTO Committee on safeguards under a provision of the Agreement on Safeguards (AoS) on taking a decision to apply the safeguard measure. \"Accordingly, as an affected Member with significant export interest to the United States in the products concerned, India requests consultations with the United States,\" it said. In the consultations, India would like to exchange views on the measure. \"India looks forward to receiving a prompt reply to this request from the United States and to setting a mutually convenient date and venue for the... consultations,\" it said. India reserves all its rights under the agreement establishing the WTO. The US imported USD 89 billion worth of auto parts globally last year, with Mexico accounting for USD 36 billion, China for USD 10.1 billion, and India for just USD 2.2 billion."
+                    "text": "Tariffs hit auto industry with a crush of tariffs US President Donald Trump's tariffs and threats have damaged the Mexican automotive industry, considered the jewel of the national economy, analysts indicated in an interview with EL UNIVERSAL. The automotive industry employed 848 thousand people in June and this is the lowest number of people employed since December 2021. It also means a cut of 71 thousand jobs compared to the same month last year, according to the results of the Monthly Manufacturing Industry Survey (EMIM) of the National Institute of Statistics and Geography (Inegi). To cross the northern border, vehicles and auto parts pay a 25% tariff on non-US content, while products classified as steel and aluminum derivatives face a 50% rate and, as of August 1, the United States also applies 50% to goods made from copper. The effects of the tariffs were observed during the first half of this year, when exports to the United States of automobiles, tractors and other types of vehicles were 63,461 million dollars, 6% or 4 billion less than in the same period of 2024, according to figures from the US Department of Commerce. The largest drops were recorded in trailers, whose sales plunged 28%, followed by tractors, with a 20% drop. Exports to the United States of passenger cars and cargo cars fell 4%. Although the 25% tariffs went into effect on April 3, industry sources state that Donald Trump's government has not yet issued the rules for their application, so there are automakers that prefer to pay 25% of the value of the car and request the return of the surplus. Before the tariffs went into effect, automotive industry exports were already declining. \"It is foreseeable that there will be adjustments in jobs due to the uncertainty in exports to the United States\", because the tariff threat continues, which generates uncertainty and does not allow planning, investing or increasing the workforce, explained Urban Science's regional director for Latin America, Eric Ramirez. In an interview with El Gran Diario de México, he mentioned that the relocation or consolidation of production announced by companies such as Nissan, General Motors and Michelin is related to the lack of certainty, so \"we will continue to see adjustments in production, supply chain and jobs, since four fifths of Mexico's production is destined for the United States\". Cynthia Valeriano López, professor of Economics at the Tecnológico de Monterrey, Toluca campus, explained that the industries most affected by the tariffs are the automotive industry, which has a 25% tariff, which translates into cancelled investments, job losses and the transfer of automotive production to consolidate manufacturing in a single Mexican entity. There is also the case of steel, whose exports must cover a 25% tariff as of March, plus another 25% as of June. In this case, the academic explained, it is important to note that there is a lot of Chinese steel arriving to Mexico to be modified and sent to the US market. This is a product that is in the sights of the White House, because steel and aluminum have raw materials from China as origin, so the US government wants to establish traceability in trade to determine where the merchandise comes from, Valeriano Lopez told this editorial house. \"We will have repercussions if we do not manage to make the traceability of trade transparent,\" but it will take time to verify the origin of the merchandise and where it passes through until it reaches its final destination, concluded the professor of the Tecnológico de Monterrey."
                 }
             ]
         },
-        "id": "drn:archive.newsarticle.PRTRIN0020250603el6300c1g",
+        "id": "drn:archive.newsarticle.NFINCE0020250820el8k005q1",
         "type": "content"
     },
     {
         "meta": {
-            "original_doc_id": "PRESSA0020250603el63006mx",
+            "original_doc_id": "BSNLNE0020250820el8k0000b",
             "language": {
                 "code": "en"
             },
             "source": {
-                "code": "pressa",
-                "name": "Press Association National Newswire"
+                "code": "bsnlne",
+                "name": "BusinessLine (The Hindu)",
+                "attribution_code": "BSNLNE"
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.PRESSA0020250603el63006mx"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.BSNLNE0020250820el8k0000b"
         },
         "attributes": {
             "snippet": {
                 "content": [
                     {
-                        "text": "The recent trade agreement with the US \"is the very best deal that the UK could have hoped for under the circumstances,\" a Jaguar Land Rover director has told MPs."
+                        "text": "NEWS"
+                    },
+                    {
+                        "text": "Click to view image"
+                    },
+                    {
+                        "text": "We have taken concerted and strategic steps to build our revenue in segments beyond commercial vehicles and are optimistic of exports despite the geopolitical situation, Wheels India MD Srivats Ram, said. He discussed..."
                     }
                 ]
             },
             "copyright": {
-                "text": "(c)2025, The Press Association, All Rights Reserved"
+                "text": "(c) 2025 The Hindu Business Line"
             },
             "content_type": "Article",
-            "load_time": "2025-06-03T15:52:37.938Z",
-            "modification_date": "2025-06-03",
-            "publication_date": "2025-06-03",
-            "load_date": "2025-06-03",
+            "load_time": "2025-08-20T01:01:00.251Z",
+            "modification_date": "2025-08-20",
+            "publication_date": "2025-08-20",
+            "load_date": "2025-08-20",
             "headline": {
                 "main": {
-                    "text": "The recent trade agreement with the US \"is the very best deal that the UK could..."
+                    "text": "‘We hope to continue the growth momentum in exports this year despite disruptions’"
                 }
             },
-            "modification_time": "2025-06-03T15:52:14.000Z",
+            "modification_time": "2025-08-20T01:00:40.000Z",
             "content": [
                 {
-                    "text": "The recent trade agreement with the US \"is the very best deal that the UK could... The recent trade agreement with the US \"is the very best deal that the UK could have hoped for under the circumstances,\" a Jaguar Land Rover director has told MPs. Appearing before the Commons Business and Trade Committee, Murray Paul said: \"We have seen a complete change in the landscape internationally, and I think where the UK has found itself in the relationship that is established with the administration, from an automotive perspective, is the best we could possibly hope for.\" Car manufacturers would \"of course\" like the 100,000 quota for a 10% tariff on car imports into the US to be higher, an industry figure has said. Murray Paul, public affairs director at Jaguar Land Rover told the Business and Trade committee: \"Of course we'd prefer for it to be higher. \"But I think if we're honest it's there or thereabouts what the current market volume is of producing from the UK into the US. \"We are expectant that it's administered fairly, that if there's a small amount of pain that that is distributed equally amongst British manufacturers of goods. \"Obviously we would like it to grow in the future because we think there's a growth opportunity in the US market as the incredible cars that we produce in this country are admired around the world. \"But I think for now, it works\". Asked how it could be calculated which manufacturers car tipped over the 100,000 quota if the figure is reached, Mr Paul told the committee that has \"yet to be determined\". He added: \"Whilst it hasn't been decided yet, most car manufacturers are advocating taking the 2024 sales volume into the US, percentagising that and then applying that to the 100% and distributing it back out to the manufacturers, so that you have an allocation essentially that you're going to work within.\" A Tata Steel director has told MPs that the EU is moving faster to defend the industry in response to US tariffs than the UK, with a cost to the industry of up to £150 million a year. Russell Codling, director of markets, business development and commercial services, said his company is \"extremely exposed\" to divergence in prices since the US imposed new tariffs. He said: \"We can see where our prices in the UK have followed similarly those in the EU for many, many years. At the moment, we're seeing them diverge, and the divergence is leading to currently something in the order of about 100 to 150 million revenue a year loss in the UK, in comparison with Europe. \"So it is not just for us making sure that this deal (with the US) is the right deal, it is also about making sure that the trade protection measures are the appropriate ones in the UK, and they are at least as good as other trading partners around the world. When asked if the UK needs to go faster on the issue, Mr Codling said: \"Absolutely.\" It is \"very hard to know what the US policy\" within biosciences and pharmaceuticals is, an industry figure has suggested. Steve Bates, chief executive of BioIndustry Association, was asked by the business and trade committee what he was hoping to get out of the recent deal with the US for the UK life-sciences sector. He said: \"We were hoping to ensure that the most valuable export market for UK pharmaceuticals was protected, that we'd be able to grow that more quickly, that they'd continue to be a valuable partner in innovation and science. \"I think the challenge that we've had at this stage is that it's very hard to know what the US policy in our sector is, since they haven't actually defined what they want to do yet. \"It's very difficult to buy a pig in a poke, but that's where we're at.\" A leading businessman in the bioethanol sector has told MPs the sector was \"shocked and really upset\" by the terms of the UK's trade agreement with the US, adding the industry will be destroyed without a Government rescue plan."
+                    "text": "‘We hope to continue the growth momentum in exports this year despite disruptions’ NEWS Click to view image We have taken concerted and strategic steps to build our revenue in segments beyond commercial vehicles and are optimistic of exports despite the geopolitical situation, Wheels India MD Srivats Ram, said. He discussed various issues including capex plans, company’s exports, impact of US tariffs, and more. Edited excerpts: In light of the US tariffs, how do you see the prospects for your exports business? Wheels India registered export revenues of Rs. 324 crore in Q1 (about Rs. 145 crore was from the US) against Rs. 259 crore in Q1 last year, that’s a 25 per cent year-on-year growth in exports. Our exports success is an outcome of how we worked over the last 2-3 years on growing the overseas business. On the overseas front, Wheels India’s customers are well spread across geographies with customers in APAC and Latin America apart from the US and Europe. Will the export momentum continue? We hope to continue the growth momentum in exports this year despite all these disruptions. Currently, around 27 per cent of our overall business comes from exports. What has been the effect of the tariff on the Indian industry, and for you? Auto is one of the relatively less affected businesses in terms of relative competitiveness. The duty on the auto sector is 25 per cent. When you compare this with some of the other countries, while the Indian auto sector is at a slight disadvantage, the negative impact is relatively less. The challenge is more for the broader employment generating sectors such as textiles, leather, garments, engineering and gem and jewellery. Fortunately, for us, we are not hit. Will the surcharge by the US hurt the industry? The surcharge issue needs to see some kind of resolution at the earliest. Some settlement by the Indian Government will bring comfort to the exporters who can then plan their business for the future. If the surcharge drops off, it will be better for employment generating industries. If you look at the global economy and the world as the market for our country, we are pretty much excluded from China as they are cost competitive. If you take away the US, then you are taking away the two large chunks of trade. If it (tariff) comes down to 25 per cent, it will still be a relative disadvantage vis-à-vis other countries but at least then it will be a manageable for the employment generating sectors. You have forayed into a number of new segments over the last decade. How is that changing the dynamics in your business? While we were known in the past as a commercial vehicle (CV) wheels manufacturer, we have strategically gone about adding a number of new segments. The contribution from the CV sector is now at around 20 per cent with tractors and construction equipment business rising to around Rs. 1,500 crore (one-third of our revenues) last year. In these two segments, we are the largest manufacturers globally. We have also grown our air suspension and wind mill businesses in the recent past, with both of these growing to around Rs. 500 crore each. You have also been increasing your Capex spend in recent years? We spent Rs. 250 crore in capex last year, which was our highest. This year we are looking at a capex of Rs. 200 crore. In the period after the pandemic, we have invested around Rs. 500 crore in new manufacturing plants in cast aluminium, tractor and windmill machining. The bigger issue is uncertainty. Typically you make investments when you have a surety.... then you know where you want to put your money. The uncertainty of tariffs to a certain extent would limit capex till such time that these issues, at least the punitive duty issue is kind of sorted out."
                 }
-            ],
-            "publication_time": "2025-06-03T15:51:43.010Z"
+            ]
         },
-        "id": "drn:archive.newsarticle.PRESSA0020250603el63006mx",
+        "id": "drn:archive.newsarticle.BSNLNE0020250820el8k0000b",
         "type": "content"
     },
     {
         "meta": {
-            "original_doc_id": "BSNLNO0020250603el630010g",
+            "original_doc_id": "SOLE000020250814el8e00030",
+            "language": {
+                "code": "it"
+            },
+            "source": {
+                "code": "sole",
+                "name": "Il Sole 24 Ore Digital Replica Edition of Print Edition",
+                "attribution_code": "SOLE"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.SOLE000020250814el8e00030"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "Prima metà dell’anno complicata per il settore automotive, afflitto da un rallentamento delle vendite e dei margini, oltre che dalla correzione al ribasso delle stime. Tra le cause principali, le tensioni sui dazi Usa oltre che la pressione..."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "© Copyright Il Sole 24 Ore- Tutti i diritti riservati."
+            },
+            "content_type": "Article",
+            "load_time": "2025-08-14T06:02:03.405Z",
+            "modification_date": "2025-08-14",
+            "publication_date": "2025-08-14",
+            "load_date": "2025-08-14",
+            "byline": {
+                "text": "Al.An."
+            },
+            "headline": {
+                "main": {
+                    "text": "Da Stellantis a Volkswagen, il colpo dei dazi sull’auto in crisi"
+                }
+            },
+            "modification_time": "2025-08-14T06:01:01.000Z",
+            "content": [
+                {
+                    "text": "Da Stellantis a Volkswagen, il colpo dei dazi sull’auto in crisi Prima metà dell’anno complicata per il settore automotive, afflitto da un rallentamento delle vendite e dei margini, oltre che dalla correzione al ribasso delle stime. Tra le cause principali, le tensioni sui dazi Usa oltre che la pressione competitiva dell’industria cinese. L’indice EuroStoxx Automobiles & Parts è in rosso di oltre il 4% da inizio 2025, -7% da un anno, con un parziale recupero nelle ultime sedute. Il 4 agosto ha portato una boccata d’ossigeno: l’Ue ha sospeso per sei mesi le contro-tariffe nei confronti degli Stati Uniti dopo l’accordo pur non definitivo tra Trump e von der Leyen in Scozia a fine luglio. Tra i principali produttori Stellantis in Borsa ha perso oltre il 30% da gennaio. Il semestre si è chiuso con una perdita netta di 2,3 miliardi. La guidance ha indicato un secondo semestre in miglioramento, ma al di sotto delle aspettative. Il titolo ha rialzato la testa nelle ultime sedute tornando sopra gli 8 euro, grazie al lancio dei nuovi incentivi ministeriali. Anche Volkswagen e Renault navigano in acque difficili, con un distinguo. Il gruppo tedesco ha abbassato le stime a fine luglio, ma registra un +9% da inizio anno. Quanto ai francesi, invece, il titolo accusa un -30% nel corso dell’anno. Renault ha deluso il mercato tagliando le previsioni sull’utile operativo per il 2025. Semestre nero per Mercedes-Benz (-2% sul Dax40 da inizio d’anno e -9,5% sul 2024) e Porsche (-22% da gennaio, -31% da un anno): utili più che dimezzati e stime tagliate, complice l’effetto dazi e le vendite in Cina. Da Bmw segnali di resilienza sui listini (+12,3% da inizio anno) ma secca frenata nel semestre, anche se la redditività è rimasta all’interno del range obiettivo (5-7%) fissato per il 2025. La casa di Monaco corre sull’elettrico. E i fornitori? il margine Ebit medio in Europa nel 2025 è stimato (Lazard & Roland Berger) attorno al 3,6%, sotto la media globale (4,7%) e la metà dei livelli pre Covid. Eccezioni? Continental: +14% in Borsa da gennaio, per i risultati e in vista dello spin-off di metà settembre. © RIPRODUZIONE RISERVATA"
+                }
+            ]
+        },
+        "id": "drn:archive.newsarticle.SOLE000020250814el8e00030",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "NFINCE0020250804el84003vb",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "nfince",
+                "name": "CE NoticiasFinancieras",
+                "attribution_code": "NFINCE2"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.NFINCE0020250804el84003vb"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "The first six months of the year were enough for the main car manufacturers to suffer the impact of the tariffs imposed by the American president. According to El Economista, the loss amounted to 4,635 million euros, although it is ..."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright © Content Engine LLC"
+            },
+            "content_type": "Article",
+            "load_time": "2025-08-04T09:51:05.573Z",
+            "modification_date": "2025-08-04",
+            "publication_date": "2025-08-04",
+            "load_date": "2025-08-04",
+            "headline": {
+                "main": {
+                    "text": "Car industry hit by 4.6 billion in tariffs in the first half of the year"
+                }
+            },
+            "modification_time": "2025-08-04T09:50:21.000Z",
+            "content": [
+                {
+                    "text": "Car industry hit by 4.6 billion in tariffs in the first half of the year The first six months of the year were enough for the main car manufacturers to suffer the impact of the tariffs imposed by the American president. According to El Economista, the loss amounted to 4,635 million euros, although it is estimated that the real figure could be higher. The main manufacturers have already presented their half-yearly accounts and have pointed the finger at export tariffs to justify the impact on profits and revenues. With the United States of America (USA) becoming an increasingly important country for the car industry, 15.9 million cars were sold in 2024 alone, with many coming from the European Union. The Volkswagen group, which owns brands such as Seat, Audi, Porsche and Volkswagen itself, showed that the tariffs had an impact of 1.3 billion euros on its half-year accounts, with sales falling by 9.8% in the American bloc. Stellantis, which owns Peugeot, Fiat, but also Jeep, Chrysler and Dodge, showed a cost of 300 million euros in trade taxes alone. Although this is a lower figure compared to the other manufacturers, Stellantis estimates that the tariffs will mean a loss of 1.5 billion by the end of the year, as sales in the US have fallen by 26%. Swedish Volvo suffered losses of 1,017 million euros between January and June. This loss was due to delays in launches but also to tariffs, which affected models manufactured in Europe and destined for the US and those produced in China to reach Europe. Also affected were Mercedes-Benz, with losses of 362 million euros, General Motors (Chevrolet, GMC and Cadillac) with losses of 965 million euros and Ford with losses of 691 million euros. These last two manufacturers, as they mainly produce vehicles for the American market, were impacted by the fact that production is in Mexico, where there is still no agreement."
+                }
+            ]
+        },
+        "id": "drn:archive.newsarticle.NFINCE0020250804el84003vb",
+        "type": "content"
+    },
+    {
+        "relationships": {
+            "included_content": {
+                "data": [
+                    {
+                        "id": "probj:archive.PPPORH2025080530037.88.5987|image.jpeg|tnail",
+                        "type": "Photo"
+                    },
+                    {
+                        "id": "probj:archive.PPPORH2025080530037.6075.2127|image.jpeg|fnail",
+                        "type": "Photo"
+                    },
+                    {
+                        "id": "probj:archive.PPPORH2025080530037.8202.17823|image.jpeg|dispix",
+                        "type": "Photo"
+                    }
+                ]
+            }
+        },
+        "meta": {
+            "original_doc_id": "J000000020250808el880001t",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "j",
+                "name": "The Wall Street Journal",
+                "attribution_code": "J"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.J000000020250808el880001t"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "President Trump's tariff war has inflicted almost $12 billion of losses on global automakers, the biggest hit they have faced since the pandemic. The scary reality: This may be just the beginning."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright 2025 Dow Jones & Company, Inc. All Rights Reserved."
+            },
+            "content_type": "Article",
+            "load_time": "2025-08-08T12:03:03.773Z",
+            "modification_date": "2025-08-08",
+            "publication_date": "2025-08-08",
+            "load_date": "2025-08-08",
+            "byline": {
+                "text": "By Stephen Wilmot"
+            },
+            "headline": {
+                "main": {
+                    "text": "Autos Take $12 Billion Hit From Trade War"
+                }
+            },
+            "modification_time": "2025-08-08T12:00:29.000Z",
+            "content": [
+                {
+                    "text": "Autos Take $12 Billion Hit From Trade War President Trump's tariff war has inflicted almost $12 billion of losses on global automakers, the biggest hit they have faced since the pandemic. The scary reality: This may be just the beginning. Beyond the continuing cost of tariffs, automakers in the U.S., Japan, South Korea and Europe face years of retooling and supply-chain tweaks to adjust to the new realities. This comes after they spent heavily to reshape factories for electric vehicles. The obvious responses to tariffs are to raise prices and move production to the U.S. But both are hard for carmakers to do quickly, potentially saddling them for years to come. Skeptics say the tariffs will change the industry only at the margins, with global automakers investing in the U.S. because of its healthy consumer economy, not its politics. Still, White House trade policy may be accelerating an industry trend toward making cars closer to where they are sold. The big auto markets of North America, Europe and China are increasingly divided by different regulations, technologies and consumer preferences, encouraging automakers to design and manufacture locally. \"The era with globalization and global cars, everything equal -- that I think we are going to leave and have a world a bit more regionalized,\" said Hakan Samuelsson, chief executive officer of Volvo Cars. Toyota on Thursday said steeper tariffs reduced its operating profit by around $3 billion -- the largest bill reported by an automaker to date. The total hit from higher import duties reported by the big listed players now stands at $11.8 billion, according to a Wall Street Journal tally. And the hits will keep coming: Toyota forecast tariffs will create a $9.5 billion burden through its fiscal year that ends next March, leading to an anticipated 44% decline in net profit. For the world's 10 largest automakers, not including those in China, net profit is forecast to fall by roughly a quarter this calendar year to its lowest level since 2020, when the pandemic led to cash-draining factory shutdowns. When President Trump announced his 25% auto tariff in March, many analysts assumed that carmakers would increase prices to recoup the cost. It hasn't happened yet: The incentives typically used to clear inventory have thinned out, but most carmakers haven't rolled out headline price increases. Manufacturers need to balance the urge to protect their margins against the risk of lower sales if they deter consumers -- or of becoming a social-media target. \"Nobody is in a rush to make a move before anyone else moves,\" Jefferies analyst Philippe Houchois said. \"They're all afraid of getting a nasty tweet from Trump.\" General Motors said it expects \"consistent pricing\" to offset around 10% of its tariff costs this year, which it estimates at $4 billion to $5 billion, the largest of any auto manufacturer after Toyota. \"At the end, it's about what will be the price that the customers will want the product at,\" Toyota Head of Finance Takanori Azuma said. The White House has also introduced policies that partly make up for the hit to profits, giving automakers further reasons to prolong the waiting game. Moves to unwind climate regulations spare Detroit the cost of increasing unprofitable EV sales or buying emissions credits -- at the expense of Tesla and Rivian, which profited from selling credits -- while giving the industry license to sell as many lucrative pickup trucks as it can. Ford said last week that it had already scaled back its purchases of regulatory credits by $1.5 billion. Trump's \"Big Beautiful Bill\" also allows many buyers of U.S.-made vehicles to deduct up to $10,000 in loan interest payments from their taxes, starting next year. The tariff response that Trump has made clear he wants to see from automakers is more U.S. production. Among the early responders, GM -- historically the top U.S. car importer -- is increasing production of its Chevrolet Silverado and GMC Sierra pickup trucks in Fort Wayne, Ind., and dialing down output in Canada. The company expects manufacturing adjustments to offset an additional 10th of its tariff costs for 2025."
+                }
+            ]
+        },
+        "id": "drn:archive.newsarticle.J000000020250808el880001t",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "HNIANS0020250819el8j000ul",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "hnians",
+                "name": "Indo-Asian News Service",
+                "attribution_code": "HININS2"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.HNIANS0020250819el8j000ul"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "Seoul, Aug 19 (IANS) South Korea's automobile exports rose by more than 8 per cent from a year earlier in July thanks to a sharp increase in shipments to Europe that more than offset a decline in shipments to the United States caused by ..."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright 2025. Indo-Asian News Service"
+            },
+            "content_type": "Article",
+            "load_time": "2025-08-19T04:01:17.250Z",
+            "modification_date": "2025-08-19",
+            "publication_date": "2025-08-19",
+            "load_date": "2025-08-19",
+            "headline": {
+                "main": {
+                    "text": "S. Korea’s auto exports grow over 8 pc in July despite US tariffs"
+                }
+            },
+            "modification_time": "2025-08-19T04:00:12.000Z",
+            "content": [
+                {
+                    "text": "S. Korea’s auto exports grow over 8 pc in July despite US tariffs Seoul, Aug 19 (IANS) South Korea's automobile exports rose by more than 8 per cent from a year earlier in July thanks to a sharp increase in shipments to Europe that more than offset a decline in shipments to the United States caused by Washington's tariff scheme, government data showed on Tuesday. The value of auto exports grew 8.8 percent on-year to $5.83 billion last month, marking the second consecutive month of growth, according to the data from the Ministry of Trade, Industry and Energy, reports Yonhap news agency. While export value had increased in June despite a drop in export volume, July saw both figures rise. In July, the number of vehicles shipped overseas increased 5.8 percent on-year to 212,000 units. Exports to the U.S. fell for the fifth consecutive month, dropping 4.6 percent on-year to $2.33 billion in July. However, the pace of decline sharply eased from a 16 percent fall in June. The steady decline in shipments to the U.S. follows President Donald Trump's administration's imposition of a 25 percent tariff on all imported automobiles and auto parts since April. The ministry noted that trade uncertainties have somewhat eased as the U.S. agreed to lower tariffs on South Korean automobiles to 15 percent as part of a broader bilateral trade deal reached July 30. Meanwhile, shipments to the European Union surged 32.7 percent on-year to $713 million last month, buoyed by strong demand for eco-friendly vehicles. Outbound shipments of eco-friendly cars rose 17 percent from a year earlier to 68,000 units. In particular, exports of electric vehicles (EVs), which had been on a steady decline since January 2024, rebounded in June and continued their upward trend in July. At home, sales of automobiles rose 4.6 percent on-year to 138,503 units in July. Domestic production also rose 8.7 percent to 316,295 units. Domestic sales of EVs came to 26,000 units in July, jumping 69.5 percent from a year earlier and setting a new monthly record. EVs accounted for 18.5 percent of total monthly auto sales, also marking the highest local market share on record. --IANS na/"
+                }
+            ]
+        },
+        "id": "drn:archive.newsarticle.HNIANS0020250819el8j000ul",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "BNZNGA0020250820el8k000bd",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "bnznga",
+                "name": "Benzinga.com",
+                "attribution_code": "BNZNGA"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.BNZNGA0020250820el8k000bd"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "The U.S. Commerce Department has announced a significant increase intariffson steel and aluminum for over 400 products, including wind turbines, railcars, and electric vehicle (EV) parts."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright 2025. Benzinga.com"
+            },
+            "content_type": "Article",
+            "load_time": "2025-08-20T08:04:11.690Z",
+            "modification_date": "2025-08-20",
+            "publication_date": "2025-08-20",
+            "load_date": "2025-08-20",
+            "byline": {
+                "text": "Namrata Sen"
+            },
+            "headline": {
+                "main": {
+                    "text": "US Increases Steel, Aluminum Tariffs On Over 400 Products Including EV Parts, Wind Turbines, Railcars"
+                }
+            },
+            "modification_time": "2025-08-20T08:01:29.000Z",
+            "content": [
+                {
+                    "text": "US Increases Steel, Aluminum Tariffs On Over 400 Products Including EV Parts, Wind Turbines, Railcars The U.S. Commerce Department has announced a significant increase intariffson steel and aluminum for over 400 products, including wind turbines, railcars, and electric vehicle (EV) parts. Tariffs Now Cover Appliances, Vehicles, And Heavy Gear The U.S. Commerce Department revealed on Tuesday that it is raising tariffs on a wide range of products,including wind turbines, mobile cranes,appliances, bulldozers, and other heavy equipment,Reutersreported. The tariffs will also affectrailcars, motorcycles, marine engines, furniture,and hundreds of other products. The new tariffs will cover 407 product categories classified as “derivative\" steel and aluminum goods. They will face a 50% duty on the steel and aluminum content, along with the standard country-specific rate applied to the remaining non-steel and non-aluminum portions. These will also cover imported parts for automotive exhaust systems, electrical steel used in electric vehicles, and components for buses, air conditioners, and household appliances such as refrigerators, freezers, and dryers. The tariffs will take effect immediately and willalso cover compressors and pumps, as well asthe metal in imported cosmeticsand other personal care packaginglike aerosol cans. Evercore ISI said the move spanning 400+ product codes worth $200 billion in imports and could raise the effective tariff rate by about 1 point. SEE ALSO:Nancy Pelosi Says ‘Scared Republicans Are ‘Cheating Openly Knowing Theyll Lose House: ‘You Throw A Punch, You Better Be Ready To Take A Punch Auto Industry Faces Higher Costs From Steel Tariffs This move comes after PresidentDonald Trumpannounced in May 2025 that he would bedoubling U.S. tariffs on imported steel to 50%. Trump's decision was aimed at revitalizing the American steel industry and protecting domestic jobs. However, this decision was met with criticism, with experts warning that it could add almost $2,000 to the cost of each car and have a significant impact on the U.S. auto industry. Trump's tariffs were expected todrive up costs for automakers, with steel representing a significant portion of the cost of each car. This was expected to have a particularly significant impact on automakers likeFord Motor Co.(NYSE:F), which remains deeply tied to U.S.-centric manufacturing. Steelmakers Want Broader Tariffs, Tesla Disagrees Steel producers such as Cleveland-Cliffs (NYSE:CLF), Nucor (NYSE:NUE), and others had urged the administration to broaden the tariffs to cover more steel and aluminum auto parts. Meanwhile, Tesla (NASDAQ:TSLA) had urged the Commerce Department to deny a request to include certain steel products used in electric vehicle motors and wind turbines, arguing that U.S. producers lack the capacity to manufacture the type of steel needed for EV drive units. READ MORE: * General Motors Has Several Options To Offset Tariffs, Says Bullish Analyst Image via Shutterstock Disclaimer:This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors. © 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved."
+                }
+            ],
+            "publication_time": "2025-08-20T06:54:48.000Z"
+        },
+        "id": "drn:archive.newsarticle.BNZNGA0020250820el8k000bd",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "BSNLNO0020250819el8j0010b",
             "language": {
                 "code": "en"
             },
             "source": {
                 "code": "bsnlno",
-                "name": "BusinessLine Online"
+                "name": "BusinessLine Online",
+                "attribution_code": "BSNLNO"
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.BSNLNO0020250603el630010g"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.BSNLNO0020250819el8j0010b"
         },
         "attributes": {
             "snippet": {
                 "content": [
                     {
-                        "text": "India has sought consultations with the US at the World Trade Organisation (WTO) on tariff increase of 25 per cent on imports of passenger vehicles (PVs) and light trucks, and on certain automobile parts, stating that these were safeguard ..."
+                        "text": "The impact of US tariffs is more for sectors with broader employment generation such as textiles, leather, garments, engineering and gems & jewellery and the government should look at resolving it soon to bring comfort to exporters, said ..."
                     }
                 ]
             },
@@ -263,216 +382,132 @@
                 "text": "© 2025 THG Publishing Pvt. Ltd."
             },
             "content_type": "Article",
-            "load_time": "2025-06-03T14:39:55.481Z",
-            "modification_date": "2025-06-03",
-            "publication_date": "2025-06-03",
-            "load_date": "2025-06-03",
+            "load_time": "2025-08-19T14:40:38.033Z",
+            "modification_date": "2025-08-19",
+            "publication_date": "2025-08-19",
+            "load_date": "2025-08-19",
             "byline": {
-                "text": "Amiti Sen"
+                "text": "TE Raja Simhan"
             },
             "headline": {
                 "main": {
-                    "text": "India seeks consultations with US at WTO on auto tariffs"
+                    "text": "A 50 per cent duty would knock you out of the park, says Wheels India MD"
                 }
             },
-            "modification_time": "2025-06-03T14:39:24.000Z",
+            "modification_time": "2025-08-19T14:40:13.000Z",
             "content": [
                 {
-                    "text": "India seeks consultations with US at WTO on auto tariffs India has sought consultations with the US at the World Trade Organisation (WTO) on tariff increase of 25 per cent on imports of passenger vehicles (PVs) and light trucks, and on certain automobile parts, stating that these were safeguard measures that should have been notified by the US to the multilateral trade body. This comes on the heels of India reserving its rights at the WTO to retaliate against US tariffs on steel and aluminium. India may raise the issue of tariffs on both steel and aluminium and automobiles, seeking a rollback, in the ongoing bilateral trade agreement (BTA) negotiations with the US, sources said. Discuss compensation In its latest submission at the WTO, India pointed out that on March 26, 2025, the US adopted a measure in the form of a tariff increase of 25 per cent ad valorem on imports of PVs and light trucks, and on certain automobile parts originating in India. The measure on automobile parts applies from May 3 2025 and for an unlimited duration. \"India considers that the measure, in its design and effect, constitutes safeguard measure within the meaning of Article XIX of GATT 1994 and the Agreement on Safeguards (AoS), as it is intended to protect the US domestic industry from increased imports,\" it said. While India's export of cars and trucks to the US is low, that of its auto components to the country is significant and is estimated at around $6.8 billion in FY24. The US failed to notify the WTO Committee on Safeguards under Article 12.1(c) of the AoS on taking a decision to apply the safeguard measure. \"As an affected member with significant export interest to the United States in the products concerned, India requests consultations with the country to exchange views on the measure and to meet the objectives set out in Article 8.1, AoS,\" India submitted. This means that India wants to discuss compensation as Article 8.1 outlines the obligation of a member to compensate a trading partner for the application of a safeguard measure. This compensation requirement applies when a safeguard measure is imposed and causes, or threatens to cause, significant damage to the trading partner's exports. Safeguard measures India had also sought consultations with the US when it applied 25 per cent import duties on steel and aluminium products on March 12, 2025. While the US argued that the sector-specific duties were applied on national security grounds, India maintained that these were essentially safeguard duties. When wrongfully applied, the affected WTO member can seek permission for retaliation. \"The safeguard measures would affect $7.6 billion imports into the United States of the relevant products originating in India, on which the duty collection would be $1.91 billion,\" India's WTO submission noted. New Delhi proposed to suspend concessions on US goods of equivalent amount of duty at a later time. \"Now that the US is set to double steel and aluminium tariffs to 50 per cent from 25 per cent, the duty collection on India's exports of the items would have increased proportionately. It has to be seen if India gives a fresh submission on right for suspended concessions of a higher amount,\" a source pointed out."
+                    "text": "A 50 per cent duty would knock you out of the park, says Wheels India MD The impact of US tariffs is more for sectors with broader employment generation such as textiles, leather, garments, engineering and gems & jewellery and the government should look at resolving it soon to bring comfort to exporters, said Wheels India MD Srivats Ram . \"A 25 per cent duty does not completely knock you out of the park. But, a 50 per cent duty would knock you out of the park. Fortunately, for us, we are not hit,\" he said. Edited Excerpts: What has been the effect of the Tariff on the Indian industry, and for you? Auto is one of the relatively less affected businesses in terms of relative competitiveness. The duty on the auto sector is 20 per cent. When you compare this with some of the other countries, while the Indian auto sector is at a slight disadvantage, the negative impact is relatively less. The challenge is more for the broader employment generating sectors such as textiles, leather, garments, engineering and gem and jewellery. The rate there will be 50 per cent. If it stays that way, there will be an impact. A 25 per cent duty does not completely knock you out of the park. However, a 50 per cent duty will . Fortunately, for us, we are not hit. But, the surcharge by the US will hurt the industry, right? The surcharge issue needs to see some kind of resolution at the earliest. Some settlement by the Indian Government will bring comfort to the exporters who can then plan their business for the future. If the surcharge drops off, it will be better for the employment generating industries. If you look at the global economy and the world as the market for our country, we are pretty much excluded from China as they are cost competitive. If you take away the US, then you are taking away the two large chunks of trade. And then it becomes a smaller pie. If it (duty) comes down to 25 per cent, it will still be a relative disadvantage vis-à-vis other countries but at least then it will be a manageable disadvantage for these employment generating sectors. In light of the above, how do you see the prospects for your exports business? Wheels India registered export revenues of ₹324 crore in Q1 (about ₹145 crore was from the US) against ₹259 crore in Q1 last year, that's a 25 per cent year-on-year growth in exports. Our exports success is an outcome of how we worked over the last 2-3 years on growing the overseas business. On the overseas front, Wheels India's customers are well spread across geographies with customers in APAC and Latin America apart from the US and Europe. Will the export momentum continue? We hope to continue the growth momentum in exports this year despite all these disruptions. Currently, around 27 per cent of our overall business comes from exports. You have forayed into a number of new segments over the last decade. How is that changing the dynamics in your business? While we were known in the past as a commercial vehicle (CV) wheels manufacturer, we have strategically gone about adding a number of new segments. The contribution from the CV sector is now at around 20 per cent with tractors and construction equipment business rising to around ₹1,500 crore (one-third of our revenues) last year. In these two segments, we are the largest manufacturers globally. We have also grown our air suspension and wind mill businesses in the recent past, with both of these growing to around ₹500 crore each. You have also been increasing your Capex spend in recent years? We spent ₹250 crore in capex last year, which was our highest. This year we are looking at a capex of ₹200 crore. In the period after the pandemic, we have invested around ₹500 crore in new manufacturing plants in cast aluminium, tractor and windmill machining. The bigger issue is uncertainty. Typically you make investments when you have a surety.... then you know where you want to put your money. The uncertainty of tariffs to a certain extent would limit capex till such time that these issues, at least the punitive duty issue is kind of sorted out."
                 }
             ]
         },
-        "id": "drn:archive.newsarticle.BSNLNO0020250603el630010g",
+        "id": "drn:archive.newsarticle.BSNLNO0020250819el8j0010b",
         "type": "content"
     },
     {
         "meta": {
-            "original_doc_id": "DJDN000020250602el62002gf",
+            "original_doc_id": "DTMNTR0020250819el8i0000b",
             "language": {
                 "code": "en"
             },
             "source": {
-                "code": "djdn",
-                "name": "Dow Jones Newswires"
+                "code": "dtmntr",
+                "name": "MarketLine News and Comment",
+                "attribution_code": "DTMNTR2"
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250602el62002gf"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DTMNTR0020250819el8i0000b"
         },
         "attributes": {
             "snippet": {
                 "content": [
                     {
-                        "text": "Al Root"
+                        "text": "As US auto tariffs bite and global competition intensifies, the finance arms of Toyota, Honda, Nissan, Hyundai, and Kia must pivot fast."
                     },
                     {
-                        "text": "Shares of Ford Motor and General Motors were weak early Monday. Trade-related comments by President Donald Trump are the likeliest reason for the declines."
+                        "text": "When Toyota’s chief financial officer addressed investors in early August, his message was anything but ..."
                     }
                 ]
             },
             "copyright": {
-                "text": "Copyright © 2025, Dow Jones & Company, Inc."
+                "text": "© 2025, MarketLine. All rights reserved"
             },
             "content_type": "Article",
-            "load_time": "2025-06-02T15:34:27.204Z",
-            "modification_date": "2025-06-02",
-            "publication_date": "2025-06-02",
-            "load_date": "2025-06-02",
+            "load_time": "2025-08-19T08:04:09.656Z",
+            "modification_date": "2025-08-19",
+            "publication_date": "2025-08-18",
+            "load_date": "2025-08-19",
             "headline": {
                 "main": {
-                    "text": "Ford, GM Stocks Are Slipping. Investors Want a Brake on Tariffs. -- Barrons.com"
+                    "text": "US tariffs tighten screws on Japanese and South Korean captive finance"
                 }
             },
-            "modification_time": "2025-06-02T15:34:12.000Z",
+            "modification_time": "2025-08-19T08:03:27.000Z",
             "content": [
                 {
-                    "text": "Ford, GM Stocks Are Slipping. Investors Want a Brake on Tariffs. -- Barrons.com Al Root Shares of Ford Motor and General Motors were weak early Monday. Trade-related comments by President Donald Trump are the likeliest reason for the declines. \"It used to bother me [that] they make a part in Canada, a part in Mexico, a part in Europe, send it all over the place, nobody knew what the hell was happening,\" said President Trump at a Friday afternoon news conference thanking Elon Musk for his work at the Department of Government Efficiency. \"If you build a car, make it in America.\" President Trump went on to add that while he's given the industry some time -- about a year -- to adjust its parts supply, he expects parts manufacturing to come back to the U.S. GM and Ford stocks were down 4.7% and 4.4%, respectively, in early trading Monday. Stellantis shares were down 3.4%, while the S&P 500 and Dow Jones Industrial Average were down 0.3% and down 0.5%, respectively. Trump's tariff policy has loomed over the sector for months. There is a 25% import tariff on car imports. Roughly half the cars sold in the U.S. are imported, mainly from Mexico, Canada, Japan, and South Korea. Manufacturers have started to raise prices to offset tariffs, after existing pre-tariff inventory was sold. The parts issue looks to be a longer term problem for the industry to deal with. Auto makers including Ford have pointed out the difficult of making all parts in the U.S. a variety of ways. For starters, it makes sense for lower value parts to be made in lower-wage regions, such a Mexico. And it isn't easy to staff plants to, essentially, stamp metal repetitively. What's more, the U.S. doesn't make some things such as LED displays any more. Low-cost parts, common in both Asia and Europe -- and North America for now -- help auto makers keep new-car prices affordable. The president's recent comments demonstrate again that investors will be worrying about cost and the impact of affordability on demand for a while yet. Coming into Monday trading, Ford and GM stocks were up about 2% and 3%, respectively since President Trump's April 2 \"Liberation Day\" tariff announcement; however, the shares were down 2% and 8%, respectively, since the Nov. 5 election. Shares seem stuck while investors wait for clarity. Investors are really hoping for a change in Trump's policies regarding tariffs on parts. Write to Al Root at allen.root@dowjones.com This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal. (END) Dow Jones Newswires June 02, 2025 11:33 ET (15:33 GMT)"
+                    "text": "US tariffs tighten screws on Japanese and South Korean captive finance As US auto tariffs bite and global competition intensifies, the finance arms of Toyota, Honda, Nissan, Hyundai, and Kia must pivot fast. When Toyota’s chief financial officer addressed investors in early August, his message was anything but reassuring. He revealed that US tariffs had carved a staggering ¥1.4 trillion — nearly US$9.5 billion — off the company’s full-year operating profit. That figure, part of a 16% downward revision to ¥3.2 trillion, marked the sharpest tariff-related impact estimate yet from any global automaker, according to Reuters. The announcement followed a July 22 decision by US President Donald Trump to lower tariffs on Japan-made vehicle imports from 25% to 15%, with a similar rollback for South Korean-made vehicles announced just before the August 1 deadline. Industry observers welcomed the move as a reprieve from potentially harsher trade penalties. But relief was tempered by realism. “I’d hesitate to call it good news. A 15% US import tariff is still significantly higher than where Japan started — and higher than most had expected,” said Stefan Angrick, head of Japan and Frontier Market Economics at Moody’s Analytics, according to CNBC.com. Asian automakers, including Hyundai, are experiencing “unprecedented” profit erosion in Q2 2025, even as US sales show modest gains. Hyundai reported a 22% drop in net profit, absorbing a ?828 billion (US$604 million) tariff hit, according to the Financial Times. Mitsubishi Motors saw its net profit nearly wiped out, falling from ¥29.5 billion ($201 million) a year earlier to just ¥14.4 billion, largely due to tariffs and increased incentive costs. Sales also dipped 3% to ¥609 billion, the FT reported. Fitch Ratings warned on August 15 that US auto tariffs continue to weigh heavily on the financial health of Japanese and Korean automakers. While Japan’s direct exports to the US are relatively limited, Korean manufacturers are more exposed to the new 15% tariff rate. Both countries, however, remain vulnerable to tariff risks tied to other export hubs — particularly Mexico and Canada — where trade terms are still unsettled. Fitch also noted that the long-term impact on component and raw material costs remains unclear. So far, Japanese and Korean carmakers have been reluctant to pass tariff-related costs directly to US consumers. Fitch expects them to prioritise internal cost-cutting measures, though gradual price increases are likely, especially if competitors follow suit. The extent to which these companies can shift costs to buyers will play a key role in determining how much financial strain they face. Currency fluctuations will also be a factor. The yen and won both strengthened by roughly 9% against the US dollar in the first half of 2025, diminishing the value of US sales when converted to local currency, Fitch added. The China challengeWhile tariffs dominate headlines, a deeper challenge looms: China’s rise as a global automotive powerhouse. Once a vital growth market for Japanese and Korean brands, China has evolved into a formidable competitor. As domestic demand weakens in Japan and Korea, automakers now face intensifying competition from Chinese rivals, both at home and abroad. With poor corporate operating performance on the horizon - even with the rollback to 15% - and Chinese manufacturers in the ascendency, especially when it comes to must-have electric vehicles, where does this leave captive finance operations? !function(){\"use strict\";window.addEventListener(\"message\",function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data[\"datawrapper-height\"][t]+\"px\";r.style.height=d}}})}(); Captive in the firing lineAt the core of every Japanese and Korean captive finance provider — Toyota Financial Services, Honda Finance, Nissan Financial Services, Hyundai Capital, Kia Finance — is a delicate balance of credit, risk, and customer trust. When tariffs drive up vehicle costs and squeeze manufacturer margins, the impact doesn’t stop at the factory gate — it reaches the car buyer. Manufacturers absorbing tariff shocks often choose to swallow costs to preserve market share. This compresses auto profits and limits their ability to subsidise financing deals, making generous leasing terms harder to sustain. The result? Consumers may face stricter credit assessments, higher down payments, and less favourable lease options. In some cases, captives may pivot toward used-vehicle financing, where margins are more manageable and demand remains resilient. In this environment, captive finance divisions are no longer passive enablers — but become stabilisers of sales and customer loyalty. To stay competitive, captives will come under pressure to redesign customer touchpoints — to offer refinance incentives, loyalty discounts, and lease adjustments to keep buyers engaged."
                 }
             ],
-            "publication_time": "2025-06-02T15:33:24.021Z"
+            "publication_time": "2025-08-18T15:59:00.000Z"
         },
-        "id": "drn:archive.newsarticle.DJDN000020250602el62002gf",
+        "id": "drn:archive.newsarticle.DTMNTR0020250819el8i0000b",
         "type": "content"
     },
     {
         "meta": {
-            "original_doc_id": "NAFTA00020250602el620002z",
+            "original_doc_id": "XINCCN0020250818el8i000jh",
             "language": {
-                "code": "en"
+                "code": "zhcn"
             },
             "source": {
-                "code": "nafta",
-                "name": "CE NAFTA 2.0-USMCA"
+                "code": "xinccn",
+                "name": "新华社中文通稿新闻 (简体)",
+                "attribution_code": "XINCCN"
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.NAFTA00020250602el620002z"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.XINCCN0020250818el8i000jh"
         },
         "attributes": {
             "snippet": {
                 "content": [
                     {
-                        "text": "Faced with the uncertainty generated by President Donald Trump's trade policy, Mexican companies are opting to export under the Mexico-United States-Canada Agreement (T-MEC). But which are the sectors that most use this protection?"
+                        "text": "新华社东京8月18日电 题：美关税政策重创日本汽车产业"
+                    },
+                    {
+                        "text": "新华社记者刘春燕"
+                    },
+                    {
+                        "text": "日本近期公布一系列宏观经济和行业企业二季度数据，显示美国政府高关税政策重创日本汽车产业，阻碍日本经济复苏。鉴于美关税对日本经济的负面影响日益凸显，日本产业乃至整体经济前景..."
                     }
                 ]
             },
             "copyright": {
-                "text": "Copyright © ContentEngineLLC"
+                "text": "(c) 2025 新华通讯社版权所有，未经协定授权，禁止下载使用。"
             },
             "content_type": "Article",
-            "load_time": "2025-06-02T19:43:26.153Z",
-            "modification_date": "2025-06-02",
-            "publication_date": "2025-06-02",
-            "load_date": "2025-06-02",
+            "load_time": "2025-08-18T02:04:22.685Z",
+            "modification_date": "2025-08-18",
+            "publication_date": "2025-08-18",
+            "load_date": "2025-08-18",
             "byline": {
-                "text": "Rodrigo Rosales"
+                "text": "刘春燕"
             },
             "headline": {
                 "main": {
-                    "text": "Automotive industry, the largest exporter within T-MEC"
+                    "text": "国际观察｜美关税政策重创日本汽车产业"
                 }
             },
-            "modification_time": "2025-06-02T19:42:43.000Z",
+            "modification_time": "2025-08-18T02:02:23.000Z",
             "content": [
                 {
-                    "text": "Automotive industry, the largest exporter within T-MEC Faced with the uncertainty generated by President Donald Trump's trade policy, Mexican companies are opting to export under the Mexico-United States-Canada Agreement (T-MEC). But which are the sectors that most use this protection? According to the latest quarterly report from Banco de México, January-March 2025, during the past year, almost 100% of the trucks, 80% of the cars and more than half of the auto parts that Mexico exported to the United States used the T-MEC. So did 100% of some fruits and vegetables, dairy products and eggs. In contrast, goods such as telephones, cell phones, computers and medical instruments were exported without using the treaty. The U.S. administration that took office in January of this year has made a substantial change in the direction of U.S. trade policy. In particular, it has imposed tariffs of significant magnitude on all its trading partners, explains Banxico. However, trade under the T-MEC has continued to receive preferential treatment, as most of the products traded under the agreement have remained tariff-free, although some steel and aluminum products face tariffs of 25%, and cars 15%. T-MEC rules of origin The Mexican central bank's quarterly report details that exporting under the T-MEC allows tariff-free access to the U.S. market. In order to export under this benefit, companies must comply with the rules of origin stipulated in the treaty. The rules of origin require that under the transaction value approach, more than 50% of the content must come from T-MEC member countries or that under the net cost approach, such percentage must be at least 60%. In the case of automobiles, the percentage of regional content increases to 75%. Until February 2025, according to Banxico, goods imported by the United States outside of a trade agreement faced Most Favored Nation (MFN) tariffs, which were relatively low in general, and in several cases close to or equal to zero. For example, Mexico's non-treaty exports of automotive goods to the United States in 2024 faced an average effective tariff of 1.4%. For non-automotive products the average effective tariff was only 0.2%, reads the central institution's report. In the absence of the T-MEC, it is estimated that the average tariff for total Mexican exports in 2024 would have been 3.2%, being on average higher for automotive exports (8.1%) than for non-automotive (3.4%). Photo art: Andrea Velázquez Estimates without T-MEC In the absence of the T-MEC, the average tariff for total Mexican exports in 2024 would be 3.2%; higher on average for automotive exports (8.1%) than for non-automotive exports (3.4%). In general, sectors that have faced relatively high MFN tariffs for the export of their products to the United States have tended to make more intensive use of the treaty. Banxico cites the example of trucks, which face a 25% MFN tariff, which has encouraged the creation of regional supply chains that have allowed almost all of these goods to be exported under the agreement. Cars and auto parts, on the other hand, face relatively low average MFN tariffs of 2.5% and 1.3%, respectively, so the cost of not complying with the rules of origin is lower. Thus, in 2024, 18% of the value of cars exported to the United States and 43% of auto parts were traded without using the Agreement. In the case of goods such as telephones, cell phones, computers and medical instruments, the MFN tariff is 0%, so exporting under the treaty does not confer a benefit in terms of tariff savings, while it would imply higher administrative costs and less flexibility to organize their supply chains."
+                    "text": "国际观察｜美关税政策重创日本汽车产业 新华社东京8月18日电 题：美关税政策重创日本汽车产业 新华社记者刘春燕 日本近期公布一系列宏观经济和行业企业二季度数据，显示美国政府高关税政策重创日本汽车产业，阻碍日本经济复苏。鉴于美关税对日本经济的负面影响日益凸显，日本产业乃至整体经济前景更趋悲观。 日本财务省公布的贸易统计数据显示，4月至6月，受美国政府关税政策的影响，日本对美出口连续3个月同比下降，且降幅呈现扩大之势。由于美国对从日本进口的汽车关税税率自4月3日起由原来的2.5%大幅提升至27.5%，6月日本对美汽车出口额锐减，同比下降26.7%。 据《日本经济新闻》报道，6月日本对美汽车出口降幅最大的是九州地区，出口量同比减少67.8%，出口额同比下降76.3%。报道指出，汽车产业是日本经济核心产业，辐射范围广泛，出口大降将波及零部件相关产业，对区域经济造成打击。 此间媒体和专家评论说，汽车及汽车零部件出口约占日本对美出口总额的三分之一，美国对汽车类产品加征25%关税对日本出口影响巨大。为了对冲关税政策影响，日本汽车制造商被迫采取降价策略，这势必挤压其盈利空间。 日本车企中马自达汽车公司和斯巴鲁公司对美国市场依赖度最高，受关税冲击也最为严重。马自达此前发表财报说，今年第二季度公司国内市场销量增长，但在最重要的美国市场销量下滑，从而导致公司当季归母净利润由去年同期的盈利498亿日元转为亏损421亿日元（1美元约合147日元）。 丰田汽车公司在美销量主要依靠当地生产，日本出口汽车仅占其在美销量的约两成。不过，作为全球最大车企之一的丰田体量庞大，2024年对美出口汽车50多万辆，同时丰田在美工厂的主要零部件依赖进口，因此美国对日本汽车和汽车零部件加征关税给丰田造成了巨大损失。 丰田日前发布财报说，受美国政府汽车关税政策影响，丰田本财年营业利润将减少1.4万亿日元，4月至6月间减少4500亿日元，预计本财年公司净利润同比将大幅下降约44%至2.66万亿日元。 日本内合府15日发表初步统计结果称，今年第二季度日本实际国内生产总值（GDP）环比增长0.3%，按年率计算增幅为1.0%。对此，日本经济再生大臣赤泽亮正表示，日本经济正在缓慢恢复，但需警惕美国关税政策带来的下行风险，尽最大努力缓解关税措施的影响。 日本生命基础研究所经济调查部部长斋藤太郎指出，日本车企采取「降价保出口」策略，以维持汽车出口。三菱日联研究与咨询公司首席研究员小林真一郎认为，二季度有不少出口商在8月份美国「对等关税」实施之前「抢出口」，令部分出口提前释放，助推二季度经济增长，但这会使未来经济增长受到影响。 普华永道咨询公司高级经济学家伊藤笃认为，日本车企「降价保出口」策略显著挤压利润空间，或将拖累日本实现工资与物价上涨的良性循环。 日本经济新闻社日前对10位民间经济学家的最新经济预测进行了调查。其中6位经济学家认为，三季度日本经济将陷入负增长。平均结果显示，由于美国关税政策对出口的影响将进一步显现，三季度出口下滑或将拖累实际GDP环比下降0.1%，按年率计算降幅为0.6%。 媒体和专家普遍认为，三季度起，美国关税政策对日本经济的负面影响会更加明显。日本第一生命经济研究所首席经济学家永滨利广表示，鉴于2018年美国总统特朗普第一任期加征关税导致当年第三季度起日本经济出现负增长并陷入衰退，各方对日本当前经济走势及风险仍需高度关注。 内合府认为，美国关税政策不仅将直接导致日本对美出口下降，其他国家对美国出口减少也将间接拖累日本，令日本对这些国家中间产品的出口减少。 内合府日前发表年中经济预测，将2025财年（2025年4月至2026年3月）实际经济增长预期由1月份的1.2%下调至0.7%，认为受美国关税政策及全球经济减速等因素影响，本财年个人消费、设备投资和出口增速都将放缓。（完）"
                 }
-            ]
+            ],
+            "publication_time": "2025-08-18T02:01:18.000Z"
         },
-        "id": "drn:archive.newsarticle.NAFTA00020250602el620002z",
-        "type": "content"
-    },
-    {
-        "meta": {
-            "original_doc_id": "TOI0000020250603el630008l",
-            "language": {
-                "code": "en"
-            },
-            "source": {
-                "code": "toi",
-                "name": "The Times of India"
-            }
-        },
-        "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.TOI0000020250603el630008l"
-        },
-        "attributes": {
-            "snippet": {
-                "content": [
-                    {
-                        "text": "India has formally requested consultations with the United States under the World Trade Organisation’s (WTO) Agreement on Safeguards, challenging recent American tariffs imposed on automobile parts.The move follows India’s earlier decision ..."
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "(c) 2025 The Times of India Group"
-            },
-            "content_type": "Article",
-            "load_time": "2025-06-03T13:36:48.834Z",
-            "modification_date": "2025-06-03",
-            "publication_date": "2025-06-03",
-            "load_date": "2025-06-03",
-            "byline": {
-                "text": "TOI Business Desk"
-            },
-            "headline": {
-                "main": {
-                    "text": "India invokes WTO mechanism to address US safeguard duties on auto components"
-                }
-            },
-            "modification_time": "2025-06-03T13:35:19.000Z",
-            "content": [
-                {
-                    "text": "India invokes WTO mechanism to address US safeguard duties on auto components India has formally requested consultations with the United States under the World Trade Organisation’s (WTO) Agreement on Safeguards, challenging recent American tariffs imposed on automobile parts.The move follows India’s earlier decision to reserve the right to impose retaliatory duties on select US goods in response to Washington’s tariffs on steel and aluminium.According to a communication sent by India to the WTO, the US on March 26, 2025, adopted a measure increasing tariffs by 25 per cent ad valorem on imports of passenger vehicles, light trucks, and certain auto components originating in or from India. These duties came into effect on May 3, 2025, and have been applied for an indefinite period, PTI reported.\"India considers that the measure, in its design and effect, constitutes a safeguard measure within the meaning of... GATT (General Agreement on Tariffs and Trade) 1994 and the Agreement on Safeguards, as it is intended to protect the US domestic industry from increased imports,\" the communication stated.India further noted that the United States failed to notify the WTO Committee on Safeguards about the decision to apply such measures, as required under the provisions of the Agreement on Safeguards (AoS).\"Accordingly, as an affected Member with significant export interest to the United States in the products concerned, India requests consultations with the United States,\" the communication added.India said it seeks to exchange views on the measure and its implications during the consultations.\"India looks forward to receiving a prompt reply to this request from the United States and to setting a mutually convenient date and venue for the... consultations,\" it said.India also reserved all its rights under the agreement establishing the WTO.In 2024, the United States imported auto parts worth USD 89 billion globally. Mexico was the top supplier at USD 36 billion, followed by China at USD 10.1 billion. India accounted for USD 2.2 billion of those imports. For Reprint Rights: timescontent.com"
-                }
-            ]
-        },
-        "id": "drn:archive.newsarticle.TOI0000020250603el630008l",
-        "type": "content"
-    },
-    {
-        "meta": {
-            "original_doc_id": "KORTIM0020250603el630000i",
-            "language": {
-                "code": "en"
-            },
-            "source": {
-                "code": "kortim",
-                "name": "Korea Times"
-            }
-        },
-        "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.KORTIM0020250603el630000i"
-        },
-        "attributes": {
-            "snippet": {
-                "content": [
-                    {
-                        "text": "The nation’s auto industry is trapped in a double whammy of drastic declining exports and a domestic consumption slump amid a prolonged leadership vacuum."
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "(c) 2025 Korea Times.  All rights reserved."
-            },
-            "content_type": "Article",
-            "load_time": "2025-06-03T14:52:54.892Z",
-            "modification_date": "2025-06-03",
-            "publication_date": "2025-06-03",
-            "load_date": "2025-06-03",
-            "headline": {
-                "main": {
-                    "text": "Carmakers face double whammy of export fall, domestic slump amid leadership vacuum"
-                }
-            },
-            "modification_time": "2025-06-03T14:51:07.000Z",
-            "content": [
-                {
-                    "text": "Carmakers face double whammy of export fall, domestic slump amid leadership vacuum The nation’s auto industry is trapped in a double whammy of drastic declining exports and a domestic consumption slump amid a prolonged leadership vacuum. The export decline is attributed to U.S. President Donald Trump’s 25 percent auto tariff, which is expected to cause serious earnings damage to Hyundai Motor, Kia and General Motors (GM) Korea. The weakening domestic consumption is also cited as another major risk for the major automakers. Data from four major carmakers — Hyundai Motor, Kia, KG Mobility and GM Korea — reported a drop in domestic sales in May. Hyundai Motor’s vehicle sales decreased 5.2 percent last month from a year earlier, while those of Kia also dropped by 2.4 percent during the same period. KG Mobility and GM Korea suffered even bigger declines, with sales falling 11 percent and 39.8 percent, respectively. Renault Korea was the only top-five carmaker to report a sales growth last month. This was triggered by the economy’s continuous exposure to weak demand. Despite the economic slump, Korea has in recent months failed to implement any preemptive policy measures, after former President Yoon Suk Yeol was impeached over his martial law declaration. Industry officials argue the chaotic political environment has further aggravated the economic downturn. “The incumbent government seems to have lost its steam when it comes to taking timely actions for the economy following the removal of Yoon from office,” an auto industry official said. “The next government is advised to focus more on reviving the economy to help major firms, including carmakers, achieve sustainable growth.” To make matters worse, the carmakers are faced with growing management uncertainties due to the escalating tariff pressure from the United States. Seoul and Washington held several rounds of trade talks to narrow their differences on a series of trade agendas, but the two sides have yet to reach any meaningful outcome. Korea’s top priority in its ongoing trade negotiations with the U.S. is to abolish the auto tariff, as cars are one of the nation's top two export items, along with semiconductors. Automakers expect the inauguration of the next president to help reduce the lingering tariff-related uncertainties, even if it still requires more time for the economy to achieve any meaningful recovery. However, the absence of any vehicle-related policies from the two major presidential candidates' campaign pledges still remains a concern, according to industry officials. Both Democratic Party of Korea candidate Lee Jae-myung and People Power Party candidate Kim Moon-soo have focused on expanding the supply of electric vehicles (EVs), but officials said this is not enough, as the industry is now struggling to overcome the EV chasm before their mass adoption. “The government should pay more attention to resolving the tariff risk rather than focusing on sharing any unrealistic populist policy drives in support of future mobility,” another industry official said."
-                }
-            ]
-        },
-        "id": "drn:archive.newsarticle.KORTIM0020250603el630000i",
+        "id": "drn:archive.newsarticle.XINCCN0020250818el8i000jh",
         "type": "content"
     }
 ]
