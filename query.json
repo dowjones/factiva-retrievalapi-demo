@@ -3,24 +3,20 @@
         "attributes": {
             "response_limit": 10,
             "query": {
-                "value": "Summarise tariff decisions by the US administration over the last few months and their impact on the automotive industry worldwide",
+                "value": "What is the long-term potetial impact in the share price of Amazon's outage on 19 October 2025?",
                 "search_filters": [
                     {
-                        "scope": "Language",
-                        "value": "en or es or it or zhcn or zhtw or de or fr"
-                    },
-                    {
-                        "scope": "Industry",
-                        "value": "IAUT"
+                        "scope": "Organization",
+                        "value": "AMZCOM"
                     }
                 ],
                 "date": {
-                    "days_range": "Last3Months"
+                    "days_range": "Last2Weeks"
                 }
             },
             "metrics_data": {
                 "user_id": "9cdbfc51d86b7de9136f77b69fa4e060",
-                "work_id": "fb2e9de7d1c3491cb2a2c3f619ac5bf4"
+                "work_id": "e623f3e22e9b4270953818d2527b4b90"
             }
         },
         "id": "GenAIRetrieval",

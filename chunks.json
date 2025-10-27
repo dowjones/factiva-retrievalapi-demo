@@ -1,24 +1,127 @@
 [
     {
         "meta": {
-            "original_doc_id": "DJDN000020250828el8s002vv",
+            "original_doc_id": "INVDAI0020251022elam0015p",
             "language": {
                 "code": "en"
             },
             "source": {
-                "code": "djdn",
-                "name": "Dow Jones Newswires",
-                "attribution_code": "DJDN2"
+                "code": "invdai",
+                "name": "Investor's Business Daily",
+                "attribution_code": "INVDAI2"
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020250828el8s002vv"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.INVDAI0020251022elam0015p"
         },
         "attributes": {
             "snippet": {
                 "content": [
                     {
-                        "text": "The European Union will move to eliminate all tariffs on U.S. industrial imports and expand access for American farm products, part of an effort to shield European automakers from steeper duties on their exports to the U.S."
+                        "text": "Amazon AMZN started off the week racing to fix a massive cloud outage that drove errors for users of apps from McDonald's MCD to Robinhood Markets HOOD. But you wouldn't have known it from looking at Amazon stock earlier this week. Despite ..."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "© 2025. Investor’s Business Daily, LLC All rights reserved"
+            },
+            "content_type": "Article",
+            "load_time": "2025-10-22T17:08:04.869Z",
+            "modification_date": "2025-10-22",
+            "publication_date": "2025-10-22",
+            "load_date": "2025-10-22",
+            "byline": {
+                "text": "By RYAN DEFFENBAUGH"
+            },
+            "headline": {
+                "main": {
+                    "text": "                           AWS Outage: Why Amazon Stock Didn't Take A Hit From Cloud Crash"
+                }
+            },
+            "modification_time": "2025-10-22T17:07:43.000Z",
+            "content": [
+                {
+                    "text": "stock was already underperforming the market coming into this week. Shares were hovering just below Amazon's 200-day moving average before Monday's gains. The stock is up just 1% overall this year, the worst performance among the mega-size tech stocks known as the Magnificent Seven. AWS had already been at the center of the debate around Amazon stock. Shares have mostly slumped since Amazon's Q2 report in late July. The report showed Amazon's cloud growth accelerated at a lesser rate compared to Microsoft MSFT and Google parent Alphabet GOOGL. That reignited concerns that Amazon is falling behind in attracting AI-related business, even as it remains the overall market leader for cloud infrastructure. What Outage Could Mean For AWS Competition Of course, the AWS outage also underlines some of the worries about the tech giant. Outages bring risks of both reputational and financial damage, D.A. Davidson analyst Gil Luria said. \"AWS has a refund guarantee for many customers that will get a refund for the day, which will be a small drag on the December quarter,\" Luria told IBD. \"It will also make life easier for Microsoft Azure and Google Cloud salespeople to sell against AWS for the near future.\" Still, Luria added that the \"financial impact will likely be small, and it is unlikely many existing customers will leave because of one outage, especially if they are given a refund, since switching costs is so high. Which is why shares have not reacted too negatively.\" The main trouble for Amazon originated from an issue with its DynamoDB database service, the company said on the AWS site. The damage was confined to its regional data centers in Virginia. But attempts to resolve the issue led to a range of other problems that left services hosted on AWS buggy for roughly 15 hours. The company said in its final update on the outage late Monday that all services had returned to normal by 6 p.m. Eastern time that day. The service health page for AWS reported no issues as of Wednesday. Amazon typically publishes larger reports on outages in the weeks following the event. Drivers For Amazon Stock Other Amazon news may have overshadowed the outage. The New York Times reported Tuesday that internal documents at Amazon show the company believes it can automate 75% of its operations using robotics. That report likely gave Amazon stock a boost. Robotics has the potential to drive $2 billion to $4 billion in annual savings for Amazon by 2027, analysts with Morgan Stanley said in a client note Wednesday. On Wednesday, Bloomberg also reported that Anthropic is pursuing a large cloud-computing deal with Google, which also could have impacted Amazon stock. Amazon's investment and partnership with Anthropic are a key part of its AI push. The next big test for Amazon comes next week. The tech giant will report third-quarter earnings results on Oct. 30. The big debate on Wall Street is whether Amazon's AWS year-over-year quarterly revenue growth will continue to accelerate to reach 20%. AWS growth has been hovering between 17% and 19% in recent quarters. \"Right now, the most important factors for Amazon's stock are the pace of AWS's recovery and growth, the margin expansion from AI-driven efficiencies, and the company's ability to convert those efficiencies into sustainable free cash flow,\" Malek said. Amazon's cloud growth is sure to be compared against rivals Microsoft and Google. Both of those companies are scheduled to report the day before Amazon. \"Consensus seems to think AWS is losing share to Google and Microsoft cloud offerings because they have access to Gemini and OpenAI — we will know in a week or two on earnings,\" Accuvest's Clark said. YOU MAY ALSO LIKE: Meta Stock Took A Hit After Red-Hot Run. Why These Analysts Remain Bullish. Top Growth Stocks To Buy And Watch Learn How To Time The Market With IBD's ETF Market Strategy Find The Best Long-Term Investments With IBD Long-Term Leaders AI Shopping Is About To Upend E-Commerce. What It Means for Amazon, Walmart, Meta, Google."
+                }
+            ],
+            "publication_time": "2025-10-22T17:05:00.000Z"
+        },
+        "id": "drn:archive.newsarticle.INVDAI0020251022elam0015p",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "INVDAI0020251024elao000k1",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "invdai",
+                "name": "Investor's Business Daily",
+                "attribution_code": "INVDAI2"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.INVDAI0020251024elao000k1"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "Wedbush analysts upped their price target on Amazon AMZN stock on Friday, saying they see the tech giant breaking out in 2026 after lagging the market for most of this year. Amazon reports third-quarter earnings next Thursday."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "© 2025. Investor’s Business Daily, LLC All rights reserved"
+            },
+            "content_type": "Article",
+            "load_time": "2025-10-24T14:39:29.133Z",
+            "modification_date": "2025-10-24",
+            "publication_date": "2025-10-24",
+            "load_date": "2025-10-24",
+            "byline": {
+                "text": "By RYAN DEFFENBAUGH"
+            },
+            "headline": {
+                "main": {
+                    "text": "                           Amazon Stock Nabs Analyst Price-Target Hike: 'Setting Up For Breakout In 2026'"
+                }
+            },
+            "modification_time": "2025-10-24T14:39:11.000Z",
+            "content": [
+                {
+                    "text": "Amazon Stock Nabs Analyst Price-Target Hike: 'Setting Up For Breakout In 2026' Wedbush analysts upped their price target on Amazon AMZN stock on Friday, saying they see the tech giant breaking out in 2026 after lagging the market for most of this year. Amazon reports third-quarter earnings next Thursday. Wedbush analyst Scott Devitt upped his price target for Amazon stock to 280 from 250. He reiterated an outperform call, while noting Amazon stock has struggled in recent months. Amazon stock is down about 5% from July 31, when it reported second-quarter results. Please watch the video at Investors.com - The 'Mag 5' Report: ​​What To Watch For In Apple, Amazon, Google, Meta And Microsoft Earnings \"Sentiment has eased following results last quarter, primarily reflecting disappointing AWS growth versus expectations,\" Devitt wrote to clients. \"While we understand the reaction, we do not believe the company's longer-term opportunity is impaired, and our thesis remains intact.\" AWS has a fast-growing cloud backlog and is investing significantly in capital expenditures to build data centers, Devitt noted. He added that he is seeing \"healthy trends\" for Amazon's core retail business and strong advertising demand. Devitt projects Amazon will post Q3 revenue growth of 12.9% to $179.37 billion, ahead of consensus estimates of $177.9 billion. He also highlighted some catalysts that could offset some of the more recent concerns about Amazon. The company is lowering its retails costs through automation and could soon begin monetizing its Project Kuiper satellite internet, Devitt said. There also market chatter that Amazon will increase its Prime subscription costs at some point next year. \"We believe there is upside to near-term expectations given the persistence of the underlying retail environment, continued fulfillment optimization, improvements in international retail margin, and an ongoing mix shift to higher-margin AWS and advertising revenues,\" Devitt wrote. Amazon Stock Forms Flat Base Pattern On the stock market today, Amazon is ahead roughly 1.5% at 224.53 in morning trading. The stock is ahead 4.5% overall this week. That would mark Amazon's first weekly gain in four weeks and it best overall performance since late June. That's despite the week starting with Amazon's massive cloud infrastructure business responding to a widespread outage. Still, Amazon stock's 1.8% year-to-date gain is underperforming the S&P 500. It has also been the worst performance among the mega-size tech stocks known as the Magnificent Seven. The Wedbush note exemplifies how Wall Street analysts have stayed mostly bullish on Amazon, despite its so-so year. Of the 74 analysts following Amazon stock, 72 have a buy or equivalent rating, according to FactSet. With its recent action, shares have formed a flat base pattern with a 238.85 buy point, according to IBD MarketSurge. YOU MAY ALSO LIKE: Meta Stock Ahead Fifth Straight Day Amid AI Job Cuts Report, $27 Billion Data Center Deal Top Growth Stocks To Buy And Watch Learn How To Time The Market With IBD's ETF Market Strategy Find The Best Long-Term Investments With IBD Long-Term Leaders IBM Stock Slides As Cloud Software Concerns Overshadow Beat-And-Raise Results"
+                }
+            ],
+            "publication_time": "2025-10-24T14:37:00.000Z"
+        },
+        "id": "drn:archive.newsarticle.INVDAI0020251024elao000k1",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "RTCNWT0020251021elal0003e",
+            "language": {
+                "code": "zhtw"
+            },
+            "source": {
+                "code": "rtcnwt",
+                "name": "道瓊斯中文通訊 (繁體)",
+                "attribution_code": "RTCNWT"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.RTCNWT0020251021elal0003e"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "\n\n  亞馬遜(Amazon.com Inc.)周一上午頗為不順，其云基礎設施業務服務中斷，導致多個主要應用程序和網站短暫癱瘓。 "
+                    },
+                    {
+                        "text": "\n\n  但亞馬遜的股價在周一開盤后不久小幅上漲，這表明投資者并未因亞馬遜云科技(Amazon Web Serv..."
                     }
                 ]
             },
@@ -26,32 +129,78 @@
                 "text": "Copyright © 2025, Dow Jones & Company, Inc."
             },
             "content_type": "Article",
-            "load_time": "2025-08-28T16:03:26.849Z",
-            "modification_date": "2025-08-28",
-            "publication_date": "2025-08-28",
-            "load_date": "2025-08-28",
-            "byline": {
-                "text": "By Joshua Kirby"
-            },
+            "load_time": "2025-10-21T03:31:42.613Z",
+            "modification_date": "2025-10-21",
+            "publication_date": "2025-10-21",
+            "load_date": "2025-10-21",
             "headline": {
                 "main": {
-                    "text": "E.U. to Scrap Duties on U.S. Industrial Goods as It Scrambles to Soften Auto Tariff Blow"
+                    "text": "MarketWatch：比起AWS中斷事故，對亞馬遜股價更關鍵的因素另有所在"
                 }
             },
-            "modification_time": "2025-08-28T16:03:07.000Z",
+            "modification_time": "2025-10-21T03:31:28.000Z",
             "content": [
                 {
-                    "text": "E.U. to Scrap Duties on U.S. Industrial Goods as It Scrambles to Soften Auto Tariff Blow The European Union will move to eliminate all tariffs on U.S. industrial imports and expand access for American farm products, part of an effort to shield European automakers from steeper duties on their exports to the U.S. The proposals follow a joint statement last week in which Brussels and Washington agreed to cut levies on European autos to 15% from a provisional rate of 27.5%. In return, the EU committed to lowering tariffs on a range of U.S. goods. \"These proposals are the first steps in that implementation and ensure tariff relief by the U.S. for the vital EU automotive sector starting retroactively from Aug. 1,\" the European Commission, the bloc's executive arm, said Thursday. That suggests the lower auto tariffs are expected to be backdated to the beginning of the month, shortly after the two sides struck a deal that will see a baseline 15% tariff applied to European exports to the U.S. EU trade chief Maros Sefcovic said last week that U.S. Commerce Secretary Howard Lutnick has assured European officials of the retroactive application. Higher U.S. duties have rattled Europe's auto industry, with manufacturers from Jeep maker Stellantis to luxury-car maker Porsche reporting sharp declines in recent sales. Under the EU's proposal, tariffs on U.S. industrial goods would be scrapped entirely, while American seafood and certain non-sensitive agricultural products would receive preferential access to the European market. A separate proposal would extend tariff-free treatment for U.S. lobster, including processed varieties of the shellfish. The measures will now go to other EU institutions for approval. \"These steps contribute to restoring stability and predictability in EU-U.S. trade and investment relations, the commission said. Write to Joshua Kirby at joshua.kirby@wsj.com; @joshualeokirby (END) Dow Jones Newswires August 28, 2025 12:02 ET (16:02 GMT)"
+                    "text": "MarketWatch：比起AWS中斷事故，對亞馬遜股價更關鍵的因素另有所在 亞馬遜(Amazon.com Inc.)周一上午頗為不順，其云基礎設施業務服務中斷，導致多個主要應用程序和網站短暫癱瘓。 但亞馬遜的股價在周一開盤后不久小幅上漲，這表明投資者并未因亞馬遜云科技(Amazon Web Services, 簡稱AWS)的服務中斷而感到過分困擾。 美東時間上午6:35，該公司報告稱“運營問題”已“充分緩解”，大部分AWS已恢復正常運行。 比AWS服務中斷更重要的是，亞馬遜的云部門能否重新加速增長，并擺脫其在AI競賽中落后于競爭對手的印象。投資者對AWS第二財季17.5%的增長率感到失望，而且亞馬遜的股價今年迄今已下跌近3%，2025年在“七雄”股票中表現墊底。 Bernstein分析師馬克·什穆利克(Mark Shmulik)相信，亞馬遜有能力扭轉AWS的局面，他在周一的一份報告中寫道，預計到今年年底前“AWS將出現強勁且明顯的加速”。 亞馬遜本月晚些時候即將發布第三財季財報。德意志銀行(Deutsche Bank)分析師李·霍洛維茨(Lee Horowitz)指出，亞馬遜股票的命運“完全取決于AWS”。霍洛維茨說，雖然亞馬遜今年一直受到產能方面的制約，但Project Rainier項目上線帶來的算力增加，將有助于推動AWS在本財季的增長率達到18%至19%的區間。 Project Rainier是亞馬遜的一項數據中心計劃，被視為AWS重新加速增長的關鍵。分析師預計，這一進展可能有助于緩解亞馬遜的一些算力限制，這些限制迄今已損害了AWS在現有AI工作負載市場中提升份額的能力。Jefferies分析師布倫特·蒂爾(Brent Thill)強調，許多數據中心是專門為Anthropic建造的，因為亞馬遜有望成為Anthropic的主要云合作伙伴。 霍洛維茨認為，Project Rainier帶來的勢頭可能為AWS在第四季度實現20%的增長鋪平道路——這一基準水平可能成為該業務一個意義重大的拐點。什穆利克預測，AWS將在2026年實現20.6%的增長。 在第三財季財報即將出爐之際，投資者情緒低迷，但蒂爾在周日的一份報告中寫道，即將發布的財報可能有助于改善AWS的前景，并可能幫助亞馬遜“追趕上其他大型科技股”。 此外，隨著AI工作負載從訓練轉向推理，什穆利克認為上行空間增加，尤其是在Anthropic不再使用Alphabet (GOOGL GOOG)旗下Google Cloud平台的情況下。 什穆利克還表示，隨著企業越來越多地采用AI，以及Anthropic的企業產品日益豐富，這應該也會使AWS從現有云客戶那里獲得更多收入。 什穆利克稱，到2027年，Rainier可能為AWS貢獻超過4%的收入。 霍洛維茨寫道，未來幾個季度亞馬遜需要克服的最大障礙是向投資者證明AWS沒有損失市場份額。要做到這一點，亞馬遜將需要獲取更多新增的AI云業務收入。 霍洛維茨相信，第三財季的財報將顯示AWS “重新在云生態系統中獲得額外收入，從而緩解外界對于AWS在AI領域注定會落后的擔憂”。 By Christine Ji 本文譯自MarketWatch 版權所有(c)2025道瓊斯公司。本文版權歸道瓊斯公司所有，未經許可不得翻譯或轉載。 (END) Dow Jones Newswires 21-10-25 0331GMT"
                 }
             ],
-            "publication_time": "2025-08-28T16:02:31.581Z"
+            "publication_time": "2025-10-21T03:31:25.169Z"
         },
-        "id": "drn:archive.newsarticle.DJDN000020250828el8s002vv",
+        "id": "drn:archive.newsarticle.RTCNWT0020251021elal0003e",
         "type": "content"
     },
     {
         "meta": {
-            "original_doc_id": "RTCNWS0020250828el8s000sb",
+            "original_doc_id": "STOWOD0020251027elar0002v",
+            "language": {
+                "code": "de"
+            },
+            "source": {
+                "code": "stowod",
+                "name": "stock-world.de",
+                "attribution_code": "STOWOD"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.STOWOD0020251027elar0002v"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "Amazon steht vor entscheidender Quartalsveröffentlichung nach schwerem AWS-Störfall. Analysten bleiben trotz Infrastrukturproblemen optimistisch und erhöhen Kursziele."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright 2025. DNV Media GmbH."
+            },
+            "content_type": "Article",
+            "load_time": "2025-10-27T03:31:30.445Z",
+            "modification_date": "2025-10-27",
+            "publication_date": "2025-10-27",
+            "load_date": "2025-10-27",
+            "byline": {
+                "text": "Dr. Robert Sasse"
+            },
+            "headline": {
+                "main": {
+                    "text": "Amazon Aktie: Schicksalswoche!"
+                }
+            },
+            "modification_time": "2025-10-27T03:30:43.000Z",
+            "content": [
+                {
+                    "text": "Amazon Aktie: Schicksalswoche! Amazon steht vor entscheidender Quartalsveröffentlichung nach schwerem AWS-Störfall. Analysten bleiben trotz Infrastrukturproblemen optimistisch und erhöhen Kursziele. Kurz zusammengefasst: * Massiver AWS-Ausfall legte Internetdienste lahm * Analysten erhöhen Kursziele trotz Störung * Quartalszahlen am 30. Oktober entscheidend * AWS-Performance im Fokus der Anleger Der E-Commerce-Riese steht vor einer der wichtigsten Wochen des Jahres. Während die Nachwehen eines massiven AWS-Ausfalls noch nachhallen, rückt ein entscheidender Termin immer näher: die Quartalszahlen am Donnerstag. Analysten zeigen sich optimistisch – doch reicht das nach dem jüngsten Infrastruktur-Chaos? AWS-Desaster erschüttert das Internet Am 20. Oktober erlebte Amazon Web Services den wohl folgenschwersten Ausfall seit Jahren. Ein DNS-Problem in der Region US-EAST-1 legte stundenlang Banking-Apps, Gaming-Plattformen und unzählige Websites lahm. Der Grund: ein Fehler bei DynamoDB, einem zentralen Cloud-Datenbankdienst. Tausende Nutzer meldeten Probleme mit Diensten, die auf AWS angewiesen sind. Die Tragweite des Vorfalls verdeutlichte einmal mehr, wie abhängig das moderne Internet von Amazons Cloud-Infrastruktur ist. Nach wenigen Stunden normalisierte sich der Betrieb wieder, doch die Nachwirkungen beschäftigten die Systeme noch länger. Analysten bleiben trotzdem bullish Trotz des Ausfalls zeigen sich Wall Street-Experten weiterhin optimistisch. Wedbush hob das Kursziel auf 280 Dollar an und bekräftigte das \"Outperform\"-Rating. Auch Stifel bleibt bei \"Buy\" und schraubte das Ziel auf 269 Dollar hoch. Die Argumente der Analysten: stabiler Konsum, wachsende AWS-Erlöse und ein profitableres E-Commerce-Geschäft. Besonders das Werbgeschäft und die beschleunigte Cloud-Expansion stehen im Fokus der Bewertungen. Donnerstag entscheidet über die Richtung Am 30. Oktober steht Amazon im Mittelpunkt einer kritischen Earnings-Woche für die \"Magnificent Seven\"-Aktien. Anleger erwarten Klarheit über die Wachstumsdynamik bei AWS und die Gesundheit des Kerngeschäfts. Die wichtigsten Kennzahlen: AWS-Performance, Werbeerlöse und die Profitabilität des Einzelhandels. Nach dem jüngsten Infrastruktur-Vorfall dürfte auch die operative Stabilität der Cloud-Sparte besonders unter die Lupe genommen werden. Klicken Sie, um das Bild zu sehen"
+                }
+            ]
+        },
+        "id": "drn:archive.newsarticle.STOWOD0020251027elar0002v",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "RTCNWS0020251021elal0003e",
             "language": {
                 "code": "zhcn"
             },
@@ -62,13 +211,16 @@
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.RTCNWS0020250828el8s000sb"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.RTCNWS0020251021elal0003e"
         },
         "attributes": {
             "snippet": {
                 "content": [
                     {
-                        "text": "\n\n  欧盟将采取行动，取消对美国工业品进口的所有关税，并扩大美国农产品的市场准入，此举旨在保护欧洲汽车制造商免受其对美出口产品被征收更高关税的影响。 "
+                        "text": "\n\n  亚马逊(Amazon.com Inc.)周一上午颇为不顺，其云基础设施业务服务中断，导致多个主要应用程序和网站短暂瘫痪。 "
+                    },
+                    {
+                        "text": "\n\n  但亚马逊的股价在周一开盘后不久小幅上涨，这表明投资者并未因亚马逊云科技(Amazon Web Serv..."
                     }
                 ]
             },
@@ -76,427 +228,273 @@
                 "text": "Copyright © 2025, Dow Jones & Company, Inc."
             },
             "content_type": "Article",
-            "load_time": "2025-08-28T16:10:12.709Z",
-            "modification_date": "2025-08-28",
-            "publication_date": "2025-08-28",
-            "load_date": "2025-08-28",
+            "load_time": "2025-10-21T03:31:42.427Z",
+            "modification_date": "2025-10-21",
+            "publication_date": "2025-10-21",
+            "load_date": "2025-10-21",
             "headline": {
                 "main": {
-                    "text": "欧盟将取消对美国工业产品的关税，努力减轻汽车关税带来的打击"
+                    "text": "MarketWatch：比起AWS中断事故，对亚马逊股价更关键的因素另有所在"
                 }
             },
-            "modification_time": "2025-08-28T16:09:42.000Z",
+            "modification_time": "2025-10-21T03:31:28.000Z",
             "content": [
                 {
-                    "text": "欧盟将取消对美国工业产品的关税，努力减轻汽车关税带来的打击 欧盟将采取行动，取消对美国工业品进口的所有关税，并扩大美国农产品的市场准入，此举旨在保护欧洲汽车制造商免受其对美出口产品被征收更高关税的影响。 这些提议是在布鲁塞尔和华盛顿方面上周发表联合声明之后提出的，双方在声明中同意将对欧洲汽车征收的关税从27.5%的临时税率下调至15%。作为回报，欧盟承诺降低对一系列美国商品的关税。 欧盟执行机构欧盟委员会周四表示：“这些提议是落实该协议的第一步，可确保美国为至关重要的欧盟汽车行业提供关税减免，并从8月1日起追溯生效。” 这表明，较低的汽车关税预计将追溯至本月初，即双方达成协议后不久。根据该协议，欧洲对美出口产品将被征收15%的基本关税。欧盟贸易专员马罗什?谢夫乔维奇(Maros Sefcovic)上周表示，美国商务部长霍华德?卢特尼克(Howard Lutnick)已向欧洲官员保证会追溯实施。 美国上调关税已对欧洲汽车行业造成冲击，从Jeep汽车制造商Stellantis到豪华车制造商保时捷(Porsche)等厂商均报告近期销量大幅下滑。 根据欧盟的提议，对美国工业品的关税将被完全取消，而美国海产品和某些非敏感农产品将获得进入欧洲市场的优惠准入。另一项提议将把对美国龙虾的免关税待遇扩大到包括该贝类产品的加工品种。 这些措施现在将提交给其他欧盟机构批准。 欧盟委员会表示：“这些举措有助于恢复欧盟与美国贸易和投资关系的稳定性和可预测性。” By Joshua Kirby; Write to Joshua Kirby at joshua.kirby@wsj.com; @joshualeokirby 版权所有(c)2025道琼斯公司。本文版权归道琼斯公司所有，未经许可不得翻译或转载。 (END) Dow Jones Newswires 28-08-25 1609GMT"
+                    "text": "MarketWatch：比起AWS中断事故，对亚马逊股价更关键的因素另有所在 亚马逊(Amazon.com Inc.)周一上午颇为不顺，其云基础设施业务服务中断，导致多个主要应用程序和网站短暂瘫痪。 但亚马逊的股价在周一开盘后不久小幅上涨，这表明投资者并未因亚马逊云科技(Amazon Web Services, 简称AWS)的服务中断而感到过分困扰。 美东时间上午6:35，该公司报告称“运营问题”已“充分缓解”，大部分AWS已恢复正常运行。 比AWS服务中断更重要的是，亚马逊的云部门能否重新加速增长，并摆脱其在AI竞赛中落后于竞争对手的印象。投资者对AWS第二财季17.5%的增长率感到失望，而且亚马逊的股价今年迄今已下跌近3%，2025年在“七雄”股票中表现垫底。 Bernstein分析师马克?什穆利克(Mark Shmulik)相信，亚马逊有能力扭转AWS的局面，他在周一的一份报告中写道，预计到今年年底前“AWS将出现强劲且明显的加速”。 亚马逊本月晚些时候即将发布第三财季财报。德意志银行(Deutsche Bank)分析师李?霍洛维茨(Lee Horowitz)指出，亚马逊股票的命运“完全取决于AWS”。霍洛维茨说，虽然亚马逊今年一直受到产能方面的制约，但Project Rainier项目上线带来的算力增加，将有助于推动AWS在本财季的增长率达到18%至19%的区间。 Project Rainier是亚马逊的一项数据中心计划，被视为AWS重新加速增长的关键。分析师预计，这一进展可能有助于缓解亚马逊的一些算力限制，这些限制迄今已损害了AWS在现有AI工作负载市场中提升份额的能力。Jefferies分析师布伦特?蒂尔(Brent Thill)强调，许多数据中心是专门为Anthropic建造的，因为亚马逊有望成为Anthropic的主要云合作伙伴。 霍洛维茨认为，Project Rainier带来的势头可能为AWS在第四季度实现20%的增长铺平道路??这一基准水平可能成为该业务一个意义重大的拐点。什穆利克预测，AWS将在2026年实现20.6%的增长。 在第三财季财报即将出炉之际，投资者情绪低迷，但蒂尔在周日的一份报告中写道，即将发布的财报可能有助于改善AWS的前景，并可能帮助亚马逊“追赶上其他大型科技股”。 此外，随著AI工作负载从训练转向推理，什穆利克认为上行空间增加，尤其是在Anthropic不再使用Alphabet (GOOGL GOOG)旗下Google Cloud平台的情况下。 什穆利克还表示，随著企业越来越多地采用AI，以及Anthropic的企业产品日益丰富，这应该也会使AWS从现有云客户那里获得更多收入。 什穆利克称，到2027年，Rainier可能为AWS贡献超过4%的收入。 霍洛维茨写道，未来几个季度亚马逊需要克服的最大障碍是向投资者证明AWS没有损失市场份额。要做到这一点，亚马逊将需要获取更多新增的AI云业务收入。 霍洛维茨相信，第三财季的财报将显示AWS “重新在云生态系统中获得额外收入，从而缓解外界对于AWS在AI领域注定会落后的担忧”。 By Christine Ji 本文译自MarketWatch 版权所有(c)2025道琼斯公司。本文版权归道琼斯公司所有，未经许可不得翻译或转载。 (END) Dow Jones Newswires 21-10-25 0331GMT"
                 }
             ],
-            "publication_time": "2025-08-28T16:09:37.085Z"
+            "publication_time": "2025-10-21T03:31:24.857Z"
         },
-        "id": "drn:archive.newsarticle.RTCNWS0020250828el8s000sb",
+        "id": "drn:archive.newsarticle.RTCNWS0020251021elal0003e",
         "type": "content"
     },
     {
         "meta": {
-            "original_doc_id": "BON0000020250827el8r00105",
+            "original_doc_id": "DJDN000020251021elal000zj",
             "language": {
                 "code": "en"
             },
             "source": {
-                "code": "bon",
-                "name": "Barron's Online",
-                "attribution_code": "BON2"
+                "code": "djdn",
+                "name": "Dow Jones Newswires",
+                "attribution_code": "DJDN2"
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.BON0000020250827el8r00105"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.DJDN000020251021elal000zj"
         },
         "attributes": {
             "snippet": {
                 "content": [
                     {
-                        "text": "The European Union is prepared to remove all tariffs on U.S. industrial imports to the bloc in exchange for lower vehicle levies on EU exports to the States, according to a Bloomberg report."
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "Copyright 2025 Dow Jones & Company, Inc. All Rights Reserved."
-            },
-            "content_type": "Article",
-            "load_time": "2025-08-27T16:14:13.835Z",
-            "modification_date": "2025-08-27",
-            "publication_date": "2025-08-27",
-            "load_date": "2025-08-27",
-            "byline": {
-                "text": "By Brian Swint"
-            },
-            "headline": {
-                "main": {
-                    "text": "Europe to Remove Duties on U.S. Industrial Goods to Get Lower Car Tariffs: Report"
-                }
-            },
-            "modification_time": "2025-08-27T16:13:58.000Z",
-            "content": [
-                {
-                    "text": "Europe to Remove Duties on U.S. Industrial Goods to Get Lower Car Tariffs: Report The European Union is prepared to remove all tariffs on U.S. industrial imports to the bloc in exchange for lower vehicle levies on EU exports to the States, according to a Bloomberg report. The European Commission, the executive arm of the EU which negotiates trade deals for its 27 member states, will get legislation through addressing industrial-goods tariffs by the end of the week, Bloomberg reported, citing people close to the matter. That would meet a key demand from President Donald Trump before his administration is willing to lower the rate that EU automakers face on cars sent to the U.S.—EU cars and parts are currently subject to a 27.5% U.S. tariff. Most goods are only subject to a 15% tax after the most recently negotiated trade deal, but Trump refused to apply that rate to cars until further demands were met. That could be good news for European brands like Porsche, BMW, Ferrari, and Volkswagen. While many European car makers already make cars within the U.S., the lighter import tax could have an impact on U.S. producers such as Ford, General Motors, and Stellantis. If the fast-tracked legislation gets through this month, then the 15% rate on European cars would be backdated to Aug. 1. Automobiles are one of Europe's biggest exports to the U.S. The EU will also give preferential tariff rates on some seafood and agriculture products, the Bloomberg report said. Trump has also railed against digital taxes on U.S. tech companies imposed by Europe but that doesn't appear to be a part of the deal. The EU Commission didn't immediately respond to a request for comment. Write to Brian Swint at brian.swint@barrons.com"
-                }
-            ],
-            "publication_time": "2025-08-27T11:49:00.000Z"
-        },
-        "id": "drn:archive.newsarticle.BON0000020250827el8r00105",
-        "type": "content"
-    },
-    {
-        "meta": {
-            "original_doc_id": "TOIDEL0020250828el8s00022",
-            "language": {
-                "code": "en"
-            },
-            "source": {
-                "code": "toidel",
-                "name": "The Times of India - Delhi Edition",
-                "attribution_code": "TOIDEL"
-            }
-        },
-        "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.TOIDEL0020250828el8s00022"
-        },
-        "attributes": {
-            "snippet": {
-                "content": [
-                    {
-                        "text": "Gurgaon: Manesar, one of the three main engines alongside Chennai and Pune of India's massive automobile sector, is bracing for impact as the 50% tariff regime comes into effect. But unlike garment exporters, the auto ancillary industry ..."
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "Copyright © 2025. Bennett, Coleman & Co., Ltd."
-            },
-            "content_type": "Article",
-            "load_time": "2025-08-28T04:54:51.458Z",
-            "modification_date": "2025-08-28",
-            "publication_date": "2025-08-28",
-            "load_date": "2025-08-28",
-            "byline": {
-                "text": "Bagish.Jha@timesofindia.com"
-            },
-            "headline": {
-                "main": {
-                    "text": "$80-bn automobile components industry looks for path to steer around Trump wall"
-                }
-            },
-            "modification_time": "2025-08-28T04:54:45.000Z",
-            "content": [
-                {
-                    "text": "$80-bn automobile components industry looks for path to steer around Trump wall Gurgaon: Manesar, one of the three main engines alongside Chennai and Pune of India's massive automobile sector, is bracing for impact as the 50% tariff regime comes into effect. But unlike garment exporters, the auto ancillary industry does not have to contend with a blanket 50% tariff, giving it some wiggle room. Jagdeep Rangar of Stork Rubber Product, which makes engine mounts, rubber bushes, high voltage polymer insulators, etc, said auto component exports to the US can be categorised into two parts - supplies to light trucks and passenger vehicles, which have a 27.5% tariff and will continue to be so, and components for marine, agriculture (like tractors), heavy trucks, heavy machines and cranes that face a 50% tariff. Though it's the latter that will take the bigger hit, sources said the impact will be felt across ancillaries because the same companies often manufacture parts in both categories. \"We are hoping to get some relief from govt, otherwise we will not be able to absorb the kind of discounts being demanded by buyers,\" said Rangar, adding finding new markets is not easy as developing a new product is a long process with a lead time of around two years. \"Auto components are not developed overnight. We have to invest in tooling, send samples for testing. There are many more steps before the product is fit for the market,\" said Rangar, describing the current situation as \"a flux\". Vinnie Mehta, director-general of Automotive Component Manufacturers Association of India(ACMA), said auto components exports to the US in 2024 stood at $6.6 billion. \"Of this, $3.5 billion worth of export will continue to be at 25%. This covers parts and components for cars and small trucks covered under US Proclamation 10908 dated March 26, 2025. This is about 55% of our export to the US. The remaining will attract a 50% tariff.\" India's automotive component industry is worth around $80 bn, out of which $23 bn is exports and the US share is around 8-9%, added Mehta. \"It is too early to comment on the gravity of the impact. EU is also a $7-billion market.\" Nitin G R, founder of auto accessories maker GrandPitstop, said the company is trying to find ways to overcome the shock. \"We are exploring ways to reach the US market with a lower tariff burden. Re-routing shipments through third countries is an option under consideration.\" An industry insider said many companies have already started work on diversifying their client base in other countries. \"Indian companies are looking to expand in the Middle East, Africa and Latin America.\" Shradha Suri Marwah, president of ACMA, said: \"While this development presents nearterm headwinds, it also underscores the importance of enhancingcompetitiveness, strengthening value addition, and exploring new markets.\""
-                }
-            ]
-        },
-        "id": "drn:archive.newsarticle.TOIDEL0020250828el8s00022",
-        "type": "content"
-    },
-    {
-        "meta": {
-            "original_doc_id": "XNEWS00020250826el8q00c9p",
-            "language": {
-                "code": "en"
-            },
-            "source": {
-                "code": "xnews",
-                "name": "Xinhua News Agency",
-                "attribution_code": "XNEWS3"
-            }
-        },
-        "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.XNEWS00020250826el8q00c9p"
-        },
-        "attributes": {
-            "snippet": {
-                "content": [
-                    {
-                        "text": "BERLIN, Aug. 26 (Xinhua) -- Germany's auto industry have cut more than 51,000 jobs over the past year as weak demand, U.S. tariffs and the costly shift to electric vehicles weighed heavily on the sector, according to a report by consultancy..."
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "Copyright 2025. Xinhua News Agency. All rights reserved."
-            },
-            "content_type": "Article",
-            "load_time": "2025-08-26T15:16:30.510Z",
-            "modification_date": "2025-08-26",
-            "publication_date": "2025-08-26",
-            "load_date": "2025-08-26",
-            "headline": {
-                "main": {
-                    "text": "German auto industry cuts over 51,000 jobs over U.S. tariff, weak demand: report"
-                }
-            },
-            "modification_time": "2025-08-26T15:16:11.000Z",
-            "content": [
-                {
-                    "text": "German auto industry cuts over 51,000 jobs over U.S. tariff, weak demand: report BERLIN, Aug. 26 (Xinhua) -- Germany's auto industry have cut more than 51,000 jobs over the past year as weak demand, U.S. tariffs and the costly shift to electric vehicles weighed heavily on the sector, according to a report by consultancy EY. Employment in the auto sector fell by nearly 7 percent over the 12 months to June, making it the hardest-hit branch of German industry, according to the report, quoted by the German press agency (dpa) on Tuesday. Across the broader industrial sector, headcount dropped by about 114,000 to 5.42 million, down 2.1 percent year-on-year. Actually, major automakers have reported significant profit declines. BMW, Mercedes-Benz and Volkswagen, Germany's three largest automakers, all reported steep profit declines in the first half of 2025, citing U.S. tariffs as a major drag on earnings. Hildegard Mueller, president of the German Association of the Automotive Industry (VDA), said the tariffs still impose billions of euros in added costs each year, a heavy burden as carmakers navigate the transition toward electrification. In 2024, Germany exported around 450,000 vehicles to the United States while German carmakers produced more than 840,000 vehicles at U.S. facilities, roughly half of which were exported globally, according to the VDA. This cross-border production model is particularly vulnerable to sudden policy changes. Macroeconomic indicators also signal weaker export momentum. The Ifo Institute has reported that export expectations in Germany deteriorated in August, falling to minus 3.6 points from minus 0.3 points in July. \"Disillusionment is spreading in export business,\" said Klaus Wohlrabe, head of Surveys at Ifo. \"Although a tariff rate of 15 percent from the U.S. is less than feared, it will nevertheless weaken export momentum.\" EY's Jan Brorhilker said \"Severe profit declines, overcapacity and weakening foreign markets are making substantial job cuts unavoidable, especially in Germany, where management, administration and R&D are concentrated.\" Since early 2024, several automakers and suppliers, including Ford, Stellantis, Volkswagen, ZF and Bosch, have announced layoffs or plant closures in Germany and other European countries. In addition, shrinking order books, along with rising energy and labor costs, are eroding the region's industrial competitiveness. According to the Ifo Institute, more than one-third of companies report a shortage of orders, with the auto, machinery, and electrical equipment sectors hit particularly hard. Enditem"
-                }
-            ],
-            "publication_time": "2025-08-26T15:15:53.000Z"
-        },
-        "id": "drn:archive.newsarticle.XNEWS00020250826el8q00c9p",
-        "type": "content"
-    },
-    {
-        "relationships": {
-            "included_content": {
-                "data": [
-                    {
-                        "id": "probj:archive.PPPORH2025080530037.88.5987|image.jpeg|tnail",
-                        "type": "Photo"
+                        "text": "Amazon Says Web Services Have Largely Been Restored By Jennifer Williams"
                     },
                     {
-                        "id": "probj:archive.PPPORH2025080530037.6075.2127|image.jpeg|fnail",
-                        "type": "Photo"
+                        "text": "Good morning, CFOs. Amazon Web Services outage disrupts retailers, airlines, financial-services companies and more; a second proxy advisory firm says Tesla investors ..."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "Copyright © 2025, Dow Jones & Company, Inc."
+            },
+            "content_type": "Article",
+            "load_time": "2025-10-21T11:04:31.834Z",
+            "modification_date": "2025-10-21",
+            "publication_date": "2025-10-21",
+            "load_date": "2025-10-21",
+            "headline": {
+                "main": {
+                    "text": "The Morning Ledger: Amazon Web Services Outage Could Cost Billions"
+                }
+            },
+            "modification_time": "2025-10-21T11:04:09.000Z",
+            "content": [
+                {
+                    "text": "The Morning Ledger: Amazon Web Services Outage Could Cost Billions Amazon Says Web Services Have Largely Been Restored By Jennifer Williams Good morning, CFOs. Amazon Web Services outage disrupts retailers, airlines, financial-services companies and more; a second proxy advisory firm says Tesla investors should reject Elon Musk's pay package; plus, Kering agrees to sell its beauty business to L'Oréal. Amazon Web Services said the massive internet outage that originated in its cloud-computing data centers has largely been fixed, more than 13 hours after an initial shutdown hit businesses big and small, WSJ's Robert McMillan and Gareth Vipers report. Sites and apps were down for millions of users on Monday, hit by a far-reaching and stubborn Amazon outage that disrupted retail sales, social-media services, financial services and other companies. As of 5:48 p.m. ET, Amazon had made significant progress toward \"pre-event levels\" of connectivity and expected to work through the bulk of its backlogged issues in the next two hours, the company said. Facebook, Snapchat and Amazon.com were unavailable for many users, with financial services Fidelity, Coinbase, Robinhood and Venmo also reporting disruptions. The outage hit communication tools such as Slack and Signal, some airlines including United Airlines, AI tool Perplexity and videogames including Fortnite and Roblox. The outage could cost billions in lost sales and cause disruption through supply-chain issues, according to Parcelhero, a home-delivery service. The Day Ahead Earnings 3M Coca-Cola General Motors Lockheed Martin Netflix Northrop Grumman Philip Morris International What Else Matters to CFOs A second proxy advisory firm has issued a recommendation that shareholders vote against Chief Executive Elon Musk's proposed pay package. Glass Lewis, which makes recommendations to investors on how they should vote on company proposals, has joined Institutional Shareholder Services in suggesting Tesla shareholders reject Musk's proposed $1 trillion compensation plan, Tesla said in a post on X on Monday. Kering to Sell Beauty Business to L'Oréal in $4.7 Billion Deal Molson Coors to Cut 9% of Americas Workforce in Restructuring Kenvue Urges FDA to Reject Request for Autism Warning on Tylenol How Oracle's Dual CEOs Will Co-Lead Its AI Makeover Customers Ditched Disney+, Hulu After Kimmel Suspension Cleveland-Cliffs Gets Steel-Tariff Boost, Looks to Rare-Earth Minerals How Sam Altman Tied Tech's Biggest Players to OpenAI ChatGPT Should Make Retailers Nervous Activist Starboard Takes Big Stake in Construction Firm Coinbase Strikes Deal for Crypto-Investing Platform Echo The WSJ CFO Council Where senior finance leaders confront today's expanding remit. Connect on capital, regulation, technology, and talent - and lead with clarity. Request Information. CFO Moves Lineage, the Novi, Mich.-based real-estate investment trust, has hired Robb LeMasters as its new chief financial officer, effective Nov. 10. LeMasters most recently served as chief financial officer of BWX Technologies, a supplier of nuclear components and products, which announced his departure in May, Lineage said. In June, Lineage said Rob Crisci, who has been the company's finance chief since April 2023, was planning to retire. -Colin Kellaher contributed to today's Ledger. About Us The Wall Street Journal's CFO Journal offers corporate leaders and professionals CFO analysis, advice and commentary to make informed decisions. We cover topics including corporate tax, accounting, regulation, capital markets, management and strategy. Follow us on X @WSJCFO . The WSJ CFO Journal Team comprises reporters Kristin Broughton , Mark Maurer and Jennifer Williams , and Bureau Chief Walden Siew . You can reach us by replying to any newsletter, or email Walden at [walden.siew@wsj.com]. This article is a text version of a Wall Street Journal newsletter published earlier today. (END) Dow Jones Newswires October 21, 2025 07:04 ET (11:04 GMT)"
+                }
+            ],
+            "publication_time": "2025-10-21T11:04:05.181Z"
+        },
+        "id": "drn:archive.newsarticle.DJDN000020251021elal000zj",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "TYNSP00020251022elam00061",
+            "language": {
+                "code": "es"
+            },
+            "source": {
+                "code": "tynsp",
+                "name": "TyN Magazine",
+                "attribution_code": "TYNSP"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.TYNSP00020251022elam00061"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "(Global) La mañana de hoy lunes 20 de octubre de 2025, buena parte de Internet se ha venido abajo tras una caída de AWS, la mayor plataforma de infraestructuras en la nube del mundo. En Estados Unidos ha sido imposible acceder a Amazon, ..."
+                    }
+                ]
+            },
+            "copyright": {
+                "text": "TyN Magazine © 2025"
+            },
+            "content_type": "Article",
+            "load_time": "2025-10-22T13:49:55.221Z",
+            "modification_date": "2025-10-22",
+            "publication_date": "2025-10-22",
+            "load_date": "2025-10-22",
+            "headline": {
+                "main": {
+                    "text": "La caída global de Amazon costará un total de cientos de miles de millones de dólares"
+                }
+            },
+            "modification_time": "2025-10-22T13:45:34.000Z",
+            "content": [
+                {
+                    "text": "La caída global de Amazon costará un total de cientos de miles de millones de dólares (Global) La mañana de hoy lunes 20 de octubre de 2025, buena parte de Internet se ha venido abajo tras una caída de AWS, la mayor plataforma de infraestructuras en la nube del mundo. En Estados Unidos ha sido imposible acceder a Amazon, Alexa, Prime Video, Crunchyroll, Canva, Perplexity y Duolingo, además de redes sociales como Snapchat o Goodreads y videojuegos tan populares como Fortnite, Roblox o Clash Royale. En Europa también se han registrado fallos de accesibilidad en numerosos servicios. “Esto pasa porque muchas piezas invisibles de Internet viven en AWS”, explica Hervé Lambert, Global Consumer Operation Manager de Panda Security. Según el experto, cuando una plataforma de este calibre falla “no se apaga solo un servidor, sino servicios básicos de los que dependen webs, apps y redes sociales, propios o de terceros”. Amazon afirma que sus servicios se están recuperando tras los problemas de conectividad que persistieron durante toda la mañana del lunes. Sin embargo, continúan los informes de problemas con AWS, la unidad de servicios de computación en la nube de Amazon. El problema parece provenir de un sistema diseñado para monitorear la carga de la red. Amazon indicó que recientemente tomó medidas adicionales para ayudar a que ese sistema se recupere. También indicó que está trabajando para permitir que las empresas creen nuevas instancias de su Elastic Compute Cloud (EC2), una máquina virtual que permite a los clientes crear aplicaciones basadas en la nube, la cual Amazon había limitado para ayudar a solucionar los problemas más generales. Mehdi Daoudi, CEO de la empresa de monitoreo del rendimiento de internet Catchpoint, estima que el impacto financiero total de la interrupción del servicio de AWS ascenderá a miles de millones de dólares. “El incidente pone de relieve la complejidad y la fragilidad de internet, así como la dependencia de internet para el funcionamiento de cada aspecto de nuestro trabajo”, declaró Daoudi a CNN. “El impacto financiero de esta interrupción alcanzará fácilmente los cientos de miles de millones de dólares debido a la pérdida de productividad de millones de trabajadores que no pueden realizar su trabajo, además de las operaciones comerciales que se detienen o retrasan, desde aerolíneas hasta fábricas”."
+                }
+            ]
+        },
+        "id": "drn:archive.newsarticle.TYNSP00020251022elam00061",
+        "type": "content"
+    },
+    {
+        "meta": {
+            "original_doc_id": "STOTWI0020251024elao0005y",
+            "language": {
+                "code": "en"
+            },
+            "source": {
+                "code": "stotwi",
+                "name": "Stocktwits",
+                "attribution_code": "STOTWI"
+            }
+        },
+        "links": {
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.STOTWI0020251024elao0005y"
+        },
+        "attributes": {
+            "snippet": {
+                "content": [
+                    {
+                        "text": "Latest news from Stocktwits"
                     },
                     {
-                        "id": "probj:archive.PPPORH2025080530037.8202.17823|image.jpeg|dispix",
-                        "type": "Photo"
+                        "text": "* KeyBanc initiated coverage on AMZN with an ‘Overweight’ rating and a $300 price target."
+                    },
+                    {
+                        "text": "* Stifel increased its price target to $269 from $260."
                     }
                 ]
-            }
+            },
+            "copyright": {
+                "text": "Copyright 2025. StockTwits, Inc."
+            },
+            "content_type": "Article",
+            "load_time": "2025-10-24T07:31:58.898Z",
+            "modification_date": "2025-10-24",
+            "publication_date": "2025-10-24",
+            "load_date": "2025-10-24",
+            "byline": {
+                "text": "Yuvraj Malik"
+            },
+            "headline": {
+                "main": {
+                    "text": "                           Amazon Stock Lands Bullish Calls From KeyBanc, Stifel Ahead Of Q3 Report: Retail Investors Await Promised Upswing"
+                }
+            },
+            "modification_time": "2025-10-24T07:30:19.000Z",
+            "content": [
+                {
+                    "text": "Amazon Stock Lands Bullish Calls From KeyBanc, Stifel Ahead Of Q3 Report: Retail Investors Await Promised Upswing Latest news from Stocktwits * KeyBanc initiated coverage on AMZN with an ‘Overweight’ rating and a $300 price target. * Stifel increased its price target to $269 from $260. * Amazon will report Q3 results on Oct. 30. KeyBanc on Thursday placed an ‘Overweight’ rating on Amazon.com, Inc.’s shares, while Stifel increased its price target on the stock – just ahead of the e-commerce and cloud giant’s earnings report next week. KeyBanc said investors drove the stock lower on pessimism over Amazon’s cloud business, creating an attractive entry point. The research firm initiated coverage with a $300 price target, adding that Amazon's current valuation multiple is \"well below historical levels.\" That implies a 36% upside to the stock’s last close. That’s the main debate among retail investors of late. Despite Amazon looking resilient on all fronts, the stock has failed to break out. It’s traded rangebound since the last earnings report and is up a mere 0.8% year-to-date, the worst run among the “Magnificent Seven” stocks. Earlier this week, Amazon made headlines after an outage in its cloud unit, Amazon Web Services, took down dozens of services like Gmail and Snapchat, and disrupted hundreds of businesses. Amazon will likely have to compensate affected customers, and more details of the incident might be revealed during the earnings. Stifel raised its target to $269 from $260, implying a 22% upside from the last close, and kept a ‘Buy’ rating. The firm noted stable trends in consumer prices and sales in the third quarter, while the expansion of same-day grocery delivery for Prime members may leave some upside for 2026. Currently, 67 of 69 analysts have a ‘Buy’ or higher rating, with the remaining advising ‘Hold,’ according to Koyfin data. AMZN sentiment and message volume as of October 24 | Source: Stocktwits On Stocktwits, the retail sentiment for AMZN has been ‘bearish,’ unchanged over the week. “$AMZN waiting and watching for the big run up,” a user said with the picture of a raccoon standing upright, summarizing the mood. For the third quarter, analysts expect Amazon's sales to rise 12% to $177.7 billion, while its EPS is expected to rise to $1.56 from $1.43 a year ago. For updates and corrections, email newsroom[at]stocktwits[dot]com. Read Next: Deckers Stock Tanks 12% After-Hours On Slowing Sales, Cautious Outlook — But Retail Eager To Buy The Dip The Amazon logo is displayed outside Amazon UK MAN8 Warehouse on January 30, 2025 in Haydock, United Kingdom. (Photo by Nathan Stirk/Getty Images)"
+                }
+            ]
         },
+        "id": "drn:archive.newsarticle.STOTWI0020251024elao0005y",
+        "type": "content"
+    },
+    {
         "meta": {
-            "original_doc_id": "J000000020250808el880001t",
+            "original_doc_id": "CMDATQ0020251024elal0000i",
             "language": {
                 "code": "en"
             },
             "source": {
-                "code": "j",
-                "name": "The Wall Street Journal",
-                "attribution_code": "J"
+                "code": "cmdatq",
+                "name": "Dataquest",
+                "attribution_code": "CMDATQ"
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.J000000020250808el880001t"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.CMDATQ0020251024elal0000i"
         },
         "attributes": {
             "snippet": {
                 "content": [
                     {
-                        "text": "President Trump's tariff war has inflicted almost $12 billion of losses on global automakers, the biggest hit they have faced since the pandemic. The scary reality: This may be just the beginning."
+                        "text": "In the event of a massive cloud service such as Amazon Web Services (AWS) outage, a good part of the internet is affected, and millions of people worldwide are affected. On 20th, October 2025, a massive outage happened in Amazon Web ..."
                     }
                 ]
             },
             "copyright": {
-                "text": "Copyright 2025 Dow Jones & Company, Inc. All Rights Reserved."
+                "text": "Copyright © 2025. CyberMedia."
             },
             "content_type": "Article",
-            "load_time": "2025-08-12T04:07:14.541Z",
-            "modification_date": "2025-08-08",
-            "publication_date": "2025-08-08",
-            "load_date": "2025-08-12",
+            "load_time": "2025-10-24T11:33:45.659Z",
+            "modification_date": "2025-10-24",
+            "publication_date": "2025-10-21",
+            "load_date": "2025-10-24",
             "byline": {
-                "text": "By Stephen Wilmot"
+                "text": "Preeti Anand"
             },
             "headline": {
                 "main": {
-                    "text": "Autos Take $12 Billion Hit From Trade War"
+                    "text": "                           Amazon Web Services disruption: What do you think will happen in case of a big cloud outage?"
                 }
             },
-            "modification_time": "2025-08-08T12:00:29.000Z",
+            "modification_time": "2025-10-24T11:31:07.000Z",
             "content": [
                 {
-                    "text": "Autos Take $12 Billion Hit From Trade War President Trump's tariff war has inflicted almost $12 billion of losses on global automakers, the biggest hit they have faced since the pandemic. The scary reality: This may be just the beginning. Beyond the continuing cost of tariffs, automakers in the U.S., Japan, South Korea and Europe face years of retooling and supply-chain tweaks to adjust to the new realities. This comes after they spent heavily to reshape factories for electric vehicles. The obvious responses to tariffs are to raise prices and move production to the U.S. But both are hard for carmakers to do quickly, potentially saddling them for years to come. Skeptics say the tariffs will change the industry only at the margins, with global automakers investing in the U.S. because of its healthy consumer economy, not its politics. Still, White House trade policy may be accelerating an industry trend toward making cars closer to where they are sold. The big auto markets of North America, Europe and China are increasingly divided by different regulations, technologies and consumer preferences, encouraging automakers to design and manufacture locally. \"The era with globalization and global cars, everything equal -- that I think we are going to leave and have a world a bit more regionalized,\" said Hakan Samuelsson, chief executive officer of Volvo Cars. Toyota on Thursday said steeper tariffs reduced its operating profit by around $3 billion -- the largest bill reported by an automaker to date. The total hit from higher import duties reported by the big listed players now stands at $11.8 billion, according to a Wall Street Journal tally. And the hits will keep coming: Toyota forecast tariffs will create a $9.5 billion burden through its fiscal year that ends next March, leading to an anticipated 44% decline in net profit. For the world's 10 largest automakers, not including those in China, net profit is forecast to fall by roughly a quarter this calendar year to its lowest level since 2020, when the pandemic led to cash-draining factory shutdowns. When President Trump announced his 25% auto tariff in March, many analysts assumed that carmakers would increase prices to recoup the cost. It hasn't happened yet: The incentives typically used to clear inventory have thinned out, but most carmakers haven't rolled out headline price increases. Manufacturers need to balance the urge to protect their margins against the risk of lower sales if they deter consumers -- or of becoming a social-media target. \"Nobody is in a rush to make a move before anyone else moves,\" Jefferies analyst Philippe Houchois said. \"They're all afraid of getting a nasty tweet from Trump.\" General Motors said it expects \"consistent pricing\" to offset around 10% of its tariff costs this year, which it estimates at $4 billion to $5 billion, the largest of any auto manufacturer after Toyota. \"At the end, it's about what will be the price that the customers will want the product at,\" Toyota Head of Finance Takanori Azuma said. The White House has also introduced policies that partly make up for the hit to profits, giving automakers further reasons to prolong the waiting game. Moves to unwind climate regulations spare Detroit the cost of increasing unprofitable EV sales or buying emissions credits -- at the expense of Tesla and Rivian, which profited from selling credits -- while giving the industry license to sell as many lucrative pickup trucks as it can. Ford said last week that it had already scaled back its purchases of regulatory credits by $1.5 billion. Trump's \"Big Beautiful Bill\" also allows many buyers of U.S.-made vehicles to deduct up to $10,000 in loan interest payments from their taxes, starting next year. The tariff response that Trump has made clear he wants to see from automakers is more U.S. production. Among the early responders, GM -- historically the top U.S. car importer -- is increasing production of its Chevrolet Silverado and GMC Sierra pickup trucks in Fort Wayne, Ind., and dialing down output in Canada. The company expects manufacturing adjustments to offset an additional 10th of its tariff costs for 2025."
+                    "text": "Amazon Web Services disruption: What do you think will happen in case of a big cloud outage? In the event of a massive cloud service such as Amazon Web Services (AWS) outage, a good part of the internet is affected, and millions of people worldwide are affected. On 20th, October 2025, a massive outage happened in Amazon Web Services (AWS) affecting an enormous number of websites, programs, and cloud services worldwide. The inattentive websites, applications, and online services based on the cloud infrastructure are either rendered unavailable or fall out. This may involve essential applications like banking applications, games, streaming applications, and devices in smart homes, as well as communication applications. The actual issue that causes such outages is usually a failure of some important pieces of the cloud, including a failure in software updates or the Domain Name system (DNS), the phone book of the internet that translates names of sites into IP addresses readable by computers. In case of DNS failure, applications will not be able to find the required servers and this will cause extensive connectivity issues. With major services such as databases failing, other cloud services and supporting online platforms fail as well, which impacts the internet ecosystem in a domino effect. During such incidents, the number of services affected at once could reach thousands, and this can cause inconveniences to the users and business inconveniences. October 2025 Amazon Web Services (AWS) Outage: Causes and impacts On 20th, October 2025, a massive outage happened in Amazon Web Services (AWS). The problem started at the main data center of AWS, the oldest and biggest of its data centers, in Virginia, where a technical update of DynamoDB, which is one of the major cloud-based data services of AWS, caused a DNS failure. The DNS system resembling the phone book of the internet did not find the API addresses of DynamoDB, and hundreds of platforms based on its data infrastructure were disconnected. This DNS crash triggered a domino of failures affecting at least 113 AWS services and resulting in outages on high-traffic apps like Snapchat, Pinterest, WhatsApp, Zoom, games like Fortnite and Roblox, fintech apps like Venmo, and smart devices like Amazon Alexa and Ring doorbells. This outage took several hours and was partially restored in the first three hours but a full restoration was not made until the initial fix, as the network cleared a backlog of service requests. David Linthicum, Chief Cloud Strategy Officer at Deloitte Consulting LLP posted \"The era of presumed hyperscaler invincibility is over,\" emphasising that organisations must adopt hybrid and multi-cloud strategies to enhance resilience amidst growing reliance on hyperscalers like AWS. Cloud failures: Uncommon but happen and cause havoc Cloud failures show the extent to which contemporary life relies on internet infrastructure. With placing orders online as well as finances or even business, one outage can bring whole industries to a ground until it is resolved. However, cloud vendors strive to address them fast and reduce downtime and recover services. Such failures are fairly uncommon, but they bring up the vulnerability of centralised cloud systems and the need for redundancy and rapidity in cloud architecture. The disruption has not necessarily driven companies such as AWS to lose their customers because the services are so massive and integrated. Users and businesses will have confidence in these providers to find solutions to the issues effectively and remain important in driving the digital world. The road ahead Although the disruption took place, AWS is a powerful force in the domain of cloud computing, whose services are deeply integrated and offered to users and companies, and it is unlikely that they could be switched to other providers in a short period. The outage is a lesson on the weakness of technology and the ongoing necessity of strong and hardy cloud infrastructure to sustain the digital ecosystem upon which business and daily lives worldwide rely."
                 }
             ]
         },
-        "id": "drn:archive.newsarticle.J000000020250808el880001t",
+        "id": "drn:archive.newsarticle.CMDATQ0020251024elal0000i",
         "type": "content"
     },
     {
         "meta": {
-            "original_doc_id": "HKEDCN0020250828el8t0001h",
-            "language": {
-                "code": "zhcn"
-            },
-            "source": {
-                "code": "hkedcn",
-                "name": "香港经济日报 (简体)",
-                "attribution_code": "HKEDCN"
-            }
-        },
-        "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.HKEDCN0020250828el8t0001h"
-        },
-        "attributes": {
-            "snippet": {
-                "content": [
-                    {
-                        "text": "　　有指欧盟将加快废除美国工业品关税的立法程序，希望换取美国同意8月起降低汽车关税。欧盟承认贸易协议有利美国，但强调带来的稳定及确定同样重要。"
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "Copyright 2025.  Hong Kong Economic Times.  All Rights Reserved. 香港经济日报版权所有， 不得转载 。"
-            },
-            "content_type": "Article",
-            "load_time": "2025-08-28T16:53:20.047Z",
-            "modification_date": "2025-08-28",
-            "publication_date": "2025-08-29",
-            "load_date": "2025-08-28",
-            "byline": {
-                "text": "吴汉培、郑锦玲"
-            },
-            "headline": {
-                "main": {
-                    "text": "欧对美工业品关税 拟加快废除立法; 冀换降汽车关税 认贸协利美国"
-                }
-            },
-            "modification_time": "2025-08-28T16:32:04.000Z",
-            "content": [
-                {
-                    "text": "欧对美工业品关税 拟加快废除立法; 冀换降汽车关税 认贸协利美国 有指欧盟将加快废除美国工业品关税的立法程序，希望换取美国同意8月起降低汽车关税。欧盟承认贸易协议有利美国，但强调带来的稳定及确定同样重要。 彭博社周三（27日）引述消息人士报道，欧盟寻求在本周加快废除美国所有工业制品关税的立法程序，满足美国总统特朗普（Donald Trump）的要求，争取华府同意汽车关税下调至15%，8月起生效。 欧盟早前与美国达成贸易协议，同意几乎所有商品进口美国的关税可降至15%，但特朗普表明汽车关税下降，只会在欧盟提出废除工业品及其他关税的立法程序后实行。据悉欧盟亦向指定美国海鲜及农产品，提供优惠关税。 现时欧洲汽车及零部件的美国关税达27.5%，如欧盟成功在8月底前提出相关立法程序，美方将欧洲汽车关税降至15%，追溯期可至8月1日。汽车业为欧盟对美国最重要的出口行业，单是德国去年已向美国出口的新车及零部件价值高达349亿美元（约2,719亿港元）。 欧盟委员会主席冯德莱恩（Ursula von der Leyen）亦罕有发文，解释美欧贸易协议。她指协议坚固，但不完美，而协议核心是终止跨大西洋彼岸劳费心力的争端，为欧洲企业重新带回稳定及可预测性。 强调稳定确定同样重要 冯德莱恩指出，欧盟的报复性关税将有触发成本高昂贸易战的风险，将对欧洲工人、消费者及各行各业产生负面影响。惟她表明，在任何升级情况下，唯一不变的是美国政府的不可预测性及高关税。 另一方面，美国白宫贸易顾问纳瓦罗（Peter Navarro）周三（27日）接受《彭博社》专访时，批评印度总理莫迪（Narendra Modi）正为俄罗斯战争机器提供资金，更形容俄乌战争为「莫迪战争」（Modi’s war），因在一定程度上必须先经过新德里，才能通往和平之路。 纳瓦罗指控，印度透过折扣价购买俄罗斯石油，是帮助俄罗斯并损害美国，而美国又要资助乌克兰。他表示，美国所有人因印度的行径蒙受损失，包括消费者、企业及工人。印度的高关税让美国失去职位、工厂、收入和更高薪酬，又要为「莫迪战争」提供资金，连美国纳税人也蒙受损失。 系列名: 鸣谢: 资料提供:"
-                }
-            ]
-        },
-        "id": "drn:archive.newsarticle.HKEDCN0020250828el8t0001h",
-        "type": "content"
-    },
-    {
-        "meta": {
-            "original_doc_id": "CIIDOS0020250828el8s0008i",
-            "language": {
-                "code": "zhcn"
-            },
-            "source": {
-                "code": "ciidos",
-                "name": "中国产经信息数据库 (简体)",
-                "attribution_code": "CIIDOS"
-            }
-        },
-        "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.CIIDOS0020250828el8s0008i"
-        },
-        "attributes": {
-            "snippet": {
-                "content": [
-                    {
-                        "text": "欧盟与美国日前发表联合声明，公布了双方在7月达成的新贸易协议的具体细节。然而，华轮威尔森(Wallenius Wilhelmsen)表示，汽车关税降低影响“微不足道，但积极”。"
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "Copyright CINIC. Beijing Buonuo Tiancheng Culture Development Co., Ltd."
-            },
-            "content_type": "Article",
-            "load_time": "2025-08-28T01:41:58.871Z",
-            "modification_date": "2025-08-28",
-            "publication_date": "2025-08-28",
-            "load_date": "2025-08-28",
-            "headline": {
-                "main": {
-                    "text": "华轮威尔森：汽车关税降低影响“微小，但积极”"
-                }
-            },
-            "modification_time": "2025-08-28T01:39:40.000Z",
-            "content": [
-                {
-                    "text": "华轮威尔森：汽车关税降低影响“微小，但积极” 欧盟与美国日前发表联合声明，公布了双方在7月达成的新贸易协议的具体细节。然而，华轮威尔森(Wallenius Wilhelmsen)表示，汽车关税降低影响“微不足道，但积极”。 具体而言，欧盟与美国在8月21日发表联合声明，公布了双方在7月达成的新贸易协议的具体细节。 美国将对汽车、药品、半导体和木材等大多数欧盟输美商品征收15%的关税。稀缺自然资源（如软木）、飞机及零部件、仿制药等得到豁免。 在公布与美国达成贸易协定的细节的同时，欧盟方面表示，未来将依据商定的框架和适用程序，与美国就一项公平、平衡且互利的贸易协定展开谈判。 Wallenius Wilhelmsen投资者关系与市场分析全球主管Anders Redigh Karlsen表示，美国已同意将从欧盟进口的汽车关税从27.5%降至15%，这将使汽车运输市场更具可预测性。 然而，对欧盟汽车征收15%的关税将不会生效，直到欧盟出台立法取消对美国商品的关税。 他指出，“现在的关税比去年高，现在就具体说明这可能对从欧洲到美国的汽车运输量产生什么影响还为时过早。” 他补充称，“然而，与最初宣布的关税相比，关税的下降尽管微小，但积极。达成框架协议达也提供了更多的可预测性。” 简言之，今年4月2日，即“解放日”，美国对进口乘用车和汽车零部件加征25%关税。此前的关税为2.5%。 尽管关税提高到27.5%，但Wallenius Wilhelmsen和挪威汽车船运营商礼诺航运（H?egh Autolines）都在二季度实现了强劲的业绩。 Wallenius Wilhelmsen表示，从亚洲到美国以外目的地的业务量大幅增加。另一方面，由于美国的关税，欧洲的出口量表现出克制和“观望”的态度。为了适应这一趋势，Wallenius Wilhelmsen已将运力从出口较弱的欧洲转移到中国出口市场。 特别值得一提的是，美国企业研究所高级经济学家瑞安·扬表示，美国最高法院很有可能在未来几个月推翻特朗普的全球关税，从而否定美国与欧盟贸易协定的部分内容。 他指出，这份协议的尴尬之处在于缺乏法律约束力。 “虽然每个人都希望关税能够保持稳定，但这项协议可能无法实现这一目标。”"
-                }
-            ]
-        },
-        "id": "drn:archive.newsarticle.CIIDOS0020250828el8s0008i",
-        "type": "content"
-    },
-    {
-        "meta": {
-            "original_doc_id": "BSNLNO0020250829el8t0005l",
+            "original_doc_id": "CMDATQ0020251022elal00003",
             "language": {
                 "code": "en"
             },
             "source": {
-                "code": "bsnlno",
-                "name": "BusinessLine Online",
-                "attribution_code": "BSNLNO"
+                "code": "cmdatq",
+                "name": "Dataquest",
+                "attribution_code": "CMDATQ"
             }
         },
         "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.BSNLNO0020250829el8t0005l"
+            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.CMDATQ0020251022elal00003"
         },
         "attributes": {
             "snippet": {
                 "content": [
                     {
-                        "text": "Industry leaders fear that the move could affect exports and disrupt operations, putting the livelihoods of nearly five lakh people engaged in the region's auto ecosystem at risk. Stakeholders are now urging both the State and Central ..."
+                        "text": "In the event of a massive cloud service such as Amazon Web Services (AWS) outage, a good part of the internet is affected, and millions of people worldwide are affected. On 20th, October 2025, a massive outage happened in Amazon Web ..."
                     }
                 ]
             },
             "copyright": {
-                "text": "© 2025 THG Publishing Pvt. Ltd."
+                "text": "Copyright © 2025. CyberMedia."
             },
             "content_type": "Article",
-            "load_time": "2025-08-29T04:39:30.439Z",
-            "modification_date": "2025-08-29",
-            "publication_date": "2025-08-29",
-            "load_date": "2025-08-29",
+            "load_time": "2025-10-22T11:33:36.627Z",
+            "modification_date": "2025-10-22",
+            "publication_date": "2025-10-21",
+            "load_date": "2025-10-22",
             "byline": {
-                "text": "Radheshyam Jadhav"
+                "text": "Preeti Anand"
             },
             "headline": {
                 "main": {
-                    "text": "Pune auto hub braces for Trump tariffs, seeks government relief"
+                    "text": "                           Amazon Web Services disruption: What do you think will happen in case of a big cloud outage?"
                 }
             },
-            "modification_time": "2025-08-29T04:39:10.000Z",
+            "modification_time": "2025-10-22T11:31:03.000Z",
             "content": [
                 {
-                    "text": "Pune auto hub braces for Trump tariffs, seeks government relief Industry leaders fear that the move could affect exports and disrupt operations, putting the livelihoods of nearly five lakh people engaged in the region's auto ecosystem at risk. Stakeholders are now urging both the State and Central governments to step in with supportive measures to help the industry navigate the challenge. Home to auto majors such as Tata Motors, Mahindra & Mahindra and Bajaj Auto, alongside global giants like Volkswagen and Mercedes, Pune is one of India's largest automobile clusters. Maharashtra alone accounts for 35.1 per cent of the country's automobile output by value. The Pimpri-Chinchwad belt, at the heart of this hub, houses over 4,000 manufacturing and ancillary units that keep the supply chain running. Industry associations are assessing the extent of the tariff's fallout. \"We are gauging the impact US tariffs will have on industries in the region. We have been in discussion with all stakeholders, and we are confident industries will emerge stronger through this challenge,\" said Prashant Girbane, Director General of the Mahratta Chamber of Commerce, Industries and Agriculture (MCCIA). According to him, the forging sector within auto components is expected to be among the worst hit. The US market, once a major consumer of Indian forging products, may turn to Mexico and other suppliers. By contrast, the IT and IT-enabled services (ITES) sector has not yet reported any immediate impact. Industrialists are calling for urgent policy interventions to maintain competitiveness. A reduction in power tariffs, they argue, would help lower production costs and sustain the export competitiveness of Indian engineering goods in the global market. Micro, Small and Medium Enterprises (MSME) Federation is particularly anxious, warning that export declines could strain smaller players. It has urged the government to actively support diversification of markets, especially in Germany, Russia and other potential destinations, to offset the US shortfall. The stakes are high, given Maharashtra's significant role in India's automobile exports. The State contributes 49 per cent of the country's two- and three-wheeler exports, 27.4 per cent of motor vehicle and car exports, 22.3 per cent of auto components and parts and 11.6 per cent of auto tyres and tubes. Any disruption to this export engine could ripple through the economy. As the Pune auto cluster awaits clarity on the full scope of tariff impact, the industry's collective hope rests on swift government action to protect jobs, sustain manufacturing and open new global markets."
+                    "text": "Amazon Web Services disruption: What do you think will happen in case of a big cloud outage? In the event of a massive cloud service such as Amazon Web Services (AWS) outage, a good part of the internet is affected, and millions of people worldwide are affected. On 20th, October 2025, a massive outage happened in Amazon Web Services (AWS) affecting an enormous number of websites, programs, and cloud services worldwide. The inattentive websites, applications, and online services based on the cloud infrastructure are either rendered unavailable or fall out. This may involve essential applications like banking applications, games, streaming applications, and devices in smart homes, as well as communication applications. The actual issue that causes such outages is usually a failure of some important pieces of the cloud, including a failure in software updates or the Domain Name system (DNS), the phone book of the internet that translates names of sites into IP addresses readable by computers. In case of DNS failure, applications will not be able to find the required servers and this will cause extensive connectivity issues. With major services such as databases failing, other cloud services and supporting online platforms fail as well, which impacts the internet ecosystem in a domino effect. During such incidents, the number of services affected at once could reach thousands, and this can cause inconveniences to the users and business inconveniences. October 2025 Amazon Web Services (AWS) Outage: Causes and impacts On 20th, October 2025, a massive outage happened in Amazon Web Services (AWS). The problem started at the main data center of AWS, the oldest and biggest of its data centers, in Virginia, where a technical update of DynamoDB, which is one of the major cloud-based data services of AWS, caused a DNS failure. The DNS system resembling the phone book of the internet did not find the API addresses of DynamoDB, and hundreds of platforms based on its data infrastructure were disconnected. This DNS crash triggered a domino of failures affecting at least 113 AWS services and resulting in outages on high-traffic apps like Snapchat, Pinterest, WhatsApp, Zoom, games like Fortnite and Roblox, fintech apps like Venmo, and smart devices like Amazon Alexa and Ring doorbells. This outage took several hours and was partially restored in the first three hours but a full restoration was not made until the initial fix, as the network cleared a backlog of service requests. David Linthicum, Chief Cloud Strategy Officer at Deloitte Consulting LLP posted \"The era of presumed hyperscaler invincibility is over,\" emphasising that organisations must adopt hybrid and multi-cloud strategies to enhance resilience amidst growing reliance on hyperscalers like AWS. Cloud failures: Uncommon but happen and cause havoc Cloud failures show the extent to which contemporary life relies on internet infrastructure. With placing orders online as well as finances or even business, one outage can bring whole industries to a ground until it is resolved. However, cloud vendors strive to address them fast and reduce downtime and recover services. Such failures are fairly uncommon, but they bring up the vulnerability of centralised cloud systems and the need for redundancy and rapidity in cloud architecture. The disruption has not necessarily driven companies such as AWS to lose their customers because the services are so massive and integrated. Users and businesses will have confidence in these providers to find solutions to the issues effectively and remain important in driving the digital world. The road ahead Although the disruption took place, AWS is a powerful force in the domain of cloud computing, whose services are deeply integrated and offered to users and companies, and it is unlikely that they could be switched to other providers in a short period. The outage is a lesson on the weakness of technology and the ongoing necessity of strong and hardy cloud infrastructure to sustain the digital ecosystem upon which business and daily lives worldwide rely."
                 }
             ]
         },
-        "id": "drn:archive.newsarticle.BSNLNO0020250829el8t0005l",
-        "type": "content"
-    },
-    {
-        "meta": {
-            "original_doc_id": "NFINCE0020250830el8u001uh",
-            "language": {
-                "code": "en"
-            },
-            "source": {
-                "code": "nfince",
-                "name": "CE NoticiasFinancieras",
-                "attribution_code": "NFINCE2"
-            }
-        },
-        "links": {
-            "self": "https://api.dowjones.com/content/drn:archive.newsarticle.NFINCE0020250830el8u001uh"
-        },
-        "attributes": {
-            "snippet": {
-                "content": [
-                    {
-                        "text": "As the saying goes, all's fair in troubled waters, but the truth is that in the automotive sector, few have come out on top in the first half of 2025. The first six months of the year have been marked by an all-out battle in China to stoke ..."
-                    }
-                ]
-            },
-            "copyright": {
-                "text": "Copyright © Content Engine LLC"
-            },
-            "content_type": "Article",
-            "load_time": "2025-08-30T04:24:11.943Z",
-            "modification_date": "2025-08-30",
-            "publication_date": "2025-08-30",
-            "load_date": "2025-08-30",
-            "headline": {
-                "main": {
-                    "text": "Stiff competition and Trump's tariffs sink global auto accounts"
-                }
-            },
-            "modification_time": "2025-08-30T04:23:56.000Z",
-            "content": [
-                {
-                    "text": "Stiff competition and Trump's tariffs sink global auto accounts As the saying goes, all's fair in troubled waters, but the truth is that in the automotive sector, few have come out on top in the first half of 2025. The first six months of the year have been marked by an all-out battle in China to stoke demand with aggressive discounting, the arrival on the scene of U.S. President Donald Trump's tariffs, and a race to dominate the electric vehicle that is not letting up. Of these three elements, the most disruptive has been the tariff, both because it was unexpected and because it has altered the foundations of an interconnected value chain that involves companies from several countries in the production of each car. The tariffs on European cars affect above all the German automobile industry, which sells a lot to the United States with brands such as Volkswagen, Audi, Mercedes-Benz and Porsche, but also indirectly affects countries such as Spain, which, although it does not sell complete vehicles to the United States, does make parts for German factories. As was foreseeable, the US tariffs, which for the time being remain at 27.5% -although Europe has already set in motion the necessary legislative process to withdraw a large part of the duties on US industrial products, an essential step for the US to reduce the tax on European cars to 15%-, has wrecked the profit and loss accounts of the German car manufacturers. Volkswagen, the world's second largest car manufacturer and Europe's largest, suffered a negative impact of 1.3 billion euros on its accounts due to the tariffs. Its net profit plummeted by 36.6% between January and June, to 4,005 million euros, a figure that compares with a 2024 that had already been bad in itself. Volkswagen is thus moving further and further away from Toyota, which holds firm as the world's most profitable automaker, with 1.5 trillion yen in net profit between January and June, comprising the fourth quarter of its previous fiscal year and the first quarter of the current one (the Japanese fiscal year began in April). That amount, which translates to some 8.75 billion euros, is 35.4% lower than the same period last year. Toyota, however, has taken an even bigger hit than Volkswagen because of Trump's tariffs. As the company reported in early August, the new duties will cost it 1.4 billion yen this fiscal year, i.e. the approximate profit of an entire quarter. The other representatives of the engine of the land of the rising sun have also suffered the impact of the tariffs, such as Honda, which reduced its net profit by 64% to 0.227 trillion yen, about 1,322 million euros at the current exchange rate. In an attempt to control damages, the Asian firm announced in April that it will transfer production of the Honda Civic hybrid from Japan to the USA, a model in great demand in the North American market. The car and motorcycle manufacturer made automotive headlines between late 2024 and early this year for its negotiations with Nissan and Mitsubishi to create what would have been the world's third largest automaker. However, the talks ran aground due to Nissan's refusal to agree to become another Honda brand, when what it wanted was a merger between equals. The truth is that Nissan, which changed its CEO on April 1 with the appointment of Mexican Iván Espinosa, went into the negotiations in a critical situation, which left it with few options: between January and June alone it lost 0.791 billion yen, some 4,613 million euros. The red numbers were particularly large between January and March, when it lost 0.67 billion yen."
-                }
-            ]
-        },
-        "id": "drn:archive.newsarticle.NFINCE0020250830el8u001uh",
+        "id": "drn:archive.newsarticle.CMDATQ0020251022elal00003",
         "type": "content"
     }
 ]
